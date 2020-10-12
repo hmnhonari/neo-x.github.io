@@ -42,6 +42,7 @@ permalink: /people/
     name="Simon Guiroy"
     url="https://simonguiroy.github.io/"
     cosupervisor="Chris Pal"
+    research="Meta-Learning, Transfer Learning"
 %}
 </li>
 <li>
@@ -111,7 +112,7 @@ permalink: /people/
 {% include person.html
     src=""
     name="Mojtaba Faramarzi"
-    url=""
+    url="https://bemova.github.io/"
     research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
 %}
 </li>
