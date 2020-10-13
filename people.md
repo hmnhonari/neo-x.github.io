@@ -49,8 +49,9 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/louis-clouatre.jpeg"
     name="Louis Clouatre"
-    url=""
+    url="https://luee-c.github.io/"
     cosupervisor="Amal Zouaq"
+    research="NLP and sequential information"
 %}
 </li>
 <li>
@@ -154,11 +155,6 @@ permalink: /people/
 </li>
 </ul>
 
-# External Collaborators
-Sanket Vaibhav Mehta  
-‪Akilesh Badrinaaraayanan‬  
-Prasanna Parthasarathi  
-Pranshu?  
 
 # Alumni
 

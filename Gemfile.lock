@@ -265,6 +265,7 @@ DEPENDENCIES
   bootstrap-sass
   github-pages (~> 207)
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
