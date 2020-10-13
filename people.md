@@ -157,4 +157,4 @@ permalink: /people/
 # Alumni
 
 **Interns**:  
-Evan Racah
+0. Evan Racah (Jan 2020 - Jun 2020)
