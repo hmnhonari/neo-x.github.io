@@ -13,8 +13,6 @@ permalink: /people/
 </style> -->
 
 # Principal Investigator
-<!-- ![](/assets/images/bios/sarath-chandar.jpeg){:height="125px"}  
-[Sarath Chandar](http://sarathchandar.in/) -->
 <link rel="stylesheet" type="style/css" href="/assets/css/style.css">
 
 <ul class='people'>

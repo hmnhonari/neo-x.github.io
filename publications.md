@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Preprints
+## Preprints
 * **Maximum Reward Formulation In Reinforcement Learning.**  
 Sai Krishna Gottipati, Yashaswi Pathak, Rohan Nuttall, Raviteja Chunduru, Ahmed Touati, Sriram Ganapathi Subramanian, Matthew E Taylor, Sarath Chandar.  
 In arXiv, 2020.  
@@ -26,16 +26,17 @@ In arXiv, 2020.
 \[[arXiv](https://arxiv.org/abs/2006.07794)\], \[[code](https://github.com/chandar-lab/PatchUp)\]  
 
 
+## Conference and Journal Papers
 # 2020
 0. **The LoCA Regret: A Consistent Metric to Evaluate Model-Based Behavior in Reinforcement Learning.**  
 Harm van Seijen, Hadi Nekoei, Evan Racah, Sarath Chandar.  
-Neural Information Processing Systems (NeurIPS)\], 2020.  
+Neural Information Processing Systems (NeurIPS), 2020.  
 \[[arXiv](https://arxiv.org/abs/2007.03158)\], \[[code](https://github.com/chandar-lab/LoCA)\]
 
 0. **Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning.**  
 Sai Krishna Gottipati*, Boris Sattarov*, Sufeng Niu, Yashaswi Pathak, Haoran Wei, Shengchao Liu, Karam MJ Thomas,  
 Simon Blackburn, Connor W Coley, Jian Tang, Sarath Chandar, Yoshua Bengio.  
-International Conference on Machine Learning (ICML)\], 2020.  
+International Conference on Machine Learning (ICML), 2020.  
 \[[arXiv](https://arxiv.org/abs/2004.12485)\]
 {: reversed="reversed"}
 
