@@ -109,7 +109,7 @@ permalink: /people/
 </li>
 <li>
 {% include person.html
-    src=""
+    src="/assets/images/bios/mojtaba-faramarzi.png"
     name="Mojtaba Faramarzi"
     url="https://bemova.github.io/"
     research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"

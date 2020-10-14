@@ -32,8 +32,8 @@ You should also have strong Python programming skills. Some of these skill requi
 
 # Ph.D./Masters Students
 * Next batch of Ph.D. and Masters admissions will be for Fall 2021.
-* If you are interested in working with me, you should submit your application to [Mila](https://mila.quebec/en/cours/admission/) before December 15, 2020. I will only take a look at the applications which mention me as a potential adviser.
-* If you get shortlisted for an interview, you are required to submit an application to [Polytechnique Montreal]() (with my name). Please note that this application submission does not guarantee admission. Your admission is only based on your performance in the interview. Applying to Poly before the interview is to avoid the possibility of future admission/visa delays.
+* If you are interested in working with me, you should submit your [application to Mila](https://mila.quebec/en/cours/admission/) before December 15, 2020. I will only take a look at the applications which mention me as a potential adviser.
+* If you get shortlisted for an interview, you are required to submit an application to Polytechnique Montreal (with my name). Please note that this application submission does not guarantee admission. Your admission is only based on your performance in the interview. Applying to Poly before the interview is to avoid the possibility of future admission/visa delays.
 
 # Current Students at Poly and UdeM
 * If you are already a student (undergrad, Masters, Ph.D.) at Poly or UdeM and want me to be your adviser, email me with your detailed CV, all the transcript copies, and a summary of your research interests.
