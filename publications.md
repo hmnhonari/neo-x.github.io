@@ -34,7 +34,7 @@ Neural Information Processing Systems (NeurIPS), 2020.
 \[[arXiv](https://arxiv.org/abs/2007.03158)\], \[[code](https://github.com/chandar-lab/LoCA)\]
 
 0. **Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning.**  
-Sai Krishna Gottipati*, Boris Sattarov*, Sufeng Niu, Yashaswi Pathak, Haoran Wei, Shengchao Liu, Karam MJ Thomas,  
+Sai Krishna Gottipati*, Boris Sattarov*, Sufeng Niu, Yashaswi Pathak, Haoran Wei, Shengchao Liu, Karam MJ Thomas,
 Simon Blackburn, Connor W Coley, Jian Tang, Sarath Chandar, Yoshua Bengio.  
 International Conference on Machine Learning (ICML), 2020.  
 \[[arXiv](https://arxiv.org/abs/2004.12485)\]
