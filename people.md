@@ -146,8 +146,8 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/sam-finstone.jpeg"
-    name="Sam Finstone"
-    url="" 
+    name="Sam Finestone"
+    url="https://sam-finestone.github.io/" 
     research="Dialogue generation, Structured representation for language generation"
 %}
 </li>
