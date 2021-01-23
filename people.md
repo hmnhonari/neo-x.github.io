@@ -166,7 +166,5 @@ permalink: /people/
 # Alumni
 
 **Interns**:  
-0. Evan Racah (January 2020 - June 2020)
-    - Waymo
-1. [Sam Finestone](https://sam-finestone.github.io/) (June 2020 - December 2020)
-    - McGill
+0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- Back to McGill University
+1. Evan Racah (Jan 2020 - Jun 2020) -- Waymo
