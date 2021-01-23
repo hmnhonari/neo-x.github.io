@@ -115,6 +115,23 @@ permalink: /people/
     research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
+    name="Ali Rahimi-Kalahroudi"
+    url="http://ali-gtw.github.io/" 
+    research="Deep Reinforcement Learning, Continual Learning"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/pranshu-malviya.jpeg"
+    name="Pranshu Malviya"
+    cosupervisor="Balaraman Ravindran"
+    url="http://pranshu28.github.io/" 
+    research="Lifelong Learning, Causal Inference, Optimization"
+%}
+</li>
 </ul>
 
 # Interns/RAs
@@ -143,18 +160,13 @@ permalink: /people/
     research="Optimization, RNNs"
 %}
 </li>
-<li>
-{% include person.html
-    src="/assets/images/bios/sam-finstone.jpeg"
-    name="Sam Finestone"
-    url="https://sam-finestone.github.io/" 
-    research="Dialogue generation, Structured representation for language generation"
-%}
-</li>
 </ul>
 
 
 # Alumni
 
 **Interns**:  
-0. Evan Racah (Jan 2020 - Jun 2020)
+0. Evan Racah (January 2020 - June 2020)
+    - Waymo
+1. [Sam Finestone](https://sam-finestone.github.io/) (June 2020 - December 2020)
+    - McGill
