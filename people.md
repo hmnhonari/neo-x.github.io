@@ -120,7 +120,7 @@ permalink: /people/
     src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
     name="Ali Rahimi-Kalahroudi"
     url="http://ali-gtw.github.io/" 
-    research="Deep Reinforcement Learning, Continual Learning"
+    research="Deep Reinforcement Learning, Lifelong Learning"
 %}
 </li>
 <li>
