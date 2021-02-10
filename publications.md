@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 ## Preprints
+* **IIRC: Incremental Implicitly-Refined Classification.**
+Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar.  
+In arXiv, 2020.  
+\[[arXiv](https://arxiv.org/abs/2012.12477)\], \[[code](https://github.com/chandar-lab/IIRC)\], \[[website](https://chandar-lab.github.io/IIRC/)\], \[[PyPI](https://pypi.org/project/iirc/)\], \[[docs](https://iirc.readthedocs.io/en/latest/)\]
+
 * **Maximum Reward Formulation In Reinforcement Learning.**  
 Sai Krishna Gottipati, Yashaswi Pathak, Rohan Nuttall, Raviteja Chunduru, Ahmed Touati, Sriram Ganapathi Subramanian, Matthew E Taylor, Sarath Chandar.  
 In arXiv, 2020.  
