@@ -1,8 +1,23 @@
 <head>
+    {% capture title %}{% t site.title %} {% endcapture %}
+    {% if page.title != "" %}
+        {% capture page_title %}{% t page.title %} | {{ title }}{% endcapture %}
+        {% assign title = page_title %}
+    {% endif %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
+    <title>{{title}}</title>
+    <meta name="generator" content="Jekyll v3.9.0">
+    <meta property="og:title" content="{%t page.title %}">
+    <link rel="canonical" href="{{page.url}}">
+    <meta property="og:url" content="{{page.url}}">
+    <meta property="og:site_name" content="{%t site.title %}">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="{%t page.title %}">
+    <script type="application/ld+json">
+    {"@type":"WebSite","headline":"Chandar Research Lab","url":"/","name":"Chandar Research Lab","@context":"https://schema.org"}</script>
+    <!-- End Jekyll SEO tag -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <!-- <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}"> -->
     {%- feed_meta -%}

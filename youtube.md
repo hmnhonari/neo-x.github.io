@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Youtube Channel
+title: titles.youtube
 permalink: /youtube
 redirect_to: https://www.youtube.com/channel/UCa885azMHaNWAEEVeJHTjHw
 ---
