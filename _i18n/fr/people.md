@@ -7,7 +7,7 @@
 }
 </style> -->
 
-# Principal Investigator
+# Chercheur Principal
 <link rel="stylesheet" type="style/css" href="/assets/css/style.css">
 
 <ul class='people'>
@@ -17,7 +17,7 @@
 </ul>
 <!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
 
-# PhD Students
+# Étudiants au Doctorat
 
 <ul class='people'>
 <li>
@@ -26,7 +26,7 @@
     name="Gabriele Prato" 
     url="https://pratogab.github.io/"
     cosupervisor="Alain Tapp"
-    research="Out-of-Distribution Generalization"
+    research="Généralisation hors de distribution"
 %}
 </li>
 <li>
@@ -35,7 +35,7 @@
     name="Simon Guiroy"
     url="https://simonguiroy.github.io/"
     cosupervisor="Chris Pal"
-    research="Meta-Learning, Transfer Learning"
+    research="Méta-apprentissage, Transfère d'apprentissage"
 %}
 </li>
 <li>
@@ -44,7 +44,7 @@
     name="Louis Clouatre"
     url="https://luee-c.github.io/"
     cosupervisor="Amal Zouaq"
-    research="NLP and sequential information"
+    research="Traitement du langage naturel et information séquentielle"
 %}
 </li>
 <li>
@@ -53,7 +53,7 @@
     name="Doriane Olewicki"
     url="https://olewicki.github.io/"
     cosupervisor="Bram Adams"
-    research="Continual Learning for Software Engineering, Continuous Integration"
+    research="Apprentissage continu appliqué à l'ingénierie logicielle, Intégration continue"
 %}
 </li>
 <li>
@@ -61,7 +61,7 @@
     src="/assets/images/bios/abdelrahman-zayed.jpeg"
     name="Abdelrahman Zayed"
     url="https://abdelrahmanzayed.github.io/"
-    research="Applying constraints to neural networks, Recurrent neural networks"
+    research="Application de contraintes sur réseaux de neurones, Réseau de neurones récurrent"
 %}
 </li>
 <li>
@@ -70,20 +70,20 @@
     name="Andreas Madsen"
     url="https://andreasmadsen.github.io/"
     cosupervisor="Siva Reddy"
-    research="Interpretability in NLP"
+    research="Interprétabilité de traitement du langage naturel"
 %}
 </li>
 </ul>
 
 
-# Masters Students
+# Étudiants à la Maitrise
 <ul class='people'>
 <li>
 {% include person.html
     src="/assets/images/bios/mohamed-abdelsalam.png"
     name="Mohamed Ashraf Abdelsalam"
     url="https://mohamedabdelsalam9.github.io/" 
-    research="Incremental learning"
+    research="Apprentissage incrémental"
 %}
 </li>
 <li>
@@ -91,7 +91,7 @@
     src="/assets/images/bios/charan-reddy.png"
     name="Charan Reddy"
     url="https://charan223.github.io"
-    research="Modular Continual Learning, Multi Domain Meta Learning, Fairness in Deep Learning, Optimization"
+    research="Apprentissage continu modulaire, Méta-apprentissage dans multiple domaines, Équité en apprentissage profond, Optimisation"
 %}
 </li>
 <li>
@@ -99,7 +99,7 @@
     src="/assets/images/bios/darshan-patil.png"
     name="Darshan Patil"
     url="https://www.darshanpatil.com"
-    research="Lifelong learning, Compositionality, Learning from Instruction"
+    research="Apprentissage permanent, Compositionnalité, Apprentissage par instruction"
 %}
 </li>
 <li>
@@ -107,7 +107,7 @@
     src="/assets/images/bios/mojtaba-faramarzi.png"
     name="Mojtaba Faramarzi"
     url="https://bemova.github.io/"
-    research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
+    research="Apprentissage permanent ciblé sur les méthodes de replay et de régularisation, Régularization dépendante des données pour l'apprentissage profond"
 %}
 </li>
 <li>
@@ -115,7 +115,7 @@
     src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
     name="Ali Rahimi-Kalahroudi"
     url="http://ali-gtw.github.io/" 
-    research="Deep Reinforcement Learning, Lifelong Learning"
+    research="Apprentissage profond par renforcement, Apprentissage permanent"
 %}
 </li>
 <li>
@@ -124,19 +124,19 @@
     name="Pranshu Malviya"
     cosupervisor="Balaraman Ravindran"
     url="http://pranshu28.github.io/" 
-    research="Lifelong Learning, Causal Inference, Optimization"
+    research="Apprentissage permanent, Inférence de causalité, Optimisation"
 %}
 </li>
 </ul>
 
-# Interns/RAs
+# Stagiaires/RAs
 <ul class='people'>
 <li>
 {% include person.html
     src="/assets/images/bios/hadi-nekoei.jpg"
     name="Hadi Nekoei"
     url="https://hnekoeiq.github.io/" 
-    research="Model-based RL, Multi-agent RL, Lifelong Learning"
+    research="Apprentissage par renforcement basé sur les models, Apprentissage par renforcement multi-agent, Apprentissage permanent"
 %}
 </li>
 <li>
@@ -144,7 +144,7 @@
     src="/assets/images/bios/rodrigo-chavez-zavaleta.jpg"
     name="Rodrigo Chavez Zavaleta"
     url="https://chavezrodz.github.io/" 
-    research="Dynamical systems, Recurrent Neural Networks, Natural Language Processing"
+    research="Systèmes dynamiques, Réseau de neurones récurrent, Traitement du langage naturel"
 %}
 </li>
 <li>
@@ -152,7 +152,7 @@
     src="/assets/images/bios/paul-aymeric-mcrae.jpg"
     name="Paul-Aymeric McRae"
     url="https://aymeric-mcrae.github.io/" 
-    research="Optimization, RNNs"
+    research="Optimisation, Réseau de neurones récurrent"
 %}
 </li>
 </ul>
@@ -160,6 +160,6 @@
 
 # Alumni
 
-**Interns**:  
-0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- Back to McGill University
+**Stagiaires**:  
+0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- De retour à McGill University
 1. Evan Racah (Jan 2020 - Jun 2020) -- Waymo
