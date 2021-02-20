@@ -127,6 +127,15 @@
     research="Apprentissage permanent, Inférence de causalité, Optimisation"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/akilesh-badrinaaraayanan.jpg"
+    name="Akilesh Badrinaaraayanan"
+    cosupervisor="Aaron Courville"
+    url="https://akileshbadrinaaraayanan.github.io/" 
+    research="Apprentissage par renforcement multi-agent, Apprentissage continu"
+%}
+</li>
 </ul>
 
 # Stagiaires/RAs

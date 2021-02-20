@@ -127,6 +127,15 @@
     research="Lifelong Learning, Causal Inference, Optimization"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/akilesh-badrinaaraayanan.jpg"
+    name="Akilesh Badrinaaraayanan"
+    cosupervisor="Aaron Courville"
+    url="https://akileshbadrinaaraayanan.github.io/" 
+    research="Multi-agent RL, Continual Learning"
+%}
+</li>
 </ul>
 
 # Interns/RAs
