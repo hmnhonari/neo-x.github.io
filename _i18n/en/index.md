@@ -1,4 +1,4 @@
-<img src="/assets/images/website_collage.jpg" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;" >
+<!-- <img src="/assets/images/website_collage.jpg" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;" > -->
 
 # About the Lab:
 

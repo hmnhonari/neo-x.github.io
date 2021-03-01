@@ -24,3 +24,111 @@ ul.people li{display:inline-block;margin-right:2em;width:45%}
 }
 // ul.people li{margin-right:2em;text-align:left;}
 ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*  Team Starts */
+.team-members {
+	transform: rotate(15deg);
+}
+.team-members li > div {
+	float: left;
+	width: 20%;
+}
+.team-members li {
+	list-style-type: none;
+	display: inline-block;
+	margin-bottom: -6px;
+
+}
+.team-members li:nth-child(2) > div:first-child {
+	margin-left: 10%;
+}
+
+.team-members li:last-child > div:first-child {
+	margin-left: 10%;
+}
+
+.member-details > div {
+	margin: 2px;
+}
+.member-details img {
+	transform: rotate(-15deg) translate(0, 0px) scale(1.15);
+	border-radius:50%;
+	width: 100%;
+	height: 100%;
+}
+
+/* hover content - style */
+.member-details > div {
+	position: relative;
+	overflow: hidden;
+}
+
+
+/* For centering elements - optional - Can use table,tablecell instead */
+.flex-center {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.flex-center > div:first-child {
+	order: 2;
+}
+
+.collage-title-text::first-letter {
+	font-size: 120px;
+	font-family: monospace;
+	font-weight: bold;
+	color:rgb(22, 180, 185);
+	height: 105px;
+}
+.collage-title-text {
+	font-size: 110px;
+	font-family: monospace;
+	height: 105px;
+}
+.collage {
+	margin-bottom: 20px;
+}
+/* RESPONSIVE */
+@media only screen and (max-width : 992px) {
+	.sm-no-flex {
+		display: block;
+	}
+	.sm-no-float {
+		float: none !important;
+	}
+	.sm-text-center {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width : 550px) {
+	.collage-title-text::first-letter {
+		font-size: 80px;
+		font-family: monospace;
+		font-weight: bold;
+		color:rgb(22, 180, 185);
+	}
+	.collage-title-text {
+		font-size: 70px;
+		font-family: monospace;
+		height: 80px;
+	}
+	.collage {
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width : 399px) {
+	.collage {
+		margin-bottom: 10px;
+	}
+}
