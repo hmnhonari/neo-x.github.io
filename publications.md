@@ -5,10 +5,6 @@ permalink: /publications/
 ---
 
 ## Preprints
-* **IIRC: Incremental Implicitly-Refined Classification.**  
-Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar.  
-In arXiv, 2020.  
-\[[arXiv](https://arxiv.org/abs/2012.12477)\], \[[code](https://github.com/chandar-lab/IIRC)\], \[[website](https://chandar-lab.github.io/IIRC/)\], \[[PyPI](https://pypi.org/project/iirc/)\], \[[docs](https://iirc.readthedocs.io/en/latest/)\]
 
 * **Maximum Reward Formulation In Reinforcement Learning.**  
 Sai Krishna Gottipati, Yashaswi Pathak, Rohan Nuttall, Raviteja Chunduru, Ahmed Touati, Sriram Ganapathi Subramanian, Matthew E Taylor, Sarath Chandar.  
@@ -32,13 +28,27 @@ In arXiv, 2020.
 
 
 ## Conference and Journal Papers
+# 2021 
+
+4. **IIRC: Incremental Implicitly-Refined Classification.**  
+Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar.  
+Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
+\[[arXiv](https://arxiv.org/abs/2012.12477)\], \[[code](https://github.com/chandar-lab/IIRC)\], \[[website](https://chandar-lab.github.io/IIRC/)\], \[[PyPI](https://pypi.org/project/iirc/)\], \[[docs](https://iirc.readthedocs.io/en/latest/)\]  
+
+3. **Towered Actor Critic for Handling Multiple Action Types in Reinforcement Learning For Drug Discovery**  
+Sai Krishna Gottipati, Yashaswi Pathak, Boris Sattarov, Sahir, Rohan Nuttall, Mohammad Amini, Matthew E. Taylor, Sarath Chandar.  
+AAAI Conference on Artificial Intelligence, 2021.
+
+{: reversed="reversed" start="4"}
+
 # 2020
-0. **The LoCA Regret: A Consistent Metric to Evaluate Model-Based Behavior in Reinforcement Learning.**  
+
+2. **The LoCA Regret: A Consistent Metric to Evaluate Model-Based Behavior in Reinforcement Learning.**  
 Harm van Seijen, Hadi Nekoei, Evan Racah, Sarath Chandar.  
 Neural Information Processing Systems (NeurIPS), 2020.  
 \[[arXiv](https://arxiv.org/abs/2007.03158)\], \[[code](https://github.com/chandar-lab/LoCA)\]
 
-0. **Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning.**  
+1. **Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning.**  
 Sai Krishna Gottipati*, Boris Sattarov*, Sufeng Niu, Yashaswi Pathak, Haoran Wei, Shengchao Liu, Karam MJ Thomas,
 Simon Blackburn, Connor W Coley, Jian Tang, Sarath Chandar, Yoshua Bengio.  
 International Conference on Machine Learning (ICML), 2020.  

@@ -169,6 +169,9 @@
 
 # Alumni
 
+**Étudiants à la Maitrise**
+0. Mojtaba Faramarzi (Jan 2020 - Dec 2020) -- Étudiant au Doctorat à l'Université de Montréal.
+
 **Stagiaires**:  
 0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- De retour à McGill University
 1. Evan Racah (Jan 2020 - Jun 2020) -- Waymo

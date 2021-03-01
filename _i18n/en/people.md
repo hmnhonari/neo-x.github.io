@@ -169,6 +169,9 @@
 
 # Alumni
 
+**Masters Students**
+0. Mojtaba Faramarzi (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
+
 **Interns**:  
 0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- Back to McGill University
 1. Evan Racah (Jan 2020 - Jun 2020) -- Waymo

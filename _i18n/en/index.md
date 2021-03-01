@@ -9,5 +9,7 @@ CRL is also affiliated with [Mila, the Quebec AI Institute](https://mila.quebec/
 <br>
 # News:
 
-* (September 2020) Our work on [new metric for model-based RL](https://arxiv.org/abs/2007.03158) got accepted at NeurIPS 2020.
+* (March 2021) Our work on a [new benchmark for class incremental learning](https://arxiv.org/abs/2012.12477) was accepted at CVPR 2021.
+* (December 2020) Our work on RL for drug discovery was accepted at AAAI 2021.
+* (September 2020) Our work on a [new metric for model-based RL](https://arxiv.org/abs/2007.03158) was accepted at NeurIPS 2020.
 * (September 2020) Sarath's introductory [Machine Learning course](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) is now available on Youtube!

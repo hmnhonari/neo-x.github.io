@@ -9,5 +9,7 @@ Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec
 <br>
 # Nouvelles:
 
+* (Mars 2021) Notre travail sur un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021.
+* (Décembre 2020) Notre travail en apprentissage par renforcement pour pour découverte pharmaceutique a été accepté à AAAI 2021.
 * (Septembre 2020) Notre travail à propos d'une [nouvelle métrique pour le RL basé sur des modèles](https://arxiv.org/abs/2007.03158) a été accepté à NeurIPS 2020.
 * (Septembre 2020) Le cours de Sarath concernant [une introduction à l'apprentissage machine](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) est disponible sur Youtube !
