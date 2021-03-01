@@ -9,6 +9,10 @@ titles:
   youtube: Youtube Channel
 site:
   title: Chandar Research Lab
+collage:
+  line1: Chandar
+  line2: Research
+  line3: Lab
 translations:
   cosupervisor: Co-supervisor
   research: Research Areas

@@ -9,5 +9,5 @@ width: 1200
 redirect_from:
     - /home
 ---
-
+{% include collage.html %}
 {% tf index.md %}
