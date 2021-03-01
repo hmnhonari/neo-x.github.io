@@ -38,7 +38,6 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 3. **Towered Actor Critic for Handling Multiple Action Types in Reinforcement Learning For Drug Discovery**  
 Sai Krishna Gottipati, Yashaswi Pathak, Boris Sattarov, Sahir, Rohan Nuttall, Mohammad Amini, Matthew E. Taylor, Sarath Chandar.  
 AAAI Conference on Artificial Intelligence, 2021.
-
 {: reversed="reversed" start="4"}
 
 # 2020
