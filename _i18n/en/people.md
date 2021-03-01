@@ -73,6 +73,14 @@
     research="Interpretability in NLP"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/mojtaba-faramarzi.png"
+    name="Mojtaba Faramarzi"
+    url="https://bemova.github.io/"
+    research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
+%}
+</li>
 </ul>
 
 
@@ -100,14 +108,6 @@
     name="Darshan Patil"
     url="https://www.darshanpatil.com"
     research="Lifelong learning, Compositionality, Learning from Instruction"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/mojtaba-faramarzi.png"
-    name="Mojtaba Faramarzi"
-    url="https://bemova.github.io/"
-    research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
 %}
 </li>
 <li>

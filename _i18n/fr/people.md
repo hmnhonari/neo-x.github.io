@@ -73,6 +73,14 @@
     research="Interprétabilité de traitement du langage naturel"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/mojtaba-faramarzi.png"
+    name="Mojtaba Faramarzi"
+    url="https://bemova.github.io/"
+    research="Apprentissage permanent ciblé sur les méthodes de replay et de régularisation, Régularization dépendante des données pour l'apprentissage profond"
+%}
+</li>
 </ul>
 
 
@@ -100,14 +108,6 @@
     name="Darshan Patil"
     url="https://www.darshanpatil.com"
     research="Apprentissage permanent, Compositionnalité, Apprentissage par instruction"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/mojtaba-faramarzi.png"
-    name="Mojtaba Faramarzi"
-    url="https://bemova.github.io/"
-    research="Apprentissage permanent ciblé sur les méthodes de replay et de régularisation, Régularization dépendante des données pour l'apprentissage profond"
 %}
 </li>
 <li>
