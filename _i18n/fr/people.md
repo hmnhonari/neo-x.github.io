@@ -114,7 +114,7 @@
 {% include person.html
     src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
     name="Ali Rahimi-Kalahroudi"
-    url="http://ali-gtw.github.io/" 
+    url="http://alirahkay.github.io/" 
     research="Apprentissage profond par renforcement, Apprentissage permanent"
 %}
 </li>
