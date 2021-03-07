@@ -45,12 +45,15 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 	margin-bottom: -6px;
 
 }
+.team-members li:nth-child(1) > div:first-child {
+	margin-left: -20%;
+}
 .team-members li:nth-child(2) > div:first-child {
-	margin-left: 10%;
+	margin-left: -10%;
 }
 
 .team-members li:last-child > div:first-child {
-	margin-left: 10%;
+	margin-left: -10%;
 }
 
 .member-details > div {
@@ -95,6 +98,8 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 	height: 105px;
 }
 .collage {
+	margin-top: 70px;
+	margin-left: 50px;
 	margin-bottom: 20px;
 }
 /* RESPONSIVE */
@@ -120,6 +125,8 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 		height: 80px;
 	}
 	.collage {
+		margin-top: 40px;
+		margin-left: 40px;
 		margin-bottom: 20px;
 	}
 	// .collage-title {
@@ -143,7 +150,9 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 		margin-left: -200;	
 	}
 	.collage {
+		margin-top: 0px;
 		margin-bottom: 20px;
+		margin-left: 0px;
 	}
 	.team-members {
 		display: none;
@@ -155,7 +164,9 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 
 @media only screen and (max-width : 399px) {
 	.collage {
+		margin-top: 0px;
 		margin-bottom: 15px;
+		margin-left: 00px;
 	}
 	.team-members {
 		display: none;

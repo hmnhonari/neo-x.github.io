@@ -136,6 +136,15 @@
     research="Apprentissage par renforcement multi-agent, Apprentissage continu"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/daphne-lafleur.jpeg"
+    name="Daphné Lafleur"
+    cosupervisor="Gilles Pesant"
+    url="https://www.linkedin.com/in/daphné-lafleur-173a72170" 
+    research="Composition algorithmique, Programmation par contraintes, Apprentissage automatique"
+%}
+</li>
 </ul>
 
 # Stagiaires/RAs
