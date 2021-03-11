@@ -173,6 +173,14 @@
     research="Optimization, RNNs"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/Shabnam_Haghzare.JPG"
+    name="Shabnam Haghzare"
+    url="" 
+    research="Human-Automation Interaction, Automated Driving, Older Adults, Intelligent Vehicles, Artificial Intelligence"
+%}
+</li>
 </ul>
 
 

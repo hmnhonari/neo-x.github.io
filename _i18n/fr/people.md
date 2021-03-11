@@ -173,6 +173,14 @@
     research="Optimisation, Réseau de neurones récurrent"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/Shabnam_Haghzare.JPG"
+    name="Shabnam Haghzare"
+    url="" 
+    research="Interaction entre humain et automatisation, Conduite automatique, Personnes agées, Véhicules automatique, Intelligence Artificielle"
+%}
+</li>
 </ul>
 
 
