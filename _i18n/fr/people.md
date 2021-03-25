@@ -177,7 +177,7 @@
 {% include person.html
     src="/assets/images/bios/Shabnam_Haghzare.JPG"
     name="Shabnam Haghzare"
-    url="" 
+    url="https://www.shabnamhaghzare.com/" 
     research="Interaction entre humain et automatisation, Conduite automatique, Personnes agées, Véhicules automatique, Intelligence Artificielle"
 %}
 </li>
