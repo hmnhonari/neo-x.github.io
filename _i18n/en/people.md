@@ -44,7 +44,7 @@
     name="Louis Clouatre"
     url="https://luee-c.github.io/"
     cosupervisor="Amal Zouaq"
-    research="NLP and sequential information"
+    research="NLP, sequential information"
 %}
 </li>
 <li>
@@ -179,6 +179,14 @@
     name="Shabnam Haghzare"
     url="https://www.shabnamhaghzare.com/" 
     research="Human-Automation Interaction, Automated Driving, Older Adults, Intelligent Vehicles, Artificial Intelligence"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/saujas-vaduguru.jpeg"
+    name="Saujas Vaduguru"
+    url="https://saujasv.github.io/" 
+    research="NLP, dialogue systems"
 %}
 </li>
 </ul>

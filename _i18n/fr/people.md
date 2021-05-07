@@ -44,7 +44,7 @@
     name="Louis Clouatre"
     url="https://luee-c.github.io/"
     cosupervisor="Amal Zouaq"
-    research="Traitement du langage naturel et information séquentielle"
+    research="Traitement du langage naturel, information séquentielle"
 %}
 </li>
 <li>
@@ -179,6 +179,14 @@
     name="Shabnam Haghzare"
     url="https://www.shabnamhaghzare.com/" 
     research="Interaction entre humain et automatisation, Conduite automatique, Personnes agées, Véhicules automatique, Intelligence Artificielle"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/saujas-vaduguru.jpeg"
+    name="Saujas Vaduguru"
+    url="https://saujasv.github.io/" 
+    research="Traitement du langage naturel, systèmes de dialogue"
 %}
 </li>
 </ul>
