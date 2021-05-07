@@ -30,6 +30,10 @@ In arXiv, 2020.
 ## Conference and Journal Papers
 # 2021 
 
+5. **A Survey of Data Augmentation Approaches for NLP.**  
+Steven Y. Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura and Eduard Hovy.
+Findings of ACL, 2021.
+
 4. **IIRC: Incremental Implicitly-Refined Classification.**  
 Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar.  
 Conference on Computer Vision and Pattern Recognition (CVPR), 2021.  
@@ -38,7 +42,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 3. **Towered Actor Critic for Handling Multiple Action Types in Reinforcement Learning For Drug Discovery**  
 Sai Krishna Gottipati, Yashaswi Pathak, Boris Sattarov, Sahir, Rohan Nuttall, Mohammad Amini, Matthew E. Taylor, Sarath Chandar.  
 AAAI Conference on Artificial Intelligence, 2021.
-{: reversed="reversed" start="4"}
+{: reversed="reversed" start="5"}
 
 # 2020
 
