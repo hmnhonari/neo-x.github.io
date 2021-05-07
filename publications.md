@@ -27,7 +27,7 @@ In arXiv, 2020.
 
 6. **MLMLM: Link Prediction with Mean Likelihood Masked Language Model.**  
 Louis Clouatre, Philippe Trempe, Amal Zouaq, Sarath Chandar.\\
-Findings of ACL, 2021.
+Findings of ACL, 2021.\\
 \[[arXiv](https://arxiv.org/abs/2009.07058)\]
 
 5. **A Survey of Data Augmentation Approaches for NLP.**  
