@@ -11,11 +11,6 @@ Sai Krishna Gottipati, Yashaswi Pathak, Rohan Nuttall, Raviteja Chunduru, Ahmed 
 In arXiv, 2020.  
 \[[arXiv](https://arxiv.org/abs/2010.03744)\]
 
-* **MLMLM: Link Prediction with Mean Likelihood Masked Language Model.**  
-Louis Clouatre, Philippe Trempe, Amal Zouaq, Sarath Chandar.  
-In arXiv, 2020.  
-\[[arXiv](https://arxiv.org/abs/2009.07058)\]
-
 * **How To Evaluate Your Dialogue System: Probe Tasks as an Alternative for Token-level Evaluation Metrics.**  
 Prasanna Parthasarathi, Joelle Pineau, Sarath Chandar.  
 In arXiv, 2020.  
@@ -30,8 +25,13 @@ In arXiv, 2020.
 ## Conference and Journal Papers
 # 2021 
 
+6. **MLMLM: Link Prediction with Mean Likelihood Masked Language Model.**  
+Louis Clouatre, Philippe Trempe, Amal Zouaq, Sarath Chandar.\\
+Findings of ACL, 2021.
+\[[arXiv](https://arxiv.org/abs/2009.07058)\]
+
 5. **A Survey of Data Augmentation Approaches for NLP.**  
-Steven Y. Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura and Eduard Hovy.
+Steven Y. Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura and Eduard Hovy.\\
 Findings of ACL, 2021.
 
 4. **IIRC: Incremental Implicitly-Refined Classification.**  
@@ -42,7 +42,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 3. **Towered Actor Critic for Handling Multiple Action Types in Reinforcement Learning For Drug Discovery**  
 Sai Krishna Gottipati, Yashaswi Pathak, Boris Sattarov, Sahir, Rohan Nuttall, Mohammad Amini, Matthew E. Taylor, Sarath Chandar.  
 AAAI Conference on Artificial Intelligence, 2021.
-{: reversed="reversed" start="5"}
+{: reversed="reversed" start="6"}
 
 # 2020
 
