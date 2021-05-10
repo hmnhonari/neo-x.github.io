@@ -9,8 +9,9 @@ Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec
 <br>
 # Nouvelles:
 
-* (Mai 2021) Notre [étude sur les approches d'augmentation de données pour le traitement de langage naturel](https://arxiv.org/abs/2105.03075) a été accepté à ACL 2021.
-* (Mars 2021) Notre travail sur un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021.
+* (May 2021) Notre travail à propos de [l'apprentissage continu pour Hanabi](https://arxiv.org/abs/2103.03216)  a été accepté à ICML 2021.
+* (May 2021) Deux papiers accepté à Findings of ACL 2021: [une étude sur l'augmentation de donnée pour le traitement de langage naturel](https://arxiv.org/abs/2105.03075) et [prédiction de lien pour des modèles de traitement de langage naturel par masque](https://arxiv.org/abs/2009.07058).
+* (Mars 2021) Notre travail à propos d'un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021.
 * (Décembre 2020) Notre travail en apprentissage par renforcement pour pour découverte pharmaceutique a été accepté à AAAI 2021.
 * (Septembre 2020) Notre travail à propos d'une [nouvelle métrique pour le RL basé sur des modèles](https://arxiv.org/abs/2007.03158) a été accepté à NeurIPS 2020.
 * (Septembre 2020) Le cours de Sarath concernant [une introduction à l'apprentissage machine](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) est disponible sur Youtube !
