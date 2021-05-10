@@ -9,7 +9,7 @@ CRL is also affiliated with [Mila, the Quebec AI Institute](https://mila.quebec/
 <br>
 # News:
 
-* (May 2021) Our survey on data augmentation for NLP was accepted at ACL 2021.
+* (May 2021) Our [survey on data augmentation for NLP](https://arxiv.org/abs/2105.03075) was accepted at ACL 2021.
 * (March 2021) Our work on a [new benchmark for class incremental learning](https://arxiv.org/abs/2012.12477) was accepted at CVPR 2021.
 * (December 2020) Our work on RL for drug discovery was accepted at AAAI 2021.
 * (September 2020) Our work on a [new metric for model-based RL](https://arxiv.org/abs/2007.03158) was accepted at NeurIPS 2020.

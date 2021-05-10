@@ -9,7 +9,7 @@ Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec
 <br>
 # Nouvelles:
 
-* (Mai 2021) Notre étude sur les approches d'augmentation de données pour le traitement de langage naturel a été accepté à ACL 2021.
+* (Mai 2021) Notre [étude sur les approches d'augmentation de données pour le traitement de langage naturel](https://arxiv.org/abs/2105.03075) a été accepté à ACL 2021.
 * (Mars 2021) Notre travail sur un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021.
 * (Décembre 2020) Notre travail en apprentissage par renforcement pour pour découverte pharmaceutique a été accepté à AAAI 2021.
 * (Septembre 2020) Notre travail à propos d'une [nouvelle métrique pour le RL basé sur des modèles](https://arxiv.org/abs/2007.03158) a été accepté à NeurIPS 2020.
