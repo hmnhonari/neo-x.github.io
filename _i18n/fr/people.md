@@ -159,14 +159,6 @@
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/rodrigo-chavez-zavaleta.jpg"
-    name="Rodrigo Chavez Zavaleta"
-    url="https://chavezrodz.github.io/" 
-    research="Systèmes dynamiques, Réseau de neurones récurrent, Traitement du langage naturel"
-%}
-</li>
-<li>
-{% include person.html
     src="/assets/images/bios/paul-aymeric-mcrae.jpg"
     name="Paul-Aymeric McRae"
     url="https://aymeric-mcrae.github.io/" 
@@ -189,14 +181,23 @@
     research="Traitement du langage naturel, systèmes de dialogue"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/maziar-sargordi.JPG"
+    name="Maziar Sargordi"
+    url="https://msargordi.github.io/" 
+    research="Machine Learning, Apprentissage Continu"
+%}
+</li>
 </ul>
 
 
 # Alumni
 
 **Étudiants à la Maitrise**
-0. Mojtaba Faramarzi (Jan 2020 - Dec 2020) -- Étudiant au Doctorat à l'Université de Montréal.
+- Mojtaba Faramarzi (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal.
 
 **Stagiaires**:  
-0. [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- De retour à McGill University
-1. Evan Racah (Jan 2020 - Jun 2020) -- Waymo
+- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Juin 2020 - Mai 2021) 
+- [Sam Finestone](https://sam-finestone.github.io/) (Juin 2020 - Déc 2020) -- De retour à McGill University
+- Evan Racah (Jan 2020 - Juin 2020) -- Waymo
