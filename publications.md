@@ -25,6 +25,15 @@ In arXiv, 2020.
 ## Conference and Journal Papers
 # 2021 
 
+9. **Do Encoder Representations of Generative Dialogue Models Encode Sufficient Information about the Task ?**  
+Prasanna Parthasarathi, Sarath Chandar, Joelle Pineau.\\
+Proceedings of the 22nd Annual SIGdial Meeting on Discourse and Dialogue, 2021.  
+
+8. **A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss.**  
+Prasanna Parthasarathi, Mohamed Abdelsalam, Sarath Chandar, Joelle Pineau.\\
+Proceedings of the 22nd Annual SIGdial Meeting on Discourse and Dialogue, 2021.  
+
+
 7. **Continuous Coordination As a Realistic Scenario for Lifelong Learning.**\\
 Hadi Nekoei, Akilesh Badrinaaraayanan, Aaron Courville, Sarath Chandar.\\
 International Conference on Machine Learning (ICML), 2021.\\
@@ -50,7 +59,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 3. **Towered Actor Critic for Handling Multiple Action Types in Reinforcement Learning For Drug Discovery**  
 Sai Krishna Gottipati, Yashaswi Pathak, Boris Sattarov, Sahir, Rohan Nuttall, Mohammad Amini, Matthew E. Taylor, Sarath Chandar.  
 AAAI Conference on Artificial Intelligence, 2021.
-{: reversed="reversed" start="7"}
+{: reversed="reversed" start="9"}
 
 # 2020
 
