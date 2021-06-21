@@ -189,6 +189,22 @@
     research="Machine Learning, Apprentissage Continu"
 %}
 </li>
+<li>
+{% include person.html
+    src="/assets/images/bios/yi-wan.jpeg"
+    name="Yi Wan"
+    url="https://sites.google.com/ualberta.ca/yiwan/" 
+    research="Apprentissage profond par renforcement"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/vignesh-rangarajan.jpg"
+    name="Vignesh Rangarajan"
+    url="https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/" 
+    research="Apprentissage profond par renforcement, Apprentissage multi-agent, Traitement du langage naturel, Vision par ordinateur, Algorithmes sublinéaires"
+%}
+</li>
 </ul>
 
 
