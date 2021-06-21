@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## Preprints
 
+* **TAG: Task-based Accumulated Gradients for Lifelong learning**  
+Pranshu Malviya, Balaraman Ravindran, Sarath Chandar.\\
+In arXiv, 2021.  
+\[[arXiv](https://arxiv.org/abs/2105.05155v1)\], \[[code](https://github.com/pranshu28/TAG)\]  
+
 * **Maximum Reward Formulation In Reinforcement Learning.**  
 Sai Krishna Gottipati, Yashaswi Pathak, Rohan Nuttall, Raviteja Chunduru, Ahmed Touati, Sriram Ganapathi Subramanian, Matthew E Taylor, Sarath Chandar.  
 In arXiv, 2020.  
