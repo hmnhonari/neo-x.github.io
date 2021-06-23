@@ -222,12 +222,12 @@
 </ul>
 
 
-# Alumni
+# Alumni and their next step
 
 **Masters Students**
 - Mojtaba Faramarzi (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
 
-**Interns**:  
-- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Jun 2020 - May 2021) 
+**Interns**
+- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Jun 2020 - May 2021) -- Masters at McGill Univesity
 - [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- Back to McGill University
 - Evan Racah (Jan 2020 - Jun 2020) -- Waymo

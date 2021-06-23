@@ -222,12 +222,12 @@
 </ul>
 
 
-# Alumni
+# Alumni et leur étape suivante
 
 **Étudiants à la Maitrise**
-- Mojtaba Faramarzi (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal.
+- Mojtaba Faramarzi (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal
 
-**Stagiaires**:  
-- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Juin 2020 - Mai 2021) 
+**Stagiaires**
+- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Juin 2020 - Mai 2021) -- Maitrise à McGill Univesity
 - [Sam Finestone](https://sam-finestone.github.io/) (Juin 2020 - Déc 2020) -- De retour à McGill University
 - Evan Racah (Jan 2020 - Juin 2020) -- Waymo
