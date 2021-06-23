@@ -17,6 +17,20 @@
 </ul>
 <!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
 
+# Postdocs
+
+<ul class='people'>
+<li>
+{% include person.html 
+    src="/assets/images/bios/janarthanan-rajendran.jpg" 
+    name="Janarthanan Rajendran" 
+    affiliation="Postdoc"
+    url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
+    research="Reinforcement Learning, Lifelong Learning, Meta-Learning, Dialog Systems"
+%}
+</li>
+</ul>
+
 # PhD Students
 
 <ul class='people'>
@@ -178,7 +192,7 @@
     src="/assets/images/bios/saujas-vaduguru.jpeg"
     name="Saujas Vaduguru"
     url="https://saujasv.github.io/" 
-    research="NLP, dialogue systems"
+    research="NLP, Dialog systems"
 %}
 </li>
 <li>

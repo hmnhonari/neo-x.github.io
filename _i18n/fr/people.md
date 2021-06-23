@@ -17,6 +17,19 @@
 </ul>
 <!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
 
+
+# Postdocs
+<ul class='people'>
+<li>
+{% include person.html 
+    src="/assets/images/bios/janarthanan-rajendran.jpg" 
+    name="Janarthanan Rajendran" 
+    url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
+    research="Apprentissage profond par renforcement, Apprentissage permanent, Méta-apprentissage, Systèmes de dialogue"
+%}
+</li>
+</ul>
+
 # Étudiants au Doctorat
 
 <ul class='people'>
