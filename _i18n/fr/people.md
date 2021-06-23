@@ -25,6 +25,7 @@
     src="/assets/images/bios/janarthanan-rajendran.jpg" 
     name="Janarthanan Rajendran" 
     url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
+    cosupervisor="Doina Precup"
     research="Apprentissage profond par renforcement, Apprentissage permanent, Méta-apprentissage, Systèmes de dialogue"
 %}
 </li>

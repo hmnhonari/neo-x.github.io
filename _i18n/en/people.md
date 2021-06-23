@@ -24,8 +24,8 @@
 {% include person.html 
     src="/assets/images/bios/janarthanan-rajendran.jpg" 
     name="Janarthanan Rajendran" 
-    affiliation="Postdoc"
     url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
+    cosupervisor="Doina Precup"
     research="Reinforcement Learning, Lifelong Learning, Meta-Learning, Dialog Systems"
 %}
 </li>
