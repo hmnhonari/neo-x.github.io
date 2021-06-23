@@ -35,7 +35,7 @@ Prasanna Parthasarathi, Sarath Chandar, Joelle Pineau.\\
 Proceedings of the 22nd Annual SIGdial Meeting on Discourse and Dialogue, 2021.  
 
 8. **A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss.**  
-Prasanna Parthasarathi, Mohamed Abdelsalam, Sarath Chandar, Joelle Pineau.\\
+Prasanna Parthasarathi, Mohamed Abdelsalam, Joelle Pineau, Sarath Chandar.\\
 Proceedings of the 22nd Annual SIGdial Meeting on Discourse and Dialogue, 2021.  
 
 
