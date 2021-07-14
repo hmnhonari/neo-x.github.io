@@ -102,14 +102,6 @@
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/mohamed-abdelsalam.png"
-    name="Mohamed Ashraf Abdelsalam"
-    url="https://mohamedabdelsalam9.github.io/" 
-    research="Incremental learning"
-%}
-</li>
-<li>
-{% include person.html
     src="/assets/images/bios/charan-reddy.png"
     name="Charan Reddy"
     url="https://charan223.github.io"
@@ -225,7 +217,8 @@
 # Alumni and their next step
 
 **Masters Students**
-- Mojtaba Faramarzi (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
+- [Mohamed Ashraf Abdelsalam](https://mohamedabdelsalam9.github.io/) (Jan 2020 - Jul 2021) -- ML Research Engineer at Samsung AI Center Toronto
+- [Mojtaba Faramarzi](https://bemova.github.io/) (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
 
 **Interns**
 - [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Jun 2020 - May 2021) -- Masters at McGill Univesity

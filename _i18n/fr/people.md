@@ -102,14 +102,6 @@
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/mohamed-abdelsalam.png"
-    name="Mohamed Ashraf Abdelsalam"
-    url="https://mohamedabdelsalam9.github.io/" 
-    research="Apprentissage incrémental"
-%}
-</li>
-<li>
-{% include person.html
     src="/assets/images/bios/charan-reddy.png"
     name="Charan Reddy"
     url="https://charan223.github.io"
@@ -225,7 +217,8 @@
 # Alumni et leur étape suivante
 
 **Étudiants à la Maitrise**
-- Mojtaba Faramarzi (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal
+- [Mohamed Ashraf Abdelsalam](https://mohamedabdelsalam9.github.io/) (Jan 2020 - Jul 2021) -- ML Research Engineer pour Samsung AI Center Toronto
+- [Mojtaba Faramarzi](https://bemova.github.io/) (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal
 
 **Stagiaires**
 - [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Juin 2020 - Mai 2021) -- Maitrise à McGill Univesity
