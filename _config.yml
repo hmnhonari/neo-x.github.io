@@ -35,6 +35,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
 
+encoding: utf-8
 languages: ["en", "fr"]
 exclude_from_localizations: ["assets/images", "youtube.md", "home.md"]
 
