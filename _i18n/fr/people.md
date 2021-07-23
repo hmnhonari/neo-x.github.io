@@ -21,9 +21,9 @@
 # Postdocs
 <ul class='people'>
 <li>
-{% include person.html 
-    src="/assets/images/bios/janarthanan-rajendran.jpg" 
-    name="Janarthanan Rajendran" 
+{% include person.html
+    src="/assets/images/bios/janarthanan-rajendran.jpg"
+    name="Janarthanan Rajendran"
     url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
     cosupervisor="Doina Precup"
     research="Apprentissage profond par renforcement, Apprentissage permanent, Méta-apprentissage, Systèmes de dialogue"
@@ -35,9 +35,9 @@
 
 <ul class='people'>
 <li>
-{% include person.html 
-    src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Gabriele Prato" 
+{% include person.html
+    src="/assets/images/bios/gabriele-prato.jpg"
+    name="Gabriele Prato"
     url="https://pratogab.github.io/"
     cosupervisor="Alain Tapp"
     research="Généralisation hors de distribution"
@@ -120,7 +120,7 @@
 {% include person.html
     src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
     name="Ali Rahimi-Kalahroudi"
-    url="http://alirahkay.github.io/" 
+    url="http://alirahkay.github.io/"
     research="Apprentissage profond par renforcement, Apprentissage permanent"
 %}
 </li>
@@ -129,7 +129,7 @@
     src="/assets/images/bios/pranshu-malviya.jpeg"
     name="Pranshu Malviya"
     cosupervisor="Balaraman Ravindran"
-    url="http://pranshu28.github.io/" 
+    url="http://pranshu28.github.io/"
     research="Apprentissage permanent, Inférence de causalité, Optimisation"
 %}
 </li>
@@ -147,7 +147,7 @@
     src="/assets/images/bios/daphne-lafleur.jpeg"
     name="Daphné Lafleur"
     cosupervisor="Gilles Pesant"
-    url="https://www.linkedin.com/in/daphné-lafleur-173a72170" 
+    url="https://www.linkedin.com/in/daphné-lafleur-173a72170"
     research="Composition algorithmique, Programmation par contraintes, Apprentissage automatique"
 %}
 </li>
@@ -159,7 +159,7 @@
 {% include person.html
     src="/assets/images/bios/hadi-nekoei.jpg"
     name="Hadi Nekoei"
-    url="https://hnekoeiq.github.io/" 
+    url="https://hnekoeiq.github.io/"
     research="Apprentissage par renforcement basé sur les models, Apprentissage par renforcement multi-agent, Apprentissage permanent"
 %}
 </li>
@@ -167,7 +167,7 @@
 {% include person.html
     src="/assets/images/bios/paul-aymeric-mcrae.jpg"
     name="Paul-Aymeric McRae"
-    url="https://aymeric-mcrae.github.io/" 
+    url="https://aymeric-mcrae.github.io/"
     research="Optimisation, Réseau de neurones récurrent"
 %}
 </li>
@@ -175,7 +175,7 @@
 {% include person.html
     src="/assets/images/bios/Shabnam_Haghzare.JPG"
     name="Shabnam Haghzare"
-    url="https://www.shabnamhaghzare.com/" 
+    url="https://www.shabnamhaghzare.com/"
     research="Interaction entre humain et automatisation, Conduite automatique, Personnes agées, Véhicules automatique, Intelligence Artificielle"
 %}
 </li>
@@ -183,7 +183,7 @@
 {% include person.html
     src="/assets/images/bios/saujas-vaduguru.jpeg"
     name="Saujas Vaduguru"
-    url="https://saujasv.github.io/" 
+    url="https://saujasv.github.io/"
     research="Traitement du langage naturel, systèmes de dialogue"
 %}
 </li>
@@ -191,7 +191,7 @@
 {% include person.html
     src="/assets/images/bios/maziar-sargordi.JPG"
     name="Maziar Sargordi"
-    url="https://msargordi.github.io/" 
+    url="https://msargordi.github.io/"
     research="Machine Learning, Apprentissage Continu"
 %}
 </li>
@@ -199,7 +199,7 @@
 {% include person.html
     src="/assets/images/bios/yi-wan.jpeg"
     name="Yi Wan"
-    url="https://sites.google.com/ualberta.ca/yiwan/" 
+    url="https://sites.google.com/ualberta.ca/yiwan/"
     research="Apprentissage profond par renforcement"
 %}
 </li>
@@ -207,7 +207,7 @@
 {% include person.html
     src="/assets/images/bios/vignesh-rangarajan.jpg"
     name="Vignesh Rangarajan"
-    url="https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/" 
+    url="https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/"
     research="Apprentissage profond par renforcement, Apprentissage multi-agent, Traitement du langage naturel, Vision par ordinateur, Algorithmes sublinéaires"
 %}
 </li>
