@@ -135,15 +135,6 @@
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/akilesh-badrinaaraayanan.jpg"
-    name="Akilesh Badrinaaraayanan"
-    cosupervisor="Aaron Courville"
-    url="https://akileshbadrinaaraayanan.github.io/" 
-    research="Multi-agent RL, Continual Learning"
-%}
-</li>
-<li>
-{% include person.html
     src="/assets/images/bios/daphne-lafleur.jpeg"
     name="Daphné Lafleur"
     cosupervisor="Gilles Pesant"
@@ -217,6 +208,7 @@
 # Alumni and their next step
 
 **Masters Students**
+- [Akilesh Badrinaaraayanan](https://akileshbadrinaaraayanan.github.io/) (Jan 2020 - Jul 2021) -- PhD student at CMU.
 - [Mohamed Ashraf Abdelsalam](https://mohamedabdelsalam9.github.io/) (Jan 2020 - Jul 2021) -- ML Research Engineer at Samsung AI Center Toronto
 - [Mojtaba Faramarzi](https://bemova.github.io/) (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
 

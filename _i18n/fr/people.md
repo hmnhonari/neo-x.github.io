@@ -135,15 +135,6 @@
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/akilesh-badrinaaraayanan.jpg"
-    name="Akilesh Badrinaaraayanan"
-    cosupervisor="Aaron Courville"
-    url="https://akileshbadrinaaraayanan.github.io/" 
-    research="Apprentissage par renforcement multi-agent, Apprentissage continu"
-%}
-</li>
-<li>
-{% include person.html
     src="/assets/images/bios/daphne-lafleur.jpeg"
     name="Daphné Lafleur"
     cosupervisor="Gilles Pesant"
@@ -217,6 +208,7 @@
 # Alumni et leur étape suivante
 
 **Étudiants à la Maitrise**
+- [Akilesh Badrinaaraayanan](https://akileshbadrinaaraayanan.github.io/) (Jan 2020 - Juil. 2021) -- Étudiant au Doctorat à CMU
 - [Mohamed Ashraf Abdelsalam](https://mohamedabdelsalam9.github.io/) (Jan 2020 - Jul 2021) -- ML Research Engineer pour Samsung AI Center Toronto
 - [Mojtaba Faramarzi](https://bemova.github.io/) (Jan 2020 - Déc 2020) -- Étudiant au Doctorat à l'Université de Montréal
 
