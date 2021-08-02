@@ -38,6 +38,7 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "kramdown-parser-gfm"
 
 gem "webrick"
+gem "i18n"
 gem 'bootstrap-sass'
 gem 'jekyll-redirect-from'
 gem 'jekyll-multiple-languages-plugin'

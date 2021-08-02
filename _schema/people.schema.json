@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "title": { "enum": ["pi", "postdoc", "phd", "master", "intern"] },
+          "picture": { "type": "string" },
+          "website": { "type": "string" },
+          "cosupervisor": { "type": "string" },
+          "topics": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "en": { "type": "string" },
+                    "fr": { "type": "string" }
+                },
+                "required": [ "en", "fr" ]
+            }
+          },
+          "collage_column_start": { "type": "number" }
+        },
+        "required": [
+          "name",
+          "title"
+        ]
+    }
+}

@@ -3,15 +3,13 @@
 # À propos du laboratoire:
 
 
-Le Laboratoire de Recherche Chandar (CRL) est un groupe de recherche en apprentissage automatique (Machine Learning ou ML) du département de Génie Informatique et Génie Logiciel de [Polytechnique Montréal](https://www.polymtl.ca/). La mission à long terme du groupe est de développer des algorithmes d'apprentissage interactifs qui apprennent continuellement par de nouvelles expériences. Pour le moment, le laboratoire touche à plusieurs domaines de l'apprentissage continu comme l'apprentissage profond (Deep Learning), l'apprentissage par renforcement (Reinforcement Learning ou RL), l'apprentissage permanent (Lifelong Learning) et le traitement du langage naturel (Natural Language Processing ou NLP). 
+Le Laboratoire de Recherche Chandar (CRL) est un groupe de recherche en apprentissage automatique (Machine Learning ou ML) du département de Génie Informatique et Génie Logiciel de [Polytechnique Montréal](https://www.polymtl.ca/). La mission à long terme du groupe est de développer des algorithmes d'apprentissage interactifs qui apprennent continuellement par de nouvelles expériences. Pour le moment, le laboratoire touche à plusieurs domaines de l'apprentissage continu comme l'apprentissage profond (Deep Learning), l'apprentissage par renforcement (Reinforcement Learning ou RL), l'apprentissage permanent (Lifelong Learning) et le traitement du langage naturel (Natural Language Processing ou NLP).
 
-Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec/). 
+Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec/).
 <br>
 # Nouvelles:
 
-* (May 2021) Notre travail à propos de [l'apprentissage continu pour Hanabi](https://arxiv.org/abs/2103.03216)  a été accepté à ICML 2021.
-* (May 2021) Deux papiers accepté à Findings of ACL 2021: [une étude sur l'augmentation de donnée pour le traitement de langage naturel](https://arxiv.org/abs/2105.03075) et [prédiction de lien par moyenne de modèle de langage masqué](https://arxiv.org/abs/2009.07058).
-* (Mars 2021) Notre travail à propos d'un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021.
-* (Décembre 2020) Notre travail en apprentissage par renforcement pour pour découverte pharmaceutique a été accepté à AAAI 2021.
-* (Septembre 2020) Notre travail à propos d'une [nouvelle métrique pour le RL basé sur des modèles](https://arxiv.org/abs/2007.03158) a été accepté à NeurIPS 2020.
-* (Septembre 2020) Le cours de Sarath concernant [une introduction à l'apprentissage machine](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) est disponible sur Youtube !
+{% assign news = site.data.news | sort: 'date' | reverse %}
+{% for note in news %}
+* ({{ note.date | localize: "%B %Y" }}) {{ note.fr }}
+{% endfor %}

@@ -1,0 +1,271 @@
+# This file contains all active members displayed on https://chandar-lab.github.io/people/
+# Once a member becomes inactive, their details should be moved from people.yaml to alumni.yaml.
+# Note that the format of alumni.yaml is slightly different from people.yaml.
+
+# The picture, website, cosupervisor, and topics fields are optional.
+# The topics field must contain both english (en) and french (fr) translations.
+# The title field must be either: pi, postdoc, phd, or intern
+# Note that `intern` will be placed under "Interns/RAs" so this includes Research Assistants too.
+
+# The order in this file is the order of people in the collage, from left to right, row by row,
+# where there are 5 pictures on each row.
+# Note that to add blank spaces in the collage the collage_column_start property can be used.
+# collage_column_start indicates at which column the person should appear, sucessing people
+# will the follow.
+# To understand collage_column_start, lookup the CSS property `grid-column-start`.
+# Examples, where a number indicates that "collage_column_start" is set
+#  and - indicates it is not set:
+# Example 1:
+# [ 2, -, -, -, 1, -, -, -, -, -] =>
+#    x x x
+#  x x x x x
+# Example 2:
+# [ -, -, -, -, -, -, -, 4, -] =>
+#  x x x x x
+#  x x   x x
+# Example 3:
+# [ 1, 2, 3, 3, 4, 5]
+#   x x x
+#       x x x
+# Example 4:
+# [ -, -, -, 3, -, -]
+#   x x x
+#       x x x
+
+
+- name: Sarath Chandar
+  title: pi
+  picture: sarath-chandar.jpeg
+  website: http://sarathchandar.in/
+  collage_column_start: 2
+
+- name: Janarthanan Rajendran
+  title: postdoc
+  picture: janarthanan-rajendran.jpg
+  website: https://sites.google.com/umich.edu/janarthanan-rajendran/
+  cosupervisor: Doina Precup
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Meta-Learning
+      fr: Méta-apprentissage
+    - en: Dialog Systems
+      fr: Systèmes de dialogue
+
+- name: Gabriele Prato
+  title: phd
+  picture: gabriele-prato.jpg
+  website: https://pratogab.github.io/
+  cosupervisor: Alain Tapp
+  topics:
+    - en: Out-of-Distribution Generalization
+      fr: Généralisation hors de distribution
+
+- name: Simon Guiroy
+  title: phd
+  picture: simon-guiroy.jpeg
+  website: https://simonguiroy.github.io/
+  cosupervisor: Chris Pal
+  topics:
+    - en: Meta-Learning
+      fr: Méta-apprentissage
+    - en: Transfer Learning
+      fr: Transfère d'apprentissage
+  collage_column_start: 1
+
+- name: Louis Clouatre
+  title: phd
+  picture: louis-clouatre.jpeg
+  website: https://luee-c.github.io/
+  cosupervisor: Amal Zouaq
+  topics:
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: sequential information
+      fr: information séquentielle
+
+- name: Doriane Olewicki
+  title: phd
+  picture: doriane-olewicki.jpeg
+  website: https://olewicki.github.io/
+  cosupervisor: Bram Adams
+  topics:
+    - en: Continual Learning for Software Engineering
+      fr: Apprentissage continu appliqué à l'ingénierie logicielle
+    - en: Continuous Integration
+      fr: Intégration continue
+
+- name: Abdelrahman Zayed
+  title: phd
+  picture: abdelrahman-zayed.jpeg
+  website: https://abdelrahmanzayed.github.io/
+  topics:
+    - en: Applying constraints to neural networks
+      fr: Application de contraintes sur réseaux de neurones
+    - en: Recurrent neural networks
+      fr: Réseau de neurones récurrent
+
+- name: Andreas Madsen
+  title: phd
+  picture: andreas-madsen.jpeg
+  website: https://andreasmadsen.github.io/
+  cosupervisor: Siva Reddy
+  topics:
+    - en: Interpretability in NLP
+      fr: Interprétabilité de traitement du langage naturel
+
+- name: Mojtaba Faramarzi
+  title: phd
+  picture: mojtaba-faramarzi.png
+  website: https://bemova.github.io/
+  topics:
+    - en: Continual learning focused on replay and regularization methods
+      fr: Apprentissage permanent ciblé sur les méthodes de replay et de régularisation
+    - en: Data-dependent regularization for deep learning
+      fr: Régularization dépendante des données pour l'apprentissage profond
+
+- name: Charan Reddy
+  title: master
+  picture: charan-reddy.png
+  website: https://charan223.github.io
+  topics:
+    - en: Modular Continual Learning
+      fr: Apprentissage continu modulaire
+    - en: Multi Domain Meta Learning
+      fr: Méta-apprentissage dans multiple domaines
+    - en: Fairness in Deep Learning
+      fr: Équité en apprentissage profond
+    - en: Optimization
+      fr: Optimisation
+
+- name: Darshan Patil
+  title: master
+  picture: darshan-patil.png
+  website: https://www.darshanpatil.com
+  topics:
+    - en: Lifelong learning
+      fr: Apprentissage permanent
+    - en: Compositionality
+      fr: Compositionnalité
+    - en: Learning from Instruction
+      fr: Apprentissage par instruction
+
+- name: Ali Rahimi-Kalahroudi
+  title: master
+  picture: ali-rahimi-kalahroudi.jpg
+  website: http://alirahkay.github.io/
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
+- name: Pranshu Malviya
+  title: master
+  picture: pranshu-malviya.jpeg
+  website: http://pranshu28.github.io/
+  topics:
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Causal Inference
+      fr: Inférence de causalité
+    - en: Optimization
+      fr: Optimisation
+
+- name: Daphné Lafleur
+  title: master
+  picture: daphne-lafleur.jpeg
+  website: https://www.linkedin.com/in/daphné-lafleur-173a72170
+  cosupervisor: Gilles Pesant
+  topics:
+    - en: Algorithmic composition
+      fr: Composition algorithmique
+    - en: Constraint programming
+      fr: Programmation par contraintes
+    - en: Machine learning
+      fr: Apprentissage automatique
+
+- name: Hadi Nekoei
+  title: intern
+  picture: hadi-nekoei.jpg
+  website: https://hnekoeiq.github.io/
+  topics:
+    - en: Model-based RL
+      fr: Apprentissage par renforcement basé sur les models
+    - en: Multi-agent RL
+      fr: Apprentissage par renforcement multi-agent
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
+- name: Paul-Aymeric McRae
+  title: intern
+  picture: paul-aymeric-mcrae.jpg
+  website: https://aymeric-mcrae.github.io/
+  topics:
+    - en: Optimization
+      fr: Optimisation
+    - en: RNNs
+      fr: Réseau de neurones récurrent
+
+- name: Shabnam Haghzare
+  title: intern
+  picture: Shabnam_Haghzare.JPG
+  website: https://www.shabnamhaghzare.com/
+  topics:
+    - en: Human-Automation Interaction
+      fr: Interaction entre humain et automatisation
+    - en: Automated Driving
+      fr: Conduite automatique
+    - en: Older Adults
+      fr: Personnes agées
+    - en: Intelligent Vehicles
+      fr: Véhicules automatique
+    - en: Artificial Intelligence
+      fr: Intelligence Artificielle
+
+- name: Saujas Vaduguru
+  title: intern
+  picture: saujas-vaduguru.jpeg
+  website: https://saujasv.github.io/
+  topics:
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: Dialog systems
+      fr: systèmes de dialogue
+
+- name: Maziar Sargordi
+  title: intern
+  picture: maziar-sargordi.JPG
+  website: https://msargordi.github.io/
+  topics:
+    - en: Machine Learning
+      fr: Machine Learning
+    - en: Lifelong Learning
+      fr: Apprentissage Continu
+  collage_column_start: 2
+
+- name: Yi Wan
+  title: intern
+  picture: yi-wan.jpeg
+  website: https://sites.google.com/ualberta.ca/yiwan/
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+
+- name: Vignesh Rangarajan
+  title: intern
+  picture: vignesh-rangarajan.jpg
+  website: https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Multi-agent learning
+      fr: Apprentissage multi-agent
+    - en: Natural Language Processing
+      fr: Traitement du langage naturel
+    - en: Computer Vision
+      fr: Vision par ordinateur
+    - en: Sublinear Algorithms
+      fr: Algorithmes sublinéaires

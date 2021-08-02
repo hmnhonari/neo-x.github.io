@@ -11,208 +11,118 @@
 <link rel="stylesheet" type="style/css" href="/assets/css/style.css">
 
 <ul class='people'>
+{% assign pis = site.data.people | where: "title", "pi" %}
+{% for person in pis %}
 <li>
-{% include person.html src="/assets/images/bios/sarath-chandar.jpeg" name="Sarath Chandar" url="http://sarathchandar.in/" %}
+{% include person.html
+    picture=person.picture
+    name=person.name
+    website=person.website
+    cosupervisor=person.cosupervisor
+    topics=person.topics
+%}
 </li>
+{% endfor %}
 </ul>
 <!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
 
 # Postdocs
 
 <ul class='people'>
+{% assign postdocs = site.data.people | where: "title", "postdoc" %}
+{% for person in postdocs %}
 <li>
 {% include person.html
-    src="/assets/images/bios/janarthanan-rajendran.jpg"
-    name="Janarthanan Rajendran"
-    url="https://sites.google.com/umich.edu/janarthanan-rajendran/"
-    cosupervisor="Doina Precup"
-    research="Reinforcement Learning, Lifelong Learning, Meta-Learning, Dialog Systems"
+    picture=person.picture
+    name=person.name
+    website=person.website
+    cosupervisor=person.cosupervisor
+    topics=person.topics
 %}
 </li>
+{% endfor %}
 </ul>
 
 # PhD Students
 
 <ul class='people'>
+{% assign phds = site.data.people | where: "title", "phd" %}
+{% for person in phds %}
 <li>
 {% include person.html
-    src="/assets/images/bios/gabriele-prato.jpg"
-    name="Gabriele Prato"
-    url="https://pratogab.github.io/"
-    cosupervisor="Alain Tapp"
-    research="Out-of-Distribution Generalization"
+    picture=person.picture
+    name=person.name
+    website=person.website
+    cosupervisor=person.cosupervisor
+    topics=person.topics
 %}
 </li>
-<li>
-{% include person.html
-    src="/assets/images/bios/simon-guiroy.jpeg"
-    name="Simon Guiroy"
-    url="https://simonguiroy.github.io/"
-    cosupervisor="Chris Pal"
-    research="Meta-Learning, Transfer Learning"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/louis-clouatre.jpeg"
-    name="Louis Clouatre"
-    url="https://luee-c.github.io/"
-    cosupervisor="Amal Zouaq"
-    research="NLP, sequential information"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/doriane-olewicki.jpeg"
-    name="Doriane Olewicki"
-    url="https://olewicki.github.io/"
-    cosupervisor="Bram Adams"
-    research="Continual Learning for Software Engineering, Continuous Integration"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/abdelrahman-zayed.jpeg"
-    name="Abdelrahman Zayed"
-    url="https://abdelrahmanzayed.github.io/"
-    research="Applying constraints to neural networks, Recurrent neural networks"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/andreas-madsen.jpeg"
-    name="Andreas Madsen"
-    url="https://andreasmadsen.github.io/"
-    cosupervisor="Siva Reddy"
-    research="Interpretability in NLP"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/mojtaba-faramarzi.png"
-    name="Mojtaba Faramarzi"
-    url="https://bemova.github.io/"
-    research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
-%}
-</li>
+{% endfor %}
 </ul>
 
-
 # Masters Students
+
 <ul class='people'>
+{% assign masters = site.data.people | where: "title", "master" %}
+{% for person in masters %}
 <li>
 {% include person.html
-    src="/assets/images/bios/charan-reddy.png"
-    name="Charan Reddy"
-    url="https://charan223.github.io"
-    research="Modular Continual Learning, Multi Domain Meta Learning, Fairness in Deep Learning, Optimization"
+    picture=person.picture
+    name=person.name
+    website=person.website
+    cosupervisor=person.cosupervisor
+    topics=person.topics
 %}
 </li>
-<li>
-{% include person.html
-    src="/assets/images/bios/darshan-patil.png"
-    name="Darshan Patil"
-    url="https://www.darshanpatil.com"
-    research="Lifelong learning, Compositionality, Learning from Instruction"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/ali-rahimi-kalahroudi.jpg"
-    name="Ali Rahimi-Kalahroudi"
-    url="http://alirahkay.github.io/"
-    research="Deep Reinforcement Learning, Lifelong Learning"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/pranshu-malviya.jpeg"
-    name="Pranshu Malviya"
-    cosupervisor="Balaraman Ravindran"
-    url="http://pranshu28.github.io/"
-    research="Lifelong Learning, Causal Inference, Optimization"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/daphne-lafleur.jpeg"
-    name="Daphné Lafleur"
-    cosupervisor="Gilles Pesant"
-    url="https://www.linkedin.com/in/daphné-lafleur-173a72170"
-    research="Algorithmic composition, Constraint programming, Machine learning"
-%}
-</li>
+{% endfor %}
 </ul>
 
 # Interns/RAs
+
 <ul class='people'>
+{% assign interns = site.data.people | where: "title", "intern" %}
+{% for person in interns %}
 <li>
 {% include person.html
-    src="/assets/images/bios/hadi-nekoei.jpg"
-    name="Hadi Nekoei"
-    url="https://hnekoeiq.github.io/"
-    research="Model-based RL, Multi-agent RL, Lifelong Learning"
+    picture=person.picture
+    name=person.name
+    website=person.website
+    cosupervisor=person.cosupervisor
+    topics=person.topics
 %}
 </li>
-<li>
-{% include person.html
-    src="/assets/images/bios/paul-aymeric-mcrae.jpg"
-    name="Paul-Aymeric McRae"
-    url="https://aymeric-mcrae.github.io/"
-    research="Optimization, RNNs"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/Shabnam_Haghzare.JPG"
-    name="Shabnam Haghzare"
-    url="https://www.shabnamhaghzare.com/"
-    research="Human-Automation Interaction, Automated Driving, Older Adults, Intelligent Vehicles, Artificial Intelligence"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/saujas-vaduguru.jpeg"
-    name="Saujas Vaduguru"
-    url="https://saujasv.github.io/"
-    research="NLP, Dialog systems"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/maziar-sargordi.JPG"
-    name="Maziar Sargordi"
-    url="https://msargordi.github.io/"
-    research="Machine Learning, Lifelong Learning"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/yi-wan.jpeg"
-    name="Yi Wan"
-    url="https://sites.google.com/ualberta.ca/yiwan/"
-    research="Reinforcement Learning"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/vignesh-rangarajan.jpg"
-    name="Vignesh Rangarajan"
-    url="https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/"
-    research="Reinforcement Learning, Multi-agent learning, Natural Language Processing, Computer Vision, Sublinear Algorithms"
-%}
-</li>
+{% endfor %}
 </ul>
 
 
 # Alumni and their next step
 
 **Masters Students**
-- [Akilesh Badrinaaraayanan](https://akileshbadrinaaraayanan.github.io/) (Jan 2020 - Jul 2021) -- PhD student at CMU.
-- [Mohamed Ashraf Abdelsalam](https://mohamedabdelsalam9.github.io/) (Jan 2020 - Jul 2021) -- ML Research Engineer at Samsung AI Center Toronto
-- [Mojtaba Faramarzi](https://bemova.github.io/) (Jan 2020 - Dec 2020) -- PhD student at University of Montreal.
+<ul>
+{% assign alumni_masters = site.data.alumni | where: "title", "master" | sort: "period.end"  | reverse %}
+{% for person in alumni_masters %}
+<li>
+{% include person_alumni.html
+    name=person.name
+    website=person.website
+    period=person.period
+    next=person.next
+%}
+</li>
+{% endfor %}
+</ul>
 
 **Interns**
-- [Rodrigo Chavez Zavaleta](https://chavezrodz.github.io/) (Jun 2020 - May 2021) -- Masters at McGill Univesity
-- [Sam Finestone](https://sam-finestone.github.io/) (Jun 2020 - Dec 2020) -- Back to McGill University
-- Evan Racah (Jan 2020 - Jun 2020) -- Waymo
+<ul>
+{% assign alumni_interns = site.data.alumni | where: "title", "intern" | sort: "period.end" | reverse %}
+{% for person in alumni_interns %}
+<li>
+{% include person_alumni.html
+    name=person.name
+    website=person.website
+    period=person.period
+    next=person.next
+%}
+</li>
+{% endfor %}
+</ul>

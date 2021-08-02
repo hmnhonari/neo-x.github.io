@@ -1,14 +1,14 @@
 <!-- <img src="{{include.src}}" width="125" height="125" /> <br> -->
 <!-- <a href="url"></a>{{include.name}} -->
 <div class='row'>
-    {% if include.src != "" and include.src != nil %}
-    <img src="{{include.src}}">
+    {% if include.picture != "" and include.picture != nil %}
+    <img src="/assets/images/bios/{{include.picture}}">
     {% else %}
     <img src="/assets/images/bios/white.png">
     {% endif %}
     <div class='info'>
-        {% if include.url != "" and include.url != nil %}
-        <a href="{{include.url}}">
+        {% if include.website != "" and include.website != nil %}
+        <a href="{{include.website}}">
             {{include.name}}
         </a>
         {% else %}
@@ -24,8 +24,8 @@
             {% t translations.cosupervisor %}: {{include.cosupervisor}}
             <br>
             {% endif %}
-            {% if include.research != "" and include.research != nil %}
-            {% t translations.research %}: {{include.research}}
+            {% if include.topics != "" and include.topics != nil %}
+            {% t translations.research %}: {{ include.topics | map: site.lang | join: ', ' }}
             {% endif %}
         </div>
     </div>

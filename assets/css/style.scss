@@ -31,164 +31,88 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 	box-sizing: border-box;
 }
 
-/*  Team Starts */
+/* collage positions */
+.collage {
+	margin-top: 70px;
+	margin-bottom: 20px;
+
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-areas: "members title";
+	place-items: center;
+	column-gap: 20px;
+}
+
+/*  Team member pictures */
 .team-members {
-	transform: rotate(15deg);
-}
-.team-members li > div {
-	float: left;
-	width: 20%;
-}
-.team-members li {
-	list-style-type: none;
-	display: inline-block;
-	margin-bottom: -6px;
+	grid-area: members;
+
+	transform: rotate(15deg) translate(0, 0) scale(0.867);
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-auto-flow: row;
+	gap: 5px;
+	place-items: center;
 }
 
-// // margin shift for 4 lines
-// .team-members li:nth-child(1) > div:first-child {
-// 	margin-left: -20%;
-// }
-// .team-members li:nth-child(2) > div:first-child {
-// 	margin-left: -10%;
-// }
-// .team-members li:last-child > div:first-child {
-// 	margin-left: -10%;
-// }
-
-// margin shift for 5 lines
-.team-members li:nth-child(1) > div:first-child {
-	margin-left: -0%;
-}
-.team-members li:nth-child(2) > div:first-child {
-	margin-left: -20%;
-}
-.team-members li:nth-child(3) > div:first-child {
-	margin-left: -20%;
-}
-.team-members li:nth-child(4) > div:first-child {
-	margin-left: -20%;
-}
-.team-members li:last-child > div:first-child {
-	margin-left: 0%;
+.team-members .member-details {
+	overflow: hidden;
+	position: relative;
 }
 
-.member-details > div {
-	margin: 2px;
-}
-.member-details img {
-	transform: rotate(-15deg) translate(0, 0px) scale(1.15);
-	border-radius:50%;
+.team-members .member-details img {
+	transform: rotate(-15deg) translate(0, 0) scale(1.15);
+	border-radius: 50%;
 	width: 100%;
 	height: 100%;
+	object-fit: contain;
 }
 
-/* hover content - style */
-.member-details > div {
-	position: relative;
-	overflow: hidden;
-}
-
-
-/* For centering elements - optional - Can use table,tablecell instead */
-.flex-center {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	align-items: flex-start;
-}
-
-.flex-center > div:first-child {
-	order: 2;
-}
-
-.collage-title-text::first-letter {
-	font-size: 120px;
-	font-family: monospace;
-	font-weight: bold;
-	color:rgb(22, 180, 185);
-	height: 105px;
+/* title font customization */
+.collage-title {
+	grid-area: title;
 }
 .collage-title-text {
 	font-size: 110px;
+	line-height: 1;
 	font-family: monospace;
-	height: 105px;
 }
-.collage {
-	margin-top: 70px;
-	margin-left: 50px;
-	margin-bottom: 20px;
+.collage-title-text::first-letter {
+	font-size: 120px;
+	font-weight: bold;
+	color:rgb(22, 180, 185);
 }
+
 /* RESPONSIVE */
 @media only screen and (max-width : 992px) {
-	// .sm-no-flex {
-	// 	display: block;
-	// }
-	// .sm-no-float {
-	// 	float: none !important;
-	// }
-	// .sm-text-center {
-	// 	text-align: center;
-	// }
 	.collage-title-text::first-letter {
-		font-size: 80px;
-		font-family: monospace;
-		font-weight: bold;
-		color:rgb(22, 180, 185);
+		font-size: 100px;
 	}
 	.collage-title-text {
-		font-size: 70px;
-		font-family: monospace;
-		height: 80px;
+		font-size: 90px;
 	}
 	.collage {
 		margin-top: 40px;
-		margin-left: 40px;
 		margin-bottom: 20px;
 	}
-	// .collage-title {
-	// 	margin-bottom: 100px;
-	// }
 }
 
-@media only screen and (max-width : 550px) {
+@media only screen and (max-width : 760px) {
 	.collage-title-text::first-letter {
 		font-size: 80px;
-		font-family: monospace;
-		font-weight: bold;
-		color:rgb(22, 180, 185);
 	}
 	.collage-title-text {
 		font-size: 70px;
-		font-family: monospace;
-		height: 80px;
-	}
-	.collage-title {
-		margin-left: -200;	
-	}
-	.collage {
-		margin-top: 0px;
-		margin-bottom: 20px;
-		margin-left: 0px;
-	}
-	.team-members {
-		display: none;
-	}
-	.flex-center {
-		justify-content: left;
 	}
 }
 
-@media only screen and (max-width : 399px) {
+@media only screen and (max-width : 570px) {
 	.collage {
 		margin-top: 0px;
-		margin-bottom: 15px;
-		margin-left: 00px;
+		margin-bottom: 20px;
+		grid-template-areas: "title title";
 	}
 	.team-members {
 		display: none;
-	}
-	.flex-center {
-		justify-content: left;
 	}
 }
