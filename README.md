@@ -12,14 +12,14 @@ just create a PR with the English content and contact the French maintainer to h
 
 When a publication is added or changed:
 
-1. Update [`_data/publications.yml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/publications.yml)
+1. Update [`_data/publications.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/publications.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
 ### News
 
 When the news section needs to be changed:
 
-1. Update [`_data/people.yml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/news.yml)
+1. Update [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/news.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
 ### People
@@ -28,15 +28,15 @@ _Note: Only the maintainer is expected to do this._
 
 When someone joins the group:
 
-1. Add them to [`_data/people.yml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yml)
+1. Add them to [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
 2. Add their profile picture too [`assets/images/`](assets/images/). Remember to upload in a reasonable small resolution, to keep the bandwidth low.
 2. Create a pull request.
 
 If someone leaves the group, then:
 
-1. Remove them from [`_data/people.yml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yml)
+1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
 2. Remove their profile picture from [`assets/images/`](assets/images/).
-2. Add them to [`_data/alumni.yml`](_data/alumni.yml) in the same branch.
+2. Add them to [`_data/alumni.yaml`](_data/alumni.yaml) in the same branch.
 3. Create a pull request.
 
 ## Local development
