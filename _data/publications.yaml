@@ -3,6 +3,17 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "Post-hoc Interpretability for Neural NLP: A Survey"
+  authors:
+    - Andreas Madsen
+    - Siva Reddy
+    - Sarath Chandar
+  venue: In arXiv
+  date: 2021-08-12
+  links:
+    arXiv: arxiv.org/abs/2108.04840
+  preprint: true
+
 - title: "TAG: Task-based Accumulated Gradients for Lifelong learning"
   authors:
     - Pranshu Malviya
