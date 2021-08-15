@@ -4,26 +4,61 @@
 $content-width:    1200px;
 $on-palm:          800px;
 $on-laptop:        1200px;
-// @import "solarized-dark";
+
 @import "{{site.theme}}";
-ul {
-    text-align: justify;
+
+/*
+ * People page
+ */
+ul.people {
+	list-style-type: none;
+	padding-left: 0;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-auto-flow: row;
+	gap: 20px;
 }
-p {
-    text-align: justify;
+
+ul.people li {
+	display: grid;
+	grid-template-columns: 100px auto;
+	grid-template-rows: auto 1fr;
+	gap: 0 10px;
+	grid-template-areas:
+	  "img name"
+	  "img description";
 }
-ul.people{list-style-type:none;padding-left:0; text-align: left;}
-ul.people li div.row{position: relative;width: auto}
-ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:10px;margin-left:1em;}
-ul.people li div.text{font-size: 15px;}
-// @include media-query($on-laptop) {
-// }
-ul.people li{display:inline-block;margin-right:2em;width:45%}
-@include media-query($on-palm) {
-    ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
+
+ul.people li img {
+	grid-area: img;
+	width: 100px;
+	height: 100px;
+	object-fit: contain;
+	border-radius: 10px;
 }
-// ul.people li{margin-right:2em;text-align:left;}
-ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
+
+ul.people li h6 {
+	grid-area: name;
+	font-size: 16px;
+	margin: 0px;
+}
+
+ul.people li p {
+	grid-area: description;
+	font-size: 15px;
+	margin: 0;
+}
+
+
+@media only screen and (max-width : 800px) {
+	ul.people {
+		grid-template-columns: 1fr;
+	}
+}
+
+/*
+ * Font page
+ */
 
 /* collage positions */
 .collage {
