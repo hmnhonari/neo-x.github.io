@@ -36,11 +36,11 @@ plugins:
 
 encoding: utf-8
 languages: ["en", "fr"]
-exclude_from_localizations: ["assets/images", "youtube.md", "home.md"]
+exclude_from_localizations: ["assets/images", "youtube.md"]
 
 
 header_pages:
-  - home.md
+  - index.md
   - people.md
   - publications.md
   - join.md

@@ -4,10 +4,7 @@
 
 layout: page
 permalink: /
-title: ""
-width: 1200
-redirect_from:
-    - /home
+title: titles.home
 ---
 {% include collage.html %}
 {% tf index.md %}
