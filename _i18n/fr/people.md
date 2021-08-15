@@ -1,11 +1,3 @@
-<!-- <style type="text/css">
-.bio {
-  display: block;
-  margin-right: 20px;
-  float: left;
-  width: 150px;
-}
-</style> -->
 
 # Chercheur Principal
 <link rel="stylesheet" type="style/css" href="/assets/css/style.css">

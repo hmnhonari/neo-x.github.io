@@ -1,14 +1,5 @@
-<!-- <style type="text/css">
-.bio {
-  display: block;
-  margin-right: 20px;
-  float: left;
-  width: 150px;
-}
-</style> -->
 
 # Principal Investigator
-<link rel="stylesheet" type="style/css" href="/assets/css/style.css">
 
 <ul class='people'>
 {% assign pis = site.data.people | where: "title", "pi" %}
@@ -24,7 +15,6 @@
 </li>
 {% endfor %}
 </ul>
-<!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
 
 # Postdocs
 
