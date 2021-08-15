@@ -1,7 +1,7 @@
 
 # Principal Investigator
 
-<ul class='people'>
+<ul class="people">
 {% assign pis = site.data.people | where: "title", "pi" %}
 {% for person in pis %}
 <li>
@@ -18,7 +18,7 @@
 
 # Postdocs
 
-<ul class='people'>
+<ul class="people">
 {% assign postdocs = site.data.people | where: "title", "postdoc" %}
 {% for person in postdocs %}
 <li>
@@ -35,7 +35,7 @@
 
 # PhD Students
 
-<ul class='people'>
+<ul class="people">
 {% assign phds = site.data.people | where: "title", "phd" %}
 {% for person in phds %}
 <li>
@@ -52,7 +52,7 @@
 
 # Masters Students
 
-<ul class='people'>
+<ul class="people">
 {% assign masters = site.data.people | where: "title", "master" %}
 {% for person in masters %}
 <li>
@@ -69,7 +69,7 @@
 
 # Interns/RAs
 
-<ul class='people'>
+<ul class="people">
 {% assign interns = site.data.people | where: "title", "intern" %}
 {% for person in interns %}
 <li>
@@ -87,7 +87,8 @@
 
 # Alumni and their next step
 
-**Masters Students**
+#### Masters Students
+
 <ul>
 {% assign alumni_masters = site.data.alumni | where: "title", "master" | sort: "period.end"  | reverse %}
 {% for person in alumni_masters %}
@@ -102,7 +103,8 @@
 {% endfor %}
 </ul>
 
-**Interns**
+#### Interns
+
 <ul>
 {% assign alumni_interns = site.data.alumni | where: "title", "intern" | sort: "period.end" | reverse %}
 {% for person in alumni_interns %}

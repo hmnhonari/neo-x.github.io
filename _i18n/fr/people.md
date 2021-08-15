@@ -88,7 +88,8 @@
 
 # Alumni et leur étape suivante
 
-**Étudiants à la Maitrise**
+#### Étudiants à la Maitrise
+
 <ul>
 {% assign alumni_masters = site.data.alumni | where: "title", "master" | sort: "period.end" | reverse %}
 {% for person in alumni_masters %}
@@ -103,7 +104,8 @@
 {% endfor %}
 </ul>
 
-**Stagiaires**
+#### Stagiaires
+
 <ul>
 {% assign alumni_interns = site.data.alumni | where: "title", "intern" | sort: "period.end" | reverse %}
 {% for person in alumni_interns %}
