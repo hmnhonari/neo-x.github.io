@@ -3,18 +3,12 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (10.2.5.1)
-      execjs (> 0)
-    bootstrap-sass (3.4.1)
-      autoprefixer-rails (>= 5.2.1)
-      sassc (>= 2.0.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    execjs (2.8.1)
     ffi (1.15.3)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -86,7 +80,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass
   i18n
   jekyll
   jekyll-feed (~> 0.6)
