@@ -35,13 +35,13 @@
 
 - name: Sarath Chandar
   title: pi
-  picture: sarath-chandar.jpeg
+  picture: sarath-chandar
   website: http://sarathchandar.in/
   collage_column_start: 2
 
 - name: Janarthanan Rajendran
   title: postdoc
-  picture: janarthanan-rajendran.jpg
+  picture: janarthanan-rajendran
   website: https://sites.google.com/umich.edu/janarthanan-rajendran/
   cosupervisor: Doina Precup
   topics:
@@ -56,7 +56,7 @@
 
 - name: Gabriele Prato
   title: phd
-  picture: gabriele-prato.jpg
+  picture: gabriele-prato
   website: https://pratogab.github.io/
   cosupervisor: Alain Tapp
   topics:
@@ -65,7 +65,7 @@
 
 - name: Simon Guiroy
   title: phd
-  picture: simon-guiroy.jpeg
+  picture: simon-guiroy
   website: https://simonguiroy.github.io/
   cosupervisor: Chris Pal
   topics:
@@ -77,7 +77,7 @@
 
 - name: Louis Clouatre
   title: phd
-  picture: louis-clouatre.jpeg
+  picture: louis-clouatre
   website: https://luee-c.github.io/
   cosupervisor: Amal Zouaq
   topics:
@@ -88,7 +88,7 @@
 
 - name: Doriane Olewicki
   title: phd
-  picture: doriane-olewicki.jpeg
+  picture: doriane-olewicki
   website: https://olewicki.github.io/
   cosupervisor: Bram Adams
   topics:
@@ -99,7 +99,7 @@
 
 - name: Abdelrahman Zayed
   title: phd
-  picture: abdelrahman-zayed.jpeg
+  picture: abdelrahman-zayed
   website: https://abdelrahmanzayed.github.io/
   topics:
     - en: Applying constraints to neural networks
@@ -109,7 +109,7 @@
 
 - name: Andreas Madsen
   title: phd
-  picture: andreas-madsen.jpeg
+  picture: andreas-madsen
   website: https://andreasmadsen.github.io/
   cosupervisor: Siva Reddy
   topics:
@@ -118,7 +118,7 @@
 
 - name: Mojtaba Faramarzi
   title: phd
-  picture: mojtaba-faramarzi.png
+  picture: mojtaba-faramarzi
   website: https://bemova.github.io/
   topics:
     - en: Continual learning focused on replay and regularization methods
@@ -128,7 +128,7 @@
 
 - name: Charan Reddy
   title: master
-  picture: charan-reddy.png
+  picture: charan-reddy
   website: https://charan223.github.io
   topics:
     - en: Modular Continual Learning
@@ -142,7 +142,7 @@
 
 - name: Darshan Patil
   title: master
-  picture: darshan-patil.png
+  picture: darshan-patil
   website: https://www.darshanpatil.com
   topics:
     - en: Lifelong learning
@@ -154,7 +154,7 @@
 
 - name: Ali Rahimi-Kalahroudi
   title: master
-  picture: ali-rahimi-kalahroudi.jpg
+  picture: ali-rahimi-kalahroudi
   website: http://alirahkay.github.io/
   topics:
     - en: Deep Reinforcement Learning
@@ -164,7 +164,7 @@
 
 - name: Pranshu Malviya
   title: master
-  picture: pranshu-malviya.jpeg
+  picture: pranshu-malviya
   website: http://pranshu28.github.io/
   topics:
     - en: Lifelong Learning
@@ -176,7 +176,7 @@
 
 - name: Daphné Lafleur
   title: master
-  picture: daphne-lafleur.jpeg
+  picture: daphne-lafleur
   website: https://www.linkedin.com/in/daphné-lafleur-173a72170
   cosupervisor: Gilles Pesant
   topics:
@@ -189,7 +189,7 @@
 
 - name: Hadi Nekoei
   title: intern
-  picture: hadi-nekoei.jpg
+  picture: hadi-nekoei
   website: https://hnekoeiq.github.io/
   topics:
     - en: Model-based RL
@@ -201,7 +201,7 @@
 
 - name: Paul-Aymeric McRae
   title: intern
-  picture: paul-aymeric-mcrae.jpg
+  picture: paul-aymeric-mcrae
   website: https://aymeric-mcrae.github.io/
   topics:
     - en: Optimization
@@ -211,7 +211,7 @@
 
 - name: Shabnam Haghzare
   title: intern
-  picture: Shabnam_Haghzare.JPG
+  picture: shabnam_haghzare
   website: https://www.shabnamhaghzare.com/
   topics:
     - en: Human-Automation Interaction
@@ -227,7 +227,7 @@
 
 - name: Saujas Vaduguru
   title: intern
-  picture: saujas-vaduguru.jpeg
+  picture: saujas-vaduguru
   website: https://saujasv.github.io/
   topics:
     - en: NLP
@@ -237,7 +237,7 @@
 
 - name: Maziar Sargordi
   title: intern
-  picture: maziar-sargordi.JPG
+  picture: maziar-sargordi
   website: https://msargordi.github.io/
   topics:
     - en: Machine Learning
@@ -248,7 +248,7 @@
 
 - name: Yi Wan
   title: intern
-  picture: yi-wan.jpeg
+  picture: yi-wan
   website: https://sites.google.com/ualberta.ca/yiwan/
   topics:
     - en: Reinforcement Learning
@@ -256,7 +256,7 @@
 
 - name: Vignesh Rangarajan
   title: intern
-  picture: vignesh-rangarajan.jpg
+  picture: vignesh-rangarajan
   website: https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/
   topics:
     - en: Reinforcement Learning

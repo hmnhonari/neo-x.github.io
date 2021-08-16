@@ -1,18 +1,22 @@
 <section>
-    <div class="container collage">
-        <div class="collage-title">
-            <div class="collage-title-text">{% t collage.line1 %}</div>
-            <div class="collage-title-text">{% t collage.line2 %}</div>
-            <div class="collage-title-text">{% t collage.line3 %}</div>
-        </div>
+    <div class="collage">
+        <img class="collage-title" src="/assets/images/logo_{{site.lang}}.svg">
 
         <div class="team-members">
             {% for person in site.data.people %}
+            {% if person.picture != "" and person.picture != nil %}
             <div class="member-details"
-                {% if person.collage_column_start != nil %}
-                style="grid-column-start: {{person.collage_column_start}};"
-                {% endif %}
-            ><img src="/assets/images/bios/{{person.picture}}"></div>
+            {% if person.collage_column_start != nil %}
+            style="grid-column-start: {{person.collage_column_start}};"
+            {% endif %}
+            >
+                <picture>
+                    <source srcset="/assets/images/bios_compressed/{{person.picture}}.webp" type="image/webp">
+                    <source srcset="/assets/images/bios_compressed/{{person.picture}}.jpg" type="image/jpeg">
+                    <img src="/assets/images/bios_compressed/{{person.picture}}.jpg" loading="lazy" alt="Picture of {{person.name}}">
+                </picture>
+            </div>
+            {% endif %}
             {% endfor %}
         </div>
     </div>

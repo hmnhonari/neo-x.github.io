@@ -29,7 +29,8 @@ _Note: Only the maintainer is expected to do this._
 When someone joins the group:
 
 1. Add them to [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
-2. Add their profile picture too [`assets/images/`](assets/images/). Remember to upload in a reasonable small resolution, to keep the bandwidth low.
+2. Add their profile picture too [`assets/images/bios/`](assets/images/bios/).
+3. Use the `compress_bios.sh` or smiliar, to compress their profile picture to an appropriate size.
 2. Create a pull request.
 
 If someone leaves the group, then:

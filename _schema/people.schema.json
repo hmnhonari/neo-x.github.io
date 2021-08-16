@@ -6,7 +6,7 @@
         "properties": {
           "name": { "type": "string" },
           "title": { "enum": ["pi", "postdoc", "phd", "master", "intern"] },
-          "picture": { "type": "string" },
+          "picture": { "$ref": "#/definitions/filename" },
           "website": { "type": "string" },
           "cosupervisor": { "type": "string" },
           "topics": {
@@ -26,5 +26,12 @@
           "name",
           "title"
         ]
+    },
+    "definitions": {
+        "filename": {
+            "type": "string",
+            "pattern": "^[a-z_-]+$",
+            "example": "firstname-lastname.jpg"
+        }
     }
 }

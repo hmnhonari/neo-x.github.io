@@ -29,8 +29,11 @@ ul.people li {
 	  "img description";
 }
 
-ul.people li img {
+ul.people li picture {
 	grid-area: img;
+}
+
+ul.people li picture img {
 	width: 100px;
 	height: 100px;
 	object-fit: contain;
@@ -66,7 +69,7 @@ ul.people li p {
 	margin-bottom: 20px;
 
 	display: grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: 1fr 1fr;
 	grid-template-areas: "members title";
 	place-items: center;
 	column-gap: 20px;
@@ -97,48 +100,13 @@ ul.people li p {
 	object-fit: contain;
 }
 
-/* title font customization */
 .collage-title {
 	grid-area: title;
-}
-.collage-title-text {
-	font-size: 110px;
-	line-height: 1;
-	font-family: monospace;
-}
-.collage-title-text::first-letter {
-	font-size: 120px;
-	font-weight: bold;
-	color:rgb(22, 180, 185);
-}
-
-/* RESPONSIVE */
-@media only screen and (max-width : 992px) {
-	.collage-title-text::first-letter {
-		font-size: 100px;
-	}
-	.collage-title-text {
-		font-size: 90px;
-	}
-	.collage {
-		margin-top: 40px;
-		margin-bottom: 20px;
-	}
-}
-
-@media only screen and (max-width : 760px) {
-	.collage-title-text::first-letter {
-		font-size: 80px;
-	}
-	.collage-title-text {
-		font-size: 70px;
-	}
 }
 
 @media only screen and (max-width : 570px) {
 	.collage {
 		margin-top: 0px;
-		margin-bottom: 20px;
 		grid-template-areas: "title title";
 	}
 	.team-members {
