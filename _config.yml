@@ -26,22 +26,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chandar-lab
 youtube_channel: UCa885azMHaNWAEEVeJHTjHw
 youtube_channel_name: chandar-lab
+twitter_username: ChandarLab
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
 
 encoding: utf-8
 languages: ["en", "fr"]
-exclude_from_localizations: ["assets/images", "youtube.md", "home.md"]
+exclude_from_localizations: ["assets/images", "youtube.md"]
 
 
 header_pages:
-  - home.md
+  - index.md
   - people.md
   - publications.md
   - join.md

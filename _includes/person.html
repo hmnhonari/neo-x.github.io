@@ -1,32 +1,21 @@
-<!-- <img src="{{include.src}}" width="125" height="125" /> <br> -->
-<!-- <a href="url"></a>{{include.name}} -->
-<div class='row'>
-    {% if include.picture != "" and include.picture != nil %}
+{% if include.picture != "" and include.picture != nil %}
     <img src="/assets/images/bios/{{include.picture}}">
-    {% else %}
-    <img src="/assets/images/bios/white.png">
+{% endif %}
+
+{% if include.website != "" and include.website != nil %}
+    <h6><a href="{{include.website}}">{{include.name}}</a></h6>
+{% else %}
+    <h6>{{include.name}}</h6>
+{% endif %}
+
+<p>
+    {% if include.affiliation != "" and include.affiliation != nil %}
+        {{include.affiliation}}<br>
     {% endif %}
-    <div class='info'>
-        {% if include.website != "" and include.website != nil %}
-        <a href="{{include.website}}">
-            {{include.name}}
-        </a>
-        {% else %}
-        {{include.name}}
-        {% endif %}
-        <br>
-        <div class='text'>
-            {% if include.affiliation != "" and include.affiliation != nil %}
-            {{include.affiliation}}
-            <br>
-            {% endif %}
-            {% if include.cosupervisor != "" and include.cosupervisor != nil %}
-            {% t translations.cosupervisor %}: {{include.cosupervisor}}
-            <br>
-            {% endif %}
-            {% if include.topics != "" and include.topics != nil %}
-            {% t translations.research %}: {{ include.topics | map: site.lang | join: ', ' }}
-            {% endif %}
-        </div>
-    </div>
-</div>
+    {% if include.cosupervisor != "" and include.cosupervisor != nil %}
+        {% t translations.cosupervisor %}: {{include.cosupervisor}}<br>
+    {% endif %}
+    {% if include.topics != "" and include.topics != nil %}
+        {% t translations.research %}: {{ include.topics | map: site.lang | join: ', ' }}
+    {% endif %}
+</p>
