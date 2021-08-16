@@ -1,9 +1,7 @@
-name: Jekyll site CI
+name: Jekyll Publish
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
 jobs:
@@ -20,7 +18,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    # Specify the target branch (optional)
+    # Compile Jekyll website and publish
     - uses: helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
