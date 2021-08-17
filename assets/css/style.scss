@@ -37,6 +37,7 @@ ul.people li picture img {
 	width: 100px;
 	height: 100px;
 	object-fit: contain;
+	display: block;
 	border-radius: 10px;
 }
 
@@ -95,9 +96,11 @@ ul.people li p {
 .team-members .member-details img {
 	transform: rotate(-15deg) translate(0, 0) scale(1.15);
 	border-radius: 50%;
-	width: 100%;
-	height: 100%;
+	max-width: 100%;
+	height: auto;
+	aspect-ratio: 1/1;
 	object-fit: contain;
+	display: block;
 }
 
 .collage-title {

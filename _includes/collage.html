@@ -1,6 +1,6 @@
 <section>
     <div class="collage">
-        <img class="collage-title" src="/assets/images/logo_{{site.lang}}.svg">
+        <img class="collage-title" height="300" src="/assets/images/logo_{{site.lang}}.svg">
 
         <div class="team-members">
             {% for person in site.data.people %}
@@ -13,7 +13,7 @@
                 <picture>
                     <source srcset="/assets/images/bios_compressed/{{person.picture}}.webp" type="image/webp">
                     <source srcset="/assets/images/bios_compressed/{{person.picture}}.jpg" type="image/jpeg">
-                    <img src="/assets/images/bios_compressed/{{person.picture}}.jpg" loading="lazy" alt="Picture of {{person.name}}">
+                    <img src="/assets/images/bios_compressed/{{person.picture}}.jpg" loading="lazy" height="100" width="100" alt="Picture of {{person.name}}">
                 </picture>
             </div>
             {% endif %}
