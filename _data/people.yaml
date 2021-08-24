@@ -37,7 +37,6 @@
   title: pi
   picture: sarath-chandar
   website: http://sarathchandar.in/
-  collage_column_start: 2
 
 - name: Janarthanan Rajendran
   title: postdoc
@@ -73,7 +72,6 @@
       fr: Méta-apprentissage
     - en: Transfer Learning
       fr: Transfère d'apprentissage
-  collage_column_start: 1
 
 - name: Louis Clouatre
   title: phd
@@ -225,16 +223,6 @@
     - en: Artificial Intelligence
       fr: Intelligence Artificielle
 
-- name: Saujas Vaduguru
-  title: intern
-  picture: saujas-vaduguru
-  website: https://saujasv.github.io/
-  topics:
-    - en: NLP
-      fr: Traitement du langage naturel
-    - en: Dialog systems
-      fr: systèmes de dialogue
-
 - name: Maziar Sargordi
   title: intern
   picture: maziar-sargordi
@@ -244,7 +232,6 @@
       fr: Machine Learning
     - en: Lifelong Learning
       fr: Apprentissage Continu
-  collage_column_start: 2
 
 - name: Yi Wan
   title: intern
@@ -253,19 +240,3 @@
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement
-
-- name: Vignesh Rangarajan
-  title: intern
-  picture: vignesh-rangarajan
-  website: https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/
-  topics:
-    - en: Reinforcement Learning
-      fr: Apprentissage profond par renforcement
-    - en: Multi-agent learning
-      fr: Apprentissage multi-agent
-    - en: Natural Language Processing
-      fr: Traitement du langage naturel
-    - en: Computer Vision
-      fr: Vision par ordinateur
-    - en: Sublinear Algorithms
-      fr: Algorithmes sublinéaires

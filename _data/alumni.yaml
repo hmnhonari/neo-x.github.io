@@ -7,6 +7,26 @@
 # The next field must contain both english (en) and french (fr) translations.
 # The title field must be either: pi, postdoc, phd, or intern
 
+- name: Saujas Vaduguru
+  title: intern
+  website: https://saujasv.github.io/
+  period:
+    start: 2021-05-03
+    end: 2021-08-13
+  next:
+    en: Back to IIIT Hyderabad.
+    fr: Retour à IIIT Hyderabad.
+
+- name: Vignesh Rangarajan
+  title: intern
+  website: https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/
+  period:
+    start: 2021-06-01
+    end: 2021-08-01
+  next:
+    en: Back to Mission San Jose High School.
+    fr: Retour au lycée Mission San Jose.
+
 - name: Akilesh Badrinaaraayanan
   title: master
   website: https://akileshbadrinaaraayanan.github.io/
