@@ -53,6 +53,16 @@
     - en: Dialog Systems
       fr: Systèmes de dialogue
 
+- name: Vivswan Shitole
+  title: phd
+  picture: vivswan-shitole
+  website: https://viv92.github.io/
+  topics:
+    - en: Continual Reinforcement Learning
+      fr: Apprentissage de renforcement continu
+    - en: Causal Inference
+      fr: Inférence causale
+
 - name: Gabriele Prato
   title: phd
   picture: gabriele-prato
