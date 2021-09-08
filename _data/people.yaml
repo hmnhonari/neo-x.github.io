@@ -141,9 +141,9 @@
   cosupervisor: Yoshua Bengio
   topics:
     - en: ML for drug discovery
-      fr:
+      fr: apprentissage machine pour la recherche pharmaceutique
     - en: ML for social good
-      fr:
+      fr: apprentissage machine pour le bien commun
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement
     - en: Optimization
