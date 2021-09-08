@@ -134,6 +134,21 @@
     - en: Data-dependent regularization for deep learning
       fr: Régularization dépendante des données pour l'apprentissage profond
 
+- name: Jarrid Rector-Brooks
+  title: master
+  picture: jarrid-rector-brooks
+  website: https://jarridrb.github.io
+  cosupervisor: Yoshua Bengio
+  topics:
+    - en: ML for drug discovery
+      fr:
+    - en: ML for social good
+      fr:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Optimization
+      fr: Optimisation
+
 - name: Charan Reddy
   title: master
   picture: charan-reddy
