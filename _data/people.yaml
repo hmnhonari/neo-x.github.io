@@ -37,12 +37,16 @@
   title: pi
   picture: sarath-chandar
   website: http://sarathchandar.in/
+  period:
+    start: 1970-01-01
 
 - name: Janarthanan Rajendran
   title: postdoc
   picture: janarthanan-rajendran
   website: https://sites.google.com/umich.edu/janarthanan-rajendran/
   cosupervisor: Doina Precup
+  period:
+    start: 2021-06-21
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement
@@ -57,6 +61,8 @@
   title: phd
   picture: vivswan-shitole
   website: https://viv92.github.io/
+  period:
+    start: 2021-09-06
   topics:
     - en: Continual Reinforcement Learning
       fr: Apprentissage de renforcement continu
@@ -68,6 +74,8 @@
   picture: gabriele-prato
   website: https://pratogab.github.io/
   cosupervisor: Alain Tapp
+  period:
+    start: 2019-05-01
   topics:
     - en: Out-of-Distribution Generalization
       fr: Généralisation hors de distribution
@@ -77,6 +85,8 @@
   picture: simon-guiroy
   website: https://simonguiroy.github.io/
   cosupervisor: Chris Pal
+  period:
+    start: 2019-10-01
   topics:
     - en: Meta-Learning
       fr: Méta-apprentissage
@@ -88,6 +98,8 @@
   picture: louis-clouatre
   website: https://luee-c.github.io/
   cosupervisor: Amal Zouaq
+  period:
+    start: 2019-09-01
   topics:
     - en: NLP
       fr: Traitement du langage naturel
@@ -99,6 +111,8 @@
   picture: doriane-olewicki
   website: https://olewicki.github.io/
   cosupervisor: Bram Adams
+  period:
+    start: 2020-08-30
   topics:
     - en: Continual Learning for Software Engineering
       fr: Apprentissage continu appliqué à l'ingénierie logicielle
@@ -109,6 +123,8 @@
   title: phd
   picture: abdelrahman-zayed
   website: https://abdelrahmanzayed.github.io/
+  period:
+    start: 2020-09-01
   topics:
     - en: Applying constraints to neural networks
       fr: Application de contraintes sur réseaux de neurones
@@ -120,6 +136,8 @@
   picture: andreas-madsen
   website: https://andreasmadsen.github.io/
   cosupervisor: Siva Reddy
+  period:
+    start: 2020-08-30
   topics:
     - en: Interpretability in NLP
       fr: Interprétabilité de traitement du langage naturel
@@ -128,6 +146,8 @@
   title: phd
   picture: mojtaba-faramarzi
   website: https://bemova.github.io/
+  period:
+    start: 2021-01-01
   topics:
     - en: Continual learning focused on replay and regularization methods
       fr: Apprentissage permanent ciblé sur les méthodes de replay et de régularisation
@@ -139,6 +159,8 @@
   picture: jarrid-rector-brooks
   website: https://jarridrb.github.io
   cosupervisor: Yoshua Bengio
+  period:
+    start: 2021-09-01
   topics:
     - en: ML for drug discovery
       fr: apprentissage machine pour la recherche pharmaceutique
@@ -153,6 +175,8 @@
   title: master
   picture: charan-reddy
   website: https://charan223.github.io
+  period:
+    start: 2020-07-01
   topics:
     - en: Modular Continual Learning
       fr: Apprentissage continu modulaire
@@ -167,6 +191,8 @@
   title: phd
   picture: darshan-patil
   website: https://www.darshanpatil.com
+  period:
+    start: 2021-09-01
   topics:
     - en: Lifelong learning
       fr: Apprentissage permanent
@@ -179,6 +205,8 @@
   title: master
   picture: ali-rahimi-kalahroudi
   website: http://alirahkay.github.io/
+  period:
+    start: 2021-01-01
   topics:
     - en: Deep Reinforcement Learning
       fr: Apprentissage profond par renforcement
@@ -189,6 +217,8 @@
   title: master
   picture: pranshu-malviya
   website: http://pranshu28.github.io/
+  period:
+    start: 2021-01-01
   topics:
     - en: Lifelong Learning
       fr: Apprentissage permanent
@@ -202,6 +232,8 @@
   picture: daphne-lafleur
   website: https://www.linkedin.com/in/daphné-lafleur-173a72170
   cosupervisor: Gilles Pesant
+  period:
+    start: 2021-06-28
   topics:
     - en: Algorithmic composition
       fr: Composition algorithmique
@@ -214,6 +246,8 @@
   title: intern
   picture: hadi-nekoei
   website: https://hnekoeiq.github.io/
+  period:
+    start: 2020-01-01
   topics:
     - en: Model-based RL
       fr: Apprentissage par renforcement basé sur les models
@@ -226,6 +260,8 @@
   title: intern
   picture: paul-aymeric-mcrae
   website: https://aymeric-mcrae.github.io/
+  period:
+    start: 2020-09-01
   topics:
     - en: Optimization
       fr: Optimisation
@@ -236,6 +272,8 @@
   title: intern
   picture: shabnam_haghzare
   website: https://www.shabnamhaghzare.com/
+  period:
+    start: 2021-05-11
   topics:
     - en: Human-Automation Interaction
       fr: Interaction entre humain et automatisation
@@ -252,6 +290,8 @@
   title: intern
   picture: maziar-sargordi
   website: https://msargordi.github.io/
+  period:
+    start: 2021-05-01
   topics:
     - en: Machine Learning
       fr: Machine Learning
@@ -262,6 +302,8 @@
   title: intern
   picture: yi-wan
   website: https://sites.google.com/ualberta.ca/yiwan/
+  period:
+    start: 2021-05-01
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement

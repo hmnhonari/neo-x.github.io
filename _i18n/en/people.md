@@ -2,7 +2,7 @@
 # Principal Investigator
 
 <ul class="people">
-{% assign pis = site.data.people | where: "title", "pi" %}
+{% assign pis = site.data.people | where: "title", "pi" | sort: "period.start" %}
 {% for person in pis %}
 <li>
 {% include person.html
@@ -19,7 +19,7 @@
 # Postdocs
 
 <ul class="people">
-{% assign postdocs = site.data.people | where: "title", "postdoc" %}
+{% assign postdocs = site.data.people | where: "title", "postdoc" | sort: "period.start" %}
 {% for person in postdocs %}
 <li>
 {% include person.html
@@ -36,7 +36,7 @@
 # PhD Students
 
 <ul class="people">
-{% assign phds = site.data.people | where: "title", "phd" %}
+{% assign phds = site.data.people | where: "title", "phd" | sort: "period.start" %}
 {% for person in phds %}
 <li>
 {% include person.html
@@ -53,7 +53,7 @@
 # Masters Students
 
 <ul class="people">
-{% assign masters = site.data.people | where: "title", "master" %}
+{% assign masters = site.data.people | where: "title", "master" | sort: "period.start" %}
 {% for person in masters %}
 <li>
 {% include person.html
@@ -70,7 +70,7 @@
 # Interns/RAs
 
 <ul class="people">
-{% assign interns = site.data.people | where: "title", "intern" %}
+{% assign interns = site.data.people | where: "title", "intern" | sort: "period.start" %}
 {% for person in interns %}
 <li>
 {% include person.html
