@@ -240,7 +240,6 @@
     - en: Constraint programming
       fr: Programmation par contraintes
     - en: Machine learning
-      fr: Apprentissage automatique
 
 - name: Hadi Nekoei
   title: intern
@@ -294,7 +293,7 @@
     start: 2021-05-01
   topics:
     - en: Machine Learning
-      fr: Machine Learning
+      fr: Apprentissage automatique
     - en: Lifelong Learning
       fr: Apprentissage Continu
 
