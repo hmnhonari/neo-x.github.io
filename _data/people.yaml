@@ -154,6 +154,18 @@
     - en: Data-dependent regularization for deep learning
       fr: Régularization dépendante des données pour l'apprentissage profond
 
+- name: Kshitij Gupta
+  title: master
+  website: https://kshitijkg.github.io
+  cosupervisor: Irina Rish
+  period:
+    start:  2021-09-01
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong learning
+      fr: Apprentissage permanent
+
 - name: Jarrid Rector-Brooks
   title: master
   picture: jarrid-rector-brooks
