@@ -26,14 +26,25 @@ When the news section needs to be changed:
 
 _Note: Only the maintainer is expected to do this._
 
-When someone joins the group:
+#### When someone joins the group:
 
 1. Add them to [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
 2. Add their profile picture too [`assets/images/bios/`](assets/images/bios/).
 3. Use the `compress_bios.sh` or smiliar, to compress their profile picture to an appropriate size.
 2. Create a pull request.
 
-If someone leaves the group, then:
+_To aid the process, you can send them this:_
+
+> To add you to the website, I will need this information.
+> * Your name
+> * Are you a PhD student, a master student, or an intern?
+> * Your profile picturre in square format. This is optional, if you don't want your face on the website.
+> * Your website (this is mandatory)
+> * Your co-supervisor, if any.
+> * Your start date
+> * Your topic of interrests. See https://chandar-lab.github.io/people/ for examples. If you know French, then please provide translations too.
+
+#### If someone leaves the group, then:
 
 1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
 2. Remove their profile picture from [`assets/images/`](assets/images/).
