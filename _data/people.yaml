@@ -57,6 +57,18 @@
     - en: Dialog Systems
       fr: Systèmes de dialogue
 
+- name: Xutong Zhao
+  title: phd
+  picture: xutong-zhao
+  website: https://tongtongx.github.io/
+  period:
+    start: 2021-09-01
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
 - name: Vivswan Shitole
   title: phd
   picture: vivswan-shitole
