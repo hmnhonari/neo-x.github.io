@@ -38,11 +38,11 @@ _To aid the process, you can send them this:_
 > To add you to the website, I will need this information.
 > * Your name
 > * Are you a PhD student, a master student, or an intern?
-> * Your profile picturre in square format. This is optional, if you don't want your face on the website.
+> * Your profile picture in square format. This is optional, if you don't want your face on the website.
 > * Your website (this is mandatory)
 > * Your co-supervisor, if any.
 > * Your start date
-> * Your topic of interrests. See https://chandar-lab.github.io/people/ for examples. If you know French, then please provide translations too.
+> * Your topic of interests. See https://chandar-lab.github.io/people/ for examples. If you know French, then please provide translations too.
 
 #### If someone leaves the group, then:
 
