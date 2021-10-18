@@ -57,6 +57,21 @@
     - en: Dialog Systems
       fr: Systèmes de dialogue
 
+- name: Naga Karthik
+  title: phd
+  picture: naga-karthik
+  website: https://naga-karthik.github.io
+  cosupervisor: Julien Cohen-Adad
+  period:
+    start: 2021-10-01
+  topics:
+    - en: Continual Learning in Medical Imaging
+      fr: Apprentissage continu pour l'imagerie médicale
+    - en: Bayesian Uncertainty Estimation
+      fr: Estimation de l'incertitude bayésienne
+    - en: Biomedical Image Processing
+      fr: Traitement d'images biomédicales
+
 - name: Xutong Zhao
   title: phd
   picture: xutong-zhao
