@@ -15,6 +15,13 @@ When a publication is added or changed:
 1. Update [`_data/publications.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/publications.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
+### Theses
+
+When a thesis is added or changed:
+
+1. Update [`_data/theses.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/theses.yaml)
+2. Create a pull request and ask the current maintainer to review.
+
 ### News
 
 When the news section needs to be changed:
