@@ -7,6 +7,16 @@
 # The next field must contain both english (en) and french (fr) translations.
 # The title field must be either: pi, postdoc, phd, or intern
 
+- name: Paul-Aymeric McRae
+  title: intern
+  website: https://aymeric-mcrae.github.io/
+  period:
+    start: 2020-09-01
+    end: 2021-07-01
+  next:
+    en: PhD student at Michigan State University
+    fr: Étudiant au Doctorat à Michigan State Univesity
+
 - name: Saujas Vaduguru
   title: intern
   website: https://saujasv.github.io/

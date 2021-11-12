@@ -84,18 +84,6 @@
     - en: Lifelong Learning
       fr: Apprentissage permanent
 
-- name: Vivswan Shitole
-  title: phd
-  picture: vivswan-shitole
-  website: https://viv92.github.io/
-  period:
-    start: 2021-09-06
-  topics:
-    - en: Continual Reinforcement Learning
-      fr: Apprentissage de renforcement continu
-    - en: Causal Inference
-      fr: Inférence causale
-
 - name: Gabriele Prato
   title: phd
   picture: gabriele-prato
@@ -295,18 +283,6 @@
       fr: Apprentissage par renforcement multi-agent
     - en: Lifelong Learning
       fr: Apprentissage permanent
-
-- name: Paul-Aymeric McRae
-  title: intern
-  picture: paul-aymeric-mcrae
-  website: https://aymeric-mcrae.github.io/
-  period:
-    start: 2020-09-01
-  topics:
-    - en: Optimization
-      fr: Optimisation
-    - en: RNNs
-      fr: Réseau de neurones récurrent
 
 - name: Shabnam Haghzare
   title: intern
