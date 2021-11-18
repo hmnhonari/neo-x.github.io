@@ -177,9 +177,11 @@
   period:
     start:  2021-09-01
   topics:
-    - en: Reinforcement Learning
-      fr: Apprentissage profond par renforcement
-    - en: Lifelong learning
+    - en: Model-based RL
+      fr: Apprentissage par renforcement basé sur les models
+    - en: Planning
+      fr: La planification
+    - en: Lifelong Learning
       fr: Apprentissage permanent
 
 - name: Jarrid Rector-Brooks
