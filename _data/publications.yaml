@@ -3,6 +3,18 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "Demystifying Neural Language Models' Insensitivity to Word-Order"
+  authors:
+    - Louis Clouatre
+    - Prasanna Parthasarathi
+    - Amal Zouaq
+    - Sarath Chandar
+  venue: In arXiv
+  date: 2021-07-29
+  links:
+    arXiv: https://arxiv.org/abs/2107.13955
+  preprint: true
+
 - title: "Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining"
   authors:
     - Andreas Madsen
