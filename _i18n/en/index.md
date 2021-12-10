@@ -7,7 +7,7 @@ CRL is also affiliated with [Mila, the Quebec AI Institute](https://mila.quebec/
 
 # News:
 
-{% assign news = site.data.news | sort: 'date' | reverse %}
+{% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse %}
 {% for note in news %}
 * ({{ note.date | localize: "%B %Y" }}) {{ note.en }}
 {% endfor %}

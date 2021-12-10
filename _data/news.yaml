@@ -1,6 +1,10 @@
 # This file contains all news displayed on https://chandar-lab.github.io/
 # Both english (en) and french (fr) transplations must be provided.
-# The date is specified in the format YYYY-MM-DD (ISO-8601)
+# The date is specified in the format YYYY-MM-DD (ISO-8601).
+# A `hidden: true` property can be set to hide a news item from the
+#   website. Old news are relevant for in grant applications etc..
+#   Therefore, do not remove old news, simply set the hidden: true
+#   property.
 
 - en: "Our work on [Lifelong Hanabi](https://arxiv.org/abs/2103.03216) was accepted at ICML 2021"
   fr: "Notre travail à propos de [l'apprentissage continu pour Hanabi](https://arxiv.org/abs/2103.03216) a été accepté à ICML 2021."

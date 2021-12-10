@@ -26,8 +26,10 @@ When a thesis is added or changed:
 
 When the news section needs to be changed:
 
-1. Update [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/news.yaml)
+1. Update [`_data/news.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/news.yaml)
 2. Create a pull request and ask the current maintainer to review.
+
+_Note, old news are not deleted but hidden by setting a `hidden: true` property._
 
 ### People
 

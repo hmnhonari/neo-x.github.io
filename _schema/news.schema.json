@@ -6,7 +6,8 @@
         "properties": {
           "en": { "type": "string" },
           "fr": { "type": "string" },
-          "date": { "$ref": "#/definitions/date" }
+          "date": { "$ref": "#/definitions/date" },
+          "hidden": { "const": true }
         },
         "required": [
           "en",
