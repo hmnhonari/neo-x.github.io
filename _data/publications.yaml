@@ -54,19 +54,18 @@
     code: https://github.com/ppartha03/Dialogue-Probe-Tasks-Public
   preprint: true
 
-- title: "PatchUp: A Regularization Technique for Convolutional Neural Networks"
+- title: "PatchUp: A Feature-Space Block-Level Regularization Technique for Convolutional Neural Networks"
   authors:
     - Mojtaba Faramarzi
     - Mohammad Amini
     - Akilesh Badrinaaraayanan
     - Vikas Verma
     - Sarath Chandar
-  venue: In arXiv
-  date: 2020-06-14
+  venue: AAAI 2022
+  date: 2021-11-23
   links:
     arXiv: https://arxiv.org/abs/2006.07794
     code: https://github.com/chandar-lab/PatchUp
-  preprint: true
 
 - title: "Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics"
   authors:
@@ -194,3 +193,18 @@
   date: 2020-05-20
   links:
     arXiv: https://arxiv.org/abs/2004.12485
+
+- title: "Adversarial Feature Desensitization"
+  authors:
+    - Pouya Bashivan
+    - Reza Bayat
+    - Adam Ibrahim
+    - Kartik Ahuja
+    - Mojtaba Faramarzi
+    - Touraj Laleh
+    - Blake Richards
+    - Irina Rish
+  venue: NeurIPS 2021
+  date: 2020-05-20
+  links:
+    paper: https://proceedings.neurips.cc/paper/2021/hash/587b7b833034299fdd5f4b10e7dc9fca-Abstract.html
