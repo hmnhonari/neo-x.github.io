@@ -85,7 +85,7 @@
     - Akilesh Badrinaaraayanan
     - Vikas Verma
     - Sarath Chandar
-  venue: AAAI 2022
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
   date: 2022-03-22
   links:
     arXiv: https://arxiv.org/abs/2006.07794
@@ -236,7 +236,7 @@
     - Touraj Laleh
     - Blake Richards
     - Irina Rish
-  venue: NeurIPS 2021
-  date: 2020-05-20
+  venue: Neural Information Processing Systems (NeurIPS)
+  date: 2021-12-06
   links:
     paper: https://proceedings.neurips.cc/paper/2021/hash/587b7b833034299fdd5f4b10e7dc9fca-Abstract.html
