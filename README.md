@@ -55,7 +55,13 @@ _To aid the process, you can send them this:_
 > * Your start date
 > * Your topic of interests. See https://chandar-lab.github.io/people/ for examples. If you know French, then please provide translations too.
 
-#### If someone leaves the group, then:
+#### When someone graduates but stays. For example, from Master to PhD:
+
+1. Add their current profile (e.g. master) to [`_data/alumni.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/alumni.yaml).
+2. Update their current profile in [`_data/alumni.yaml`](_data/people.yaml) to the new title (e.g PhD) and start date in the same branch.
+3. Create a pull request.
+
+#### When someone leaves the group:
 
 1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
 2. Remove their profile picture from [`assets/images/`](assets/images/).

@@ -57,6 +57,18 @@
     - en: Dialog Systems
       fr: Systèmes de dialogue
 
+- name: Maziar Sargordi
+  title: phd
+  picture: maziar-sargordi
+  website: https://msargordi.github.io/
+  period:
+    start: 2022-01-01
+  topics:
+    - en: Machine Learning
+      fr: Apprentissage automatique
+    - en: Lifelong Learning
+      fr: Apprentissage Continu
+
 - name: Naga Karthik
   title: phd
   picture: naga-karthik
@@ -303,18 +315,6 @@
       fr: Véhicules automatique
     - en: Artificial Intelligence
       fr: Intelligence Artificielle
-
-- name: Maziar Sargordi
-  title: intern
-  picture: maziar-sargordi
-  website: https://msargordi.github.io/
-  period:
-    start: 2021-05-01
-  topics:
-    - en: Machine Learning
-      fr: Apprentissage automatique
-    - en: Lifelong Learning
-      fr: Apprentissage Continu
 
 - name: Yi Wan
   title: intern

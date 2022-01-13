@@ -7,6 +7,26 @@
 # The next field must contain both english (en) and french (fr) translations.
 # The title field must be either: pi, postdoc, phd, or intern
 
+- name: Maziar Sargordi
+  title: intern
+  website: https://msargordi.github.io/
+  period:
+    start: 2021-05-01
+    end: 2021-12-01
+  next:
+    en: Back to Polytechnique Montreal
+    fr: Retour à Polytechnique Montréal
+
+- name: Pranshu Malviya
+  title: master
+  website: http://pranshu28.github.io/
+  period:
+    start: 2021-01-01
+    end: 2021-12-01
+  next:
+    en: PhD student at Polytechnique Montreal
+    fr: Étudiant au Doctorat à Polytechnique Montréal
+
 - name: Paul-Aymeric McRae
   title: intern
   website: https://aymeric-mcrae.github.io/
