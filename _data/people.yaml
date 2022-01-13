@@ -169,6 +169,20 @@
     - en: Data-dependent regularization for deep learning
       fr: Régularization dépendante des données pour l'apprentissage profond
 
+- name: Pranshu Malviya
+  title: phd
+  picture: pranshu-malviya
+  website: http://pranshu28.github.io/
+  period:
+    start: 2022-01-01
+  topics:
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Causal Inference
+      fr: Inférence de causalité
+    - en: Optimization
+      fr: Optimisation
+
 - name: Kshitij Gupta
   title: master
   picture: kshitij-gupta
@@ -242,20 +256,6 @@
       fr: Apprentissage profond par renforcement
     - en: Lifelong Learning
       fr: Apprentissage permanent
-
-- name: Pranshu Malviya
-  title: master
-  picture: pranshu-malviya
-  website: http://pranshu28.github.io/
-  period:
-    start: 2021-01-01
-  topics:
-    - en: Lifelong Learning
-      fr: Apprentissage permanent
-    - en: Causal Inference
-      fr: Inférence de causalité
-    - en: Optimization
-      fr: Optimisation
 
 - name: Daphné Lafleur
   title: master
