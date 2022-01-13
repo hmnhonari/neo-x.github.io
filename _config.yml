@@ -29,16 +29,20 @@ youtube_channel_name: chandar-lab
 twitter_username: ChandarLab
 
 # Build settings
+encoding: utf-8
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
+  - jekyll-datapage-generator
 
-encoding: utf-8
+whitelist:
+  - jekyll-redirect-from
+
 languages: ["en", "fr"]
 exclude_from_localizations: ["assets/images", "youtube.md"]
-
 
 header_pages:
   - index.md
@@ -48,8 +52,12 @@ header_pages:
   - join.md
   - youtube.md
 
-whitelist:
-  - jekyll-redirect-from
+page_gen:
+  - data: people
+    template: profile
+    name: name
+    dir: people
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

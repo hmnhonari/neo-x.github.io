@@ -1,0 +1,20 @@
+---
+layout: page
+title_generation: profile
+---
+<ul class="people">
+    <li>
+    {% include person.html
+        picture=page.picture
+        name=page._name
+        website=page.website
+        cosupervisor=page.cosupervisor
+        topics=page.topics
+    %}
+    </li>
+</ul>
+
+{% assign publications = site.data.publications | where_exp:"item","item.authors contains page._name" %}
+{% include publications.html
+    publications=publications
+%}

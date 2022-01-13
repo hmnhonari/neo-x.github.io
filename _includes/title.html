@@ -1,0 +1,5 @@
+{%- if page.title_generation and page.title_generation == 'profile' -%}
+    Publications by {{ page._name }}
+{%- else -%}
+{%- t page.title -%}
+{%- endif -%}
