@@ -22,6 +22,8 @@ When a thesis is added or changed:
 1. Update [`_data/theses.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/theses.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
+_If the thesis is not already a public document through the university, add it to [our Google Drive](https://drive.google.com/drive/folders/1g8dLImUtkY3PpmgXexx_HM3rNOZk1NYr)._
+
 ### News
 
 When the news section needs to be changed:
