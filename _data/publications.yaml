@@ -25,6 +25,7 @@
   date: 2021-10-15
   links:
     arXiv: https://arxiv.org/abs/2110.08412
+    code: https://github.com/AndreasMadsen/nlp-roar-interpretability
   preprint: true
 
 - title: "Post-hoc Interpretability for Neural NLP: A Survey"
