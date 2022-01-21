@@ -1,10 +1,14 @@
 <p>
-    <strong>{{include.title}}</strong><br>
-    by {{include.author}}, with {{include.supervisors | array_to_sentence_string}} as supervisor{% if include.supervisors.size > 1%}s{% endif %}.<br>
-    {{include.university}}, {{include.date | localize: "%B %Y"}}.<br>
-    {% if include.links != "" and include.links != nil %}
-    {% for link in include.links %}
+<strong>{{include.title}}</strong><br>
+by {%
+  include linked_person.html name=include.author
+%}, with {%
+  include linked_people.html names=include.supervisors
+%} as supervisor{% if include.supervisors.size > 1%}s{% endif %}.<br>
+{{include.university}}, {{include.date | localize: "%B %Y"}}.<br>
+{% if include.links != "" and include.links != nil %}
+  {% for link in include.links %}
     [<a href="{{link[1]}}">{{link[0]}}</a>]{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
-    {% endif %}
+  {% endfor %}
+{% endif %}
 </p>

@@ -14,7 +14,13 @@ title_generation: profile
     </li>
 </ul>
 
+{% assign theses = site.data.theses | where:"author",page._name %}
+{% include theses.html
+    theses=theses
+%}
+
 {% assign publications = site.data.publications | where_exp:"item","item.authors contains page._name" %}
 {% include publications.html
     publications=publications
 %}
+

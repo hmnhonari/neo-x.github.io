@@ -1,0 +1,10 @@
+{% assign person = site.data.people | find: "name", include.name %}
+{%- if person -%}
+  {%- if site.lang == "en" -%}
+    <a href="{{ site.baseurl_root }}/{{ person.name | datapage_url: 'people' }}">{{ include.name }}</a>
+  {%- elsif site.lang == "fr" -%}
+    <a href="{{ site.baseurl_root }}/fr/{{ person.name | datapage_url: 'people' }}">{{ include.name }}</a>
+  {%- endif -%}
+{%- else -%}
+  {{ include.name }}
+{%- endif -%}

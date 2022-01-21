@@ -1,6 +1,6 @@
 
 {% assign preprints = include.publications | where: "preprint", true | sort: 'date' | reverse %}
-{% if preprints.size != 0 %}
+{% if preprints.size > 0 %}
 <h2>Preprints</h2>
 
 <ul>
@@ -19,7 +19,7 @@
 {% endif %}
 
 {% assign publications = include.publications | where: "preprint", nil | sort: 'date' | reverse %}
-{% if publications.size != 0 %}
+{% if publications.size > 0 %}
 <h2>Conference and Journal Papers</h2>
 
 {% assign year_lastpaper = nil %}
@@ -30,7 +30,7 @@
 {% unless forloop.first %}
 </ol>
 {% endunless %}
-<h1>{{ year_thispaper }}</h1>
+<h3>{{ year_thispaper }}</h3>
 <ol reversed start="{{ forloop.rindex }}">
 {% endif %}
 
