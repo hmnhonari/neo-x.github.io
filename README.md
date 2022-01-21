@@ -8,6 +8,18 @@ If there are updates to people, publications, or news you can in most cases easi
 If you need help you can contact the current maintainer. If you don't speak French and need to provide French information,
 just create a PR with the English content and contact the French maintainer to help you.
 
+**Guides:**
+
+* [Publications](#publications)
+* [Theses](#theses)
+* [News](#news)
+* [Join Us](#join-us)
+* [About the Lab](#about-the-lab)
+* [People](#people)
+  * [When someone joins the group](#when-someone-joins-the-group)
+  * [When someone graduates but stays](#when-someone-graduates-but-stays-for-example-from-master-to-phd)
+  * [When someone leaves the group](#when-someone-leaves-the-group)
+
 ### Publications
 
 When a publication is added or changed:
