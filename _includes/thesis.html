@@ -1,10 +1,14 @@
 <p>
 <strong>{{include.title}}</strong><br>
-by {%
+{% t translations.thesis.by %} {%
   include linked_person.html name=include.author
-%}, with {%
+%}, {% t translations.thesis.with %} {%
   include linked_people.html names=include.supervisors
-%} as supervisor{% if include.supervisors.size > 1%}s{% endif %}.<br>
+%} {% if include.supervisors.size > 1%}
+  {%- t translations.thesis.as_supervisors -%}
+{% else %}
+  {%- t translations.thesis.as_supervisor -%}
+{% endif %}.<br>
 {{include.university}}, {{include.date | localize: "%B %Y"}}.<br>
 {% if include.links != "" and include.links != nil %}
   {% for link in include.links %}

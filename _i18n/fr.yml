@@ -6,10 +6,29 @@ titles:
   people: Membres
   join: Joignez-nous
   publications: Publications
-  theses: Theses
+  theses: Thèses
   youtube: Chaîne Youtube
 site:
   title: Laboratoire de Recherche Chandar
+headings:
+  about_the_lab: À propos du laboratoire
+  news: Nouvelles
+  master_thesis: Thèse de maitrise
+  phd_thesis: Thèse de doctorat
+  preprints: Prépublications
+  conference_and_journal_papers: Articles de conférence et de revue
+  principal_investigator: Chercheur principal
+  postdocs: Postdoctorals
+  phd_students: Étudiants au doctorat
+  masters_students: Étudiants à la maitrise
+  interns_ras: Stagiaires/RAs
+  alumni_and_their_next_step: Les anciens étudiants et la suite de leur parcours
 translations:
-  cosupervisor: Co-superviseur
-  research: Domaines de recherche
+  person:
+    cosupervisor: Co-superviseur
+    research: Domaines de recherche
+  thesis:
+    by: par
+    with: avec
+    as_supervisor: comme superviseur
+    as_supervisors: comme superviseurs

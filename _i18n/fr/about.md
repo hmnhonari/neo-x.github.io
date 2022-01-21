@@ -1,15 +1,3 @@
-<!-- <img src="/assets/images/website_collage.jpg" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;" > -->
-
-# À propos du laboratoire:
-
-
 Le Laboratoire de Recherche Chandar (CRL) est un groupe de recherche en apprentissage automatique (Machine Learning ou ML) du département de Génie Informatique et Génie Logiciel de [Polytechnique Montréal](https://www.polymtl.ca/). La mission à long terme du groupe est de développer des algorithmes d'apprentissage interactifs qui apprennent continuellement par de nouvelles expériences. Pour le moment, le laboratoire touche à plusieurs domaines de l'apprentissage continu comme l'apprentissage profond (Deep Learning), l'apprentissage par renforcement (Reinforcement Learning ou RL), l'apprentissage permanent (Lifelong Learning) et le traitement du langage naturel (Natural Language Processing ou NLP).
 
 Le CRL est aussi affilié au [Mila, the Quebec AI Institute](https://mila.quebec/).
-
-# Nouvelles:
-
-{% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse %}
-{% for note in news %}
-* ({{ note.date | localize: "%B %Y" }}) {{ note.fr }}
-{% endfor %}

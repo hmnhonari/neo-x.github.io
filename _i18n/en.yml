@@ -10,6 +10,25 @@ titles:
   youtube: Youtube Channel
 site:
   title: Chandar Research Lab
+headings:
+  about_the_lab: About the Lab
+  news: News
+  master_thesis: Master's thesis
+  phd_thesis: PhD thesis
+  preprints: Preprints
+  conference_and_journal_papers: Conference and Journal Papers
+  principal_investigator: Principal Investigator
+  postdocs: Postdocs
+  phd_students: PhD Students
+  masters_students: Masters Students
+  interns_ras: Interns/RAs
+  alumni_and_their_next_step: Alumni and their next step
 translations:
-  cosupervisor: Co-supervisor
-  research: Research Areas
+  person:
+    cosupervisor: Co-supervisor
+    research: Research Areas
+  thesis:
+    by: by
+    with: with
+    as_supervisor: as supervisor
+    as_supervisors: as supervisors

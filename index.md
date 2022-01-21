@@ -7,4 +7,14 @@ permalink: /
 title: titles.home
 ---
 {% include collage.html %}
-{% tf index.md %}
+
+## {% t headings.about_the_lab %}
+
+{% tf about.md %}
+
+## {% t headings.news %}
+
+{% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse %}
+{% for note in news %}
+* ({{ note.date | localize: "%B %Y" }}) {{ note[site.lang] }}
+{% endfor %}

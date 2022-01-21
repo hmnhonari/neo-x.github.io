@@ -1,0 +1,14 @@
+<ul class="people">
+{% assign people = include.people | sort: "period.start" %}
+{% for person in people %}
+    <li>
+    {% include person.html
+        picture=person.picture
+        name=person.name
+        website=person.website
+        cosupervisor=person.cosupervisor
+        topics=person.topics
+    %}
+    </li>
+{% endfor %}
+</ul>

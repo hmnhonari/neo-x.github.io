@@ -1,7 +1,7 @@
 
 {% assign phds = include.theses | where: "degree", "phds" | sort: 'date' | reverse %}
 {% if phds.size > 0 %}
-<h2>PhD thesis</h2>
+<h2>{% t headings.phd_thesis %}</h2>
 
 <ol reversed start="{{ phds.size }}">
 {% for thesis in phds %}
@@ -22,7 +22,7 @@
 
 {% assign masters = include.theses | where: "degree", "master" | sort: 'date' | reverse %}
 {% if masters.size > 0 %}
-<h2>Master's thesis</h2>
+<h2>{% t headings.master_thesis %}</h2>
 
 <ol reversed start="{{ masters.size }}">
 {% for thesis in masters %}

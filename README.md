@@ -33,6 +33,22 @@ When the news section needs to be changed:
 
 _Note, old news are not deleted but hidden by setting a `hidden: true` property._
 
+### Join Us
+
+When the _Join Us_ section needs to be changed:
+
+1. Update [`_i18n/en/join.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_i18n/en/join.md)
+2. Update [`_i18n/fr/join.md`](_i18n/fr/join.md) in the same branch.
+3. Create a pull request.
+
+### About the Lab
+
+When the _About the Lab_ section needs to be changed:
+
+1. Update [`_i18n/en/about.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_i18n/en/about.md)
+2. Update [`_i18n/fr/about.md`](_i18n/fr/about.md) in the same branch.
+3. Create a pull request.
+
 ### People
 
 _Note: Only the maintainer is expected to do this._

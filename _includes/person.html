@@ -17,9 +17,9 @@
         {{include.affiliation}}<br>
     {% endif %}
     {% if include.cosupervisor != "" and include.cosupervisor != nil %}
-        {% t translations.cosupervisor %}: {{include.cosupervisor}}<br>
+        {% t translations.person.cosupervisor %}: {{include.cosupervisor}}<br>
     {% endif %}
     {% if include.topics != "" and include.topics != nil %}
-        {% t translations.research %}: {{ include.topics | map: site.lang | join: ', ' }}
+        {% t translations.person.research %}: {{ include.topics | map: site.lang | join: ', ' }}
     {% endif %}
 </p>
