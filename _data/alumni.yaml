@@ -87,6 +87,16 @@
     en: PhD student at University of Montreal
     fr: Étudiant au Doctorat à l'Université de Montréal
 
+- name: Hadi Nekoei
+  title: intern
+  website: https://hnekoeiq.github.io/
+  period:
+    start: 2020-01-01
+    end: 2021-12-31
+  next:
+    en: PhD student at University of Montreal
+    fr: Étudiant au Doctorat à l'Université de Montréal
+
 - name: Rodrigo Chavez Zavaleta
   title: intern
   website: https://chavezrodz.github.io/

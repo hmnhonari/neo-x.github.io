@@ -169,6 +169,22 @@
     - en: Interpretability in NLP
       fr: Interprétabilité de traitement du langage naturel
 
+- name: Hadi Nekoei
+  title: phd
+  picture: hadi-nekoei
+  website: https://hnekoeiq.github.io/
+  period:
+    start: 2021-12-31
+  topics:
+    - en: Multi-agent RL
+      fr: Apprentissage par renforcement multi-agent
+    - en: Model-based RL
+      fr: Apprentissage par renforcement basé sur les models
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Generalization in RL
+      fr: généralisation en apprentissage par renforcement
+
 - name: Mojtaba Faramarzi
   title: phd
   picture: mojtaba-faramarzi
@@ -284,19 +300,6 @@
     - en: Machine learning
       fr: Apprentissage automatique
 
-- name: Hadi Nekoei
-  title: intern
-  picture: hadi-nekoei
-  website: https://hnekoeiq.github.io/
-  period:
-    start: 2020-01-01
-  topics:
-    - en: Model-based RL
-      fr: Apprentissage par renforcement basé sur les models
-    - en: Multi-agent RL
-      fr: Apprentissage par renforcement multi-agent
-    - en: Lifelong Learning
-      fr: Apprentissage permanent
 
 - name: Shabnam Haghzare
   title: intern
