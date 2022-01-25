@@ -4,7 +4,7 @@
 
 layout: page
 permalink: /
-title: titles.home
+title: pages.home
 ---
 {% include collage.html %}
 

@@ -57,6 +57,11 @@ page_gen:
     template: profile
     name: name
     dir: people
+  - data: alumni
+    template: profile
+    name: name
+    dir: people
+    filter: profile_page
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

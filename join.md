@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.join
+title: pages.join
 permalink: /join/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.theses
+title: pages.theses
 permalink: /theses/
 ---
 

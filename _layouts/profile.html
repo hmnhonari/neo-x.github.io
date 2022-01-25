@@ -2,16 +2,19 @@
 layout: page
 title_generation: profile
 ---
-<ul class="people">
-    <li>
-    {% include person.html
-        picture=page.picture
-        name=page._name
-        website=page.website
-        cosupervisor=page.cosupervisor
-        topics=page.topics
-    %}
-    </li>
+
+{% assign active_member = site.data.people | where:"name",page._name %}
+{% assign alumni_member = site.data.alumni | where:"name",page._name %}
+{% include people.html people=active_member %}
+
+<h2>{% t headings.activity %}</h2>
+<ul>
+    {% for info in active_member %}
+        <li>{{ site.translations[site.lang].title[info.title] }}: {{info.period.start | localize: "%b %Y"}} - {% t translations.profile.now %} </li>
+    {% endfor %}
+    {% for info in alumni_member %}
+        <li>{{ site.translations[site.lang].title[info.title] }}: {{info.period.start | localize: "%b %Y"}} - {{info.period.end | localize: "%b %Y"}} </li>
+    {% endfor %}
 </ul>
 
 {% assign theses = site.data.theses | where:"author",page._name %}

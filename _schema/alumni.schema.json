@@ -6,6 +6,7 @@
         "properties": {
           "name": { "type": "string" },
           "title": { "enum": ["pi", "postdoc", "phd", "master", "intern"] },
+          "profile_page": { "type": "boolean" },
           "website": { "type": "string" },
           "period": {
             "type": "object",
@@ -27,6 +28,7 @@
         "required": [
           "name",
           "title",
+          "profile_page",
           "period",
           "next"
         ]

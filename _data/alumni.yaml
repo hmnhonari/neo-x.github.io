@@ -2,13 +2,17 @@
 # Once a member becomes inactive, their details should be moved from people.yaml to alumni.yaml.
 # Note that the format of alumni.yaml is slightly different from people.yaml.
 
-# The website field is optional.
-# People will be sorted by period.end
-# The next field must contain both english (en) and french (fr) translations.
 # The title field must be either: pi, postdoc, phd, or intern
+# The profile_page must be true or false. Set to false if the person already have an entry
+#   in either the alumni.yaml or people.yaml file. This is to prevent generating a profile
+#   page multiple times for the same person, as this will generate a warning.
+# The website field is optional.
+# The next field must contain both english (en) and french (fr) translations.
+# People will be sorted by period.end
 
 - name: Maziar Sargordi
   title: intern
+  profile_page: false
   website: https://msargordi.github.io/
   period:
     start: 2021-05-01
@@ -19,6 +23,7 @@
 
 - name: Pranshu Malviya
   title: master
+  profile_page: false
   website: http://pranshu28.github.io/
   period:
     start: 2021-01-01
@@ -29,6 +34,7 @@
 
 - name: Paul-Aymeric McRae
   title: intern
+  profile_page: true
   website: https://aymeric-mcrae.github.io/
   period:
     start: 2020-09-01
@@ -39,6 +45,7 @@
 
 - name: Saujas Vaduguru
   title: intern
+  profile_page: true
   website: https://saujasv.github.io/
   period:
     start: 2021-05-03
@@ -49,6 +56,7 @@
 
 - name: Vignesh Rangarajan
   title: intern
+  profile_page: true
   website: https://www.linkedin.com/in/vignesh-rangarajan-a143b61b5/
   period:
     start: 2021-06-01
@@ -59,6 +67,7 @@
 
 - name: Akilesh Badrinaaraayanan
   title: master
+  profile_page: true
   website: https://akileshbadrinaaraayanan.github.io/
   period:
     start: 2020-01-01
@@ -69,6 +78,7 @@
 
 - name: Mohamed Ashraf Abdelsalam
   title: master
+  profile_page: true
   website: https://mohamedabdelsalam9.github.io/
   period:
     start: 2020-01-01
@@ -79,6 +89,7 @@
 
 - name: Mojtaba Faramarzi
   title: master
+  profile_page: false
   website: https://bemova.github.io/
   period:
     start: 2020-01-01
@@ -89,6 +100,7 @@
 
 - name: Hadi Nekoei
   title: intern
+  profile_page: false
   website: https://hnekoeiq.github.io/
   period:
     start: 2020-01-01
@@ -99,6 +111,7 @@
 
 - name: Rodrigo Chavez Zavaleta
   title: intern
+  profile_page: true
   website: https://chavezrodz.github.io/
   period:
     start: 2020-06-01
@@ -109,6 +122,7 @@
 
 - name: Sam Finestone
   title: intern
+  profile_page: true
   website: https://sam-finestone.github.io/
   period:
     start: 2020-06-01
@@ -119,6 +133,7 @@
 
 - name: Evan Racah
   title: intern
+  profile_page: true
   period:
     start: 2020-01-01
     end: 2020-06-01
