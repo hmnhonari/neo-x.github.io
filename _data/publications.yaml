@@ -3,6 +3,35 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "RECOVER: Sequential Model Optimization Platform for Combination Drug Repurposing Identifies Novel Synergistic Compounds in vitro"
+  authors:
+    - Paul Bertin
+    - Jarrid Rector-Brooks
+    - Deepak Sharma
+    - Thomas Gaudelet
+    - Andrew Anighoro
+    - Torsten Gross
+    - Francisco Martínez-Peña
+    - Eileen L. Tang
+    - Suraj M S
+    - Cristian Regep
+    - Jeremy Hayter
+    - Maksym Korablyov
+    - Nicholas Valiante
+    - Almer van der Sloot
+    - Mike Tyers
+    - Charles Roberts
+    - Michael M. Bronstein
+    - Luke L. Lairson
+    - Jake P. Taylor-King
+    - Yoshua Bengio
+  venue: In arXiv
+  date: 2022-02-07
+  links:
+    arXiv: https://arxiv.org/abs/2202.04202
+    code: https://github.com/RECOVERcoalition/Recover
+  preprint: true
+
 - title: "Demystifying Neural Language Models' Insensitivity to Word-Order"
   authors:
     - Louis Clouatre
@@ -49,6 +78,23 @@
   links:
     arXiv: https://arxiv.org/abs/2105.05155v1
     code: https://github.com/pranshu28/TAG
+  preprint: true
+
+- title: "DEUP: Direct Epistemic Uncertainty Prediction"
+  authors:
+    - Moksh Jain
+    - Salem Lahlou
+    - Hadi Nekoei
+    - Victor Butoi
+    - Paul Bertin
+    - Jarrid Rector-Brooks
+    - Maksym Korablyov
+    - Yoshua Bengio
+  venue: In arXiv
+  date: 2021-02-16
+  links:
+    arXiv: https://arxiv.org/abs/2102.08501
+    code: https://github.com/MJ10/DEUP
   preprint: true
 
 - title: "Maximum Reward Formulation In Reinforcement Learning"
