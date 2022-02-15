@@ -1,6 +1,6 @@
 **Quelques notes de Sarath pour les potentiels futurs étudiants :**
 
-Mon groupe de recherche travaille dans différent domaine d'apprentissage machine (ML). Les publications du laboratoire dans la page [publications]({% link publications.md %}) et les intérêts de recherche des membres du laboratoire dans la page [membres]({% link people.md %}) page fournissent un bon résumé des problèmes de recherche auxquels le laboratoire s'intéresse actuellement.
+Mon groupe de recherche travaille dans différent domaine d'apprentissage machine (ML). Les publications du laboratoire dans la page [publications]({% link publications.html %}) et les intérêts de recherche des membres du laboratoire dans la page [membres]({% link people.html %}) page fournissent un bon résumé des problèmes de recherche auxquels le laboratoire s'intéresse actuellement.
 
 Pour l'automne 2022, je recherche des étudiants à la maîtrise et au doctorat de très haut niveau pour travailler dans les domaines suivants (triés par ordre de priorité): **réseaux de neurones à mémoire augmentée, apprendre à apprendre par interactions en langage naturel, optimisation pour DL/RL/RNN, apprentissage tout au long de la vie, apprentissage par renforcement.**
 
@@ -12,7 +12,7 @@ Je maintiendrai une liste de mes intérêts de recherche courant ici. Lorsque vo
 * **Traitement du langage naturel / Natural Language Processing (NLP)** - Génération de langage naturel, systèmes de dialogue, graphiques de connaissances et raisonnement sur graphique, ancrage du langage naturel, apprendre à apprendre par interactions en langage naturel.
 
 **Attentes générales:**
-Je m'attends à ce que les étudiants aient une connaissance approfondie des bases du ML et di DL avant de postuler. Vous devez également avoir une compréhension approfondie du RL si vous souhaitez faire des recherches en RL. Lors d'entrevue, je testerai vos connaissances en mathématiques et en ML. Idéalement, vous devriez être familier avec les sujets couverts dans: 
+Je m'attends à ce que les étudiants aient une connaissance approfondie des bases du ML et di DL avant de postuler. Vous devez également avoir une compréhension approfondie du RL si vous souhaitez faire des recherches en RL. Lors d'entrevue, je testerai vos connaissances en mathématiques et en ML. Idéalement, vous devriez être familier avec les sujets couverts dans:
 
 * La partie I de [Mathematics for Machine Learning book](https://mml-book.github.io/).
 * Mon cours d'apprentissage automatique: [Automne-2020](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr), [Automne-2021](https://www.youtube.com/watch?v=-6ChHxllZVU&list=PLImtCgowF_ETupFCGQqmvS_2nqErZbifm)
@@ -25,7 +25,7 @@ Les femmes et les minorités sous-représentées sont particulièrement encourag
 
 ---
 
-<br>  
+<br>
 
 # Postdocs
 * Je ne recherche actuellement pas de post-doctorants.
@@ -36,7 +36,7 @@ Les femmes et les minorités sous-représentées sont particulièrement encourag
 * Si vous êtes présélectionné pour une entrevue, vous devrez soumettre une [demande d'admission à Polytechnique Montréal](https://admission.polymtl.ca/admission-main-web/pages/admission-dashboard.xhtml) (avec mon nom). Veuillez noter que la soumission de votre demande d'admission ne garantit pas votre admission. Votre admission est basée sur votre performance lors de l'entrevue. Poser sa candidature à Poly avant l'entrevue permet d'éviter les délais d'admission ou de visa.
 
 # Étudiants actuellement à Poly et à l'UdeM
-* Si vous êtes déjà étudiants (au bac, à la maitrise ou au doctorat) à Poly ou à l'UdeM et vous voulez que je sois votre superviseur, envoyez-moi un courriel avec votre CV détaillé, des copies de tous vos relevés de notes, et un résumé de vos intérêts de recherche. 
+* Si vous êtes déjà étudiants (au bac, à la maitrise ou au doctorat) à Poly ou à l'UdeM et vous voulez que je sois votre superviseur, envoyez-moi un courriel avec votre CV détaillé, des copies de tous vos relevés de notes, et un résumé de vos intérêts de recherche.
 * Si vous voulez que je lise votre courriel, indiquez au début du sujet "\[RESEARCH_APPLICATION_INTERNAL\]".
 
 # Stagiaires et Étudiants en visite

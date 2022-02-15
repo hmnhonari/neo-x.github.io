@@ -1,6 +1,6 @@
 **Sarath’s note to prospective students:**
 
-My group works in several areas of Machine Learning (ML). Our lab publications in the [publications]({% link publications.md %}) page and the research interests of lab members in the [people]({% link people.md %}) page provide a better summary of the research problems the lab is currently interested  in.
+My group works in several areas of Machine Learning (ML). Our lab publications in the [publications]({% link publications.html %}) page and the research interests of lab members in the [people]({% link people.html %}) page provide a better summary of the research problems the lab is currently interested  in.
 
 For Fall 2022, I am looking for strong Masters and PhD students to work in the following areas (sorted by order of priority): **memory-augmented neural networks, learning to learn through natural language interactions, optimization for DL/RL/RNNs, lifelong learning, reinforcement learning**.
 
@@ -22,7 +22,7 @@ Women and underrepresented minorities are especially encouraged to apply.
 
 ---
 
-<br>  
+<br>
 
 # Postdocs
 * I am currently not looking for Postdocs.

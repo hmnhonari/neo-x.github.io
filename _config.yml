@@ -42,15 +42,15 @@ whitelist:
   - jekyll-redirect-from
 
 languages: ["en", "fr"]
-exclude_from_localizations: ["assets/images", "youtube.md"]
+exclude_from_localizations: ["assets/images", "youtube.html"]
 
 header_pages:
-  - index.md
-  - people.md
-  - publications.md
-  - theses.md
-  - join.md
-  - youtube.md
+  - index.html
+  - people.html
+  - publications.html
+  - theses.html
+  - join.html
+  - youtube.html
 
 page_gen:
   - data: people
