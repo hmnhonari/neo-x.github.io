@@ -2,7 +2,7 @@ name: Jekyll PR Tester
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   jekyll:

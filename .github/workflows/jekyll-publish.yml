@@ -2,7 +2,7 @@ name: Jekyll Publish
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   jekyll:
