@@ -40,6 +40,19 @@
   period:
     start: 2020-01-01
 
+- name: Gonçalo Mordido
+  title: postdoc
+  picture: goncalo-mordido
+  website: https://goncalomordido.github.io
+  cosupervisor: François Leduc-Primeau
+  period:
+    start: 2022-03-01
+  topics:
+    - en: Algorithm-hardware co-design
+      fr: Co-conception algorithme-matériel
+    - en: Energy-efficient neural networks
+      fr: Réseaux de neurones économes en énergie
+
 - name: Janarthanan Rajendran
   title: postdoc
   picture: janarthanan-rajendran
