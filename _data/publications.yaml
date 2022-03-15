@@ -3,6 +3,28 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "Biological Sequence Design with GFlowNets"
+  authors:
+      - Moksh Jain
+      - Emmanuel Bengio
+      - Alex-Hernandez Garcia
+      - Jarrid Rector-Brooks
+      - Bonaventure F. P. Dossou
+      - Chanakya Ekbote
+      - Jie Fu
+      - Tianyu Zhang
+      - Micheal Kilgour
+      - Dinghuai Zhang
+      - Lena Simine
+      - Payel Das
+      - Yoshua Bengio
+  venue: In arXiv
+  date: 2022-03-02
+  links:
+    arXiv: https://arxiv.org/abs/2203.04115
+    code: https://github.com/mj10/bioseq-gfn-al
+  preprint: true
+
 - title: "RECOVER: Sequential Model Optimization Platform for Combination Drug Repurposing Identifies Novel Synergistic Compounds in vitro"
   authors:
     - Paul Bertin
