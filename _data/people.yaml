@@ -198,18 +198,6 @@
     - en: Generalization in RL
       fr: généralisation en apprentissage par renforcement
 
-- name: Mojtaba Faramarzi
-  title: phd
-  picture: mojtaba-faramarzi
-  website: https://bemova.github.io/
-  period:
-    start: 2021-01-01
-  topics:
-    - en: Continual learning focused on replay and regularization methods
-      fr: Apprentissage permanent ciblé sur les méthodes de replay et de régularisation
-    - en: Data-dependent regularization for deep learning
-      fr: Régularization dépendante des données pour l'apprentissage profond
-
 - name: Pranshu Malviya
   title: phd
   picture: pranshu-malviya
@@ -313,31 +301,13 @@
     - en: Machine learning
       fr: Apprentissage automatique
 
-
-- name: Shabnam Haghzare
+- name: Jerry Huang
   title: intern
-  picture: shabnam_haghzare
-  website: https://www.shabnamhaghzare.com/
+  website: jhuang265.github.io
   period:
-    start: 2021-05-11
+    start: 2022-04-01
   topics:
-    - en: Human-Automation Interaction
-      fr: Interaction entre humain et automatisation
-    - en: Automated Driving
-      fr: Conduite automatique
-    - en: Older Adults
-      fr: Personnes agées
-    - en: Intelligent Vehicles
-      fr: Véhicules automatique
-    - en: Artificial Intelligence
-      fr: Intelligence Artificielle
-
-- name: Yi Wan
-  title: intern
-  picture: yi-wan
-  website: https://sites.google.com/ualberta.ca/yiwan/
-  period:
-    start: 2021-05-01
-  topics:
-    - en: Reinforcement Learning
-      fr: Apprentissage profond par renforcement
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: Deep Learning
+      fr: Apprentissage profond

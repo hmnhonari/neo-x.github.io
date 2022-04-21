@@ -10,6 +10,28 @@
 # The next field must contain both english (en) and french (fr) translations.
 # People will be sorted by period.end
 
+- name: Yi Wan
+  title: intern
+  profile_page: true
+  website: https://sites.google.com/ualberta.ca/yiwan/
+  period:
+    start: 2021-05-01
+    end: 2021-08-01
+  next:
+    en: Back to University of Alberta
+    fr: Retour à Université de l'Alberta
+
+- name: Shabnam Haghzare
+  title: intern
+  profile_page: true
+  website: https://www.shabnamhaghzare.com/
+  period:
+    start: 2021-05-11
+    end:  2021-12-11
+  next:
+    en: Back to University of Toronto
+    fr: Retour à Université de l'Toronto
+
 - name: Maziar Sargordi
   title: intern
   profile_page: false
