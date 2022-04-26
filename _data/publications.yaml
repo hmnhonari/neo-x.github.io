@@ -3,6 +3,21 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods"
+  authors:
+      - Yi Wan*
+      - Ali Rahimi-Kalahroudi*
+      - Janarthanan Rajendran
+      - Ida Momennejad
+      - Sarath Chandar
+      - Harm van Seijen
+  venue: In arXiv
+  date: 2022-04-25
+  links:
+    arXiv: https://arxiv.org/abs/2204.11464
+    code: https://github.com/chandar-lab/LoCA2
+  preprint: true
+
 - title: "Biological Sequence Design with GFlowNets"
   authors:
       - Moksh Jain
