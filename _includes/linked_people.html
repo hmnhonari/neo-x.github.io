@@ -1,5 +1,5 @@
-{%- for name in include.names -%}
-  {% include linked_person.html name=name %}
+{%- for item in include.people -%}
+  {% include linked_person.html person=item %}
   {%- if forloop.rindex > 2 -%}, {% endif %}
   {%- if site.lang == 'en' -%}
     {%- if forloop.rindex == 2 and forloop.length > 2 -%}, {% endif %}

@@ -5,8 +5,10 @@
 
 - title: "Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods"
   authors:
-      - Yi Wan*
-      - Ali Rahimi-Kalahroudi*
+      - show: Yi Wan*
+        link: Yi Wan
+      - show: Ali Rahimi-Kalahroudi*
+        link: Ali Rahimi-Kalahroudi
       - Janarthanan Rajendran
       - Ida Momennejad
       - Sarath Chandar
@@ -182,7 +184,7 @@
     - Bram Adams
   venue: International Conference on Software Engineering (ICSE)
   date: 2022-05-21
-    
+
 - title: "Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics"
   authors:
     - Charan Reddy

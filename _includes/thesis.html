@@ -1,9 +1,9 @@
 <p>
 <strong>{{include.title}}</strong><br>
 {% t translations.thesis.by %} {%
-  include linked_person.html name=include.author
+  include linked_person.html person=include.author
 %}, {% t translations.thesis.with %} {%
-  include linked_people.html names=include.supervisors
+  include linked_people.html people=include.supervisors
 %} {% if include.supervisors.size > 1%}
   {%- t translations.thesis.as_supervisors -%}
 {% else %}
