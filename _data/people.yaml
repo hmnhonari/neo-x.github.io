@@ -311,3 +311,15 @@
       fr: Traitement du langage naturel
     - en: Deep Learning
       fr: Apprentissage profond
+
+- name: Sriyash Poddar
+  title: intern
+  picture: sriyash-poddar
+  website: sriyash421.github.io
+  period:
+    start: 2022-05-01
+  topics:
+    - en: Multi-agent RL
+      fr: Apprentissage par renforcement multi-agent
+    - en: Robotics
+      fr: Robotique
