@@ -25,12 +25,11 @@
       - Ida Momennejad
       - Sarath Chandar
       - Harm van Seijen
-  venue: In arXiv
-  date: 2022-04-25
+  venue: International Conference on Machine Learning (ICML)
+  date: 2022-07-19
   links:
     arXiv: https://arxiv.org/abs/2204.11464
     code: https://github.com/chandar-lab/LoCA2
-  preprint: true
 
 - title: "Biological Sequence Design with GFlowNets"
   authors:
