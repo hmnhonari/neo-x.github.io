@@ -5,27 +5,31 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
-- en: "Our work on constrained music generation was accepted at CP 2022"
+- en: "Two papers accepted at ICML 2022: [adaptivity evaluation in RL](https://arxiv.org/abs/2204.11464) and [sequential model optimization](https://arxiv.org/abs/2202.04202)."
+  fr: "Deux articles acceptés à ICML 2022: [évaluation de l'adaptabilité en apprentissage par renforcement](https://arxiv.org/abs/2204.11464) et [optimisation séquentielle](https://arxiv.org/abs/2202.04202)."
+  date: 2022-05-01
+
+- en: "Our work on constrained music generation was accepted at CP 2022."
   fr: "Notre travail sur la génération musicale avec contraintes a été accepté à CP 2022."
   date: 2022-05-01
 
-- en: "Our work on [perturbation in NLU](https://arxiv.org/pdf/2107.13955.pdf) was accepted at Findings of ACL 2022"
+- en: "Our work on [perturbation in NLU](https://arxiv.org/pdf/2107.13955.pdf) was accepted at Findings of ACL 2022."
   fr: "Notre travail sur la [perturbation en compréhension du langage naturel](https://arxiv.org/pdf/2107.13955.pdf) a été accepté à Findings of ACL 2022."
   date: 2022-02-01
 
-- en: "Our work on [memory-augmented optimizers](https://openreview.net/pdf?id=NRX9QZ6yqt) was accepted at ICLR 2022"
+- en: "Our work on [memory-augmented optimizers](https://openreview.net/pdf?id=NRX9QZ6yqt) was accepted at ICLR 2022."
   fr: "Notre travail sur les [optimiseurs à mémoire augmenté](https://openreview.net/pdf?id=NRX9QZ6yqt) a été accepté à ICLR 2022."
   date: 2022-01-01
 
-- en: "Our work on [brown build detection](https://mcis.cs.queensu.ca/publications/2022/icse22.pdf) was accepted at ICSE 2022"
+- en: "Our work on [brown build detection](https://mcis.cs.queensu.ca/publications/2022/icse22.pdf) was accepted at ICSE 2022."
   fr: "Notre travail sur la [détection de builds bruns](https://mcis.cs.queensu.ca/publications/2022/icse22.pdf) a été accepté à ICSE 2022."
   date: 2021-12-01
 
-- en: "Our work [PatchUp](https://www.aaai.org/AAAI22Papers/AAAI-12851.FaramarziM.pdf) was accepted at AAAI 2022"
+- en: "Our work [PatchUp](https://www.aaai.org/AAAI22Papers/AAAI-12851.FaramarziM.pdf) was accepted at AAAI 2022."
   fr: "Notre travail [PatchUp](https://www.aaai.org/AAAI22Papers/AAAI-12851.FaramarziM.pdf) a été accepté à AAAI 2022."
   date: 2021-12-01
 
-- en: "Our work on [Lifelong Hanabi](https://arxiv.org/abs/2103.03216) was accepted at ICML 2021"
+- en: "Our work on [Lifelong Hanabi](https://arxiv.org/abs/2103.03216) was accepted at ICML 2021."
   fr: "Notre travail à propos de [l'apprentissage continu pour Hanabi](https://arxiv.org/abs/2103.03216) a été accepté à ICML 2021."
   date: 2021-05-01
   hidden: true
