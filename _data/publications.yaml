@@ -3,6 +3,18 @@
 # No preprint field, means that the paper is published.
 # Publications will be sorted by the date field.
 
+- title: "Memory Augmented Optimizers for Deep Learning"
+  authors:
+      - Paul-Aymeric Martin McRae
+      - Prasanna Parthasarathi
+      - Mido Assran
+      - Sarath Chandar
+  venue: International Conference on Learning Representations (ICLR)
+  date: 2022-03-16
+  links:
+    openreview: https://openreview.net/forum?id=NRX9QZ6yqt
+    code: https://github.com/chandar-lab/CriticalGradientOptimization
+
 - title: "Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods"
   authors:
       - show: Yi Wan*
