@@ -323,3 +323,14 @@
       fr: Apprentissage par renforcement multi-agent
     - en: Robotics
       fr: Robotique
+
+- name: Rahul Choudhary
+  title: intern
+  picture: rahul-choudhary
+  period:
+    start: 2022-05-16
+  topics:
+    - en: Multi-agent RL
+      fr: Apprentissage par renforcement multi-agent
+    - en: Robotics
+      fr: Robotique
