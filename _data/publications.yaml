@@ -23,6 +23,26 @@
 #    PyPI: https://pypi.org/project/{id}
 #    docs: https://{id}.readthedocs.io/en/latest/
 
+- title: "Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints"
+  authors:
+      - Daphné Lafleur
+      - Sarath Chandar
+      - Gilles Pesant
+  venue: Principles and Practice of Constraint Programming (CP)
+  date: 2022-07-31
+    
+- title: "Memory Augmented Optimizers for Deep Learning"
+  authors:
+      - Paul-Aymeric McRae
+      - Prasanna Parthasarathi
+      - Mido Assran
+      - Sarath Chandar
+  venue: International Conference on Learning Representations (ICLR)
+  date: 2022-04-25
+  links:
+    openreview: https://openreview.net/forum?id=NRX9QZ6yqt
+    code: https://github.com/chandar-lab/CriticalGradientOptimization
+
 - title: "TAG: Task-based Accumulated Gradients for Lifelong learning"
   authors:
       - Pranshu Malviya
