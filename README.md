@@ -24,14 +24,14 @@ just create a PR with the English content and contact the French maintainer to h
 
 When a publication is added or changed:
 
-1. Update [`_data/publications.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/publications.yaml)
+1. Update [`_data/publications.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/publications.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
 ### Theses
 
 When a thesis is added or changed:
 
-1. Update [`_data/theses.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/theses.yaml)
+1. Update [`_data/theses.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/theses.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
 _If the thesis is not already a public document through the university, add it to [our Google Drive](https://drive.google.com/drive/folders/1g8dLImUtkY3PpmgXexx_HM3rNOZk1NYr)._
@@ -40,7 +40,7 @@ _If the thesis is not already a public document through the university, add it t
 
 When the news section needs to be changed:
 
-1. Update [`_data/news.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/news.yaml)
+1. Update [`_data/news.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/news.yaml)
 2. Create a pull request and ask the current maintainer to review.
 
 _Note, old news are not deleted but hidden by setting a `hidden: true` property._
@@ -49,7 +49,7 @@ _Note, old news are not deleted but hidden by setting a `hidden: true` property.
 
 When the _Join Us_ section needs to be changed:
 
-1. Update [`_i18n/en/join.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_i18n/en/join.md)
+1. Update [`_i18n/en/join.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_i18n/en/join.md)
 2. Update [`_i18n/fr/join.md`](_i18n/fr/join.md) in the same branch.
 3. Create a pull request.
 
@@ -57,7 +57,7 @@ When the _Join Us_ section needs to be changed:
 
 When the _About the Lab_ section needs to be changed:
 
-1. Update [`_i18n/en/about.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_i18n/en/about.md)
+1. Update [`_i18n/en/about.md`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_i18n/en/about.md)
 2. Update [`_i18n/fr/about.md`](_i18n/fr/about.md) in the same branch.
 3. Create a pull request.
 
@@ -67,7 +67,7 @@ _Note: Only the maintainer is expected to do this._
 
 #### When someone joins the group:
 
-1. Add them to [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
+1. Add them to [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/people.yaml)
 2. Add their profile picture too [`assets/images/bios/`](assets/images/bios/).
 3. Use the `compress_bios.sh` or smiliar, to compress their profile picture to an appropriate size.
 2. Create a pull request.
@@ -85,13 +85,13 @@ _To aid the process, you can send them this:_
 
 #### When someone graduates but stays. For example, from Master to PhD:
 
-1. Add their current profile (e.g. master) to [`_data/alumni.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/alumni.yaml).
+1. Add their current profile (e.g. master) to [`_data/alumni.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/alumni.yaml).
 2. Update their current profile in [`_data/people.yaml`](_data/people.yaml) to the new title (e.g PhD) and start date in the same branch.
 3. Create a pull request.
 
 #### When someone leaves the group:
 
-1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/master/_data/people.yaml)
+1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/people.yaml)
 2. Remove their profile picture from [`assets/images/`](assets/images/).
 2. Add them to [`_data/alumni.yaml`](_data/alumni.yaml) in the same branch.
 3. Create a pull request.
