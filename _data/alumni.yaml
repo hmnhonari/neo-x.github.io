@@ -111,7 +111,7 @@
 
 - name: Mojtaba Faramarzi
   title: master
-  profile_page: false
+  profile_page: true
   website: https://bemova.github.io/
   period:
     start: 2020-01-01

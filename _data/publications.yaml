@@ -287,7 +287,7 @@
     - Rohan Nuttall
     - Mohammad Amini
     - Matthew E. Taylor
-    - Sarath Chandar.
+    - Sarath Chandar
   venue: AAAI Conference on Artificial Intelligence
   date: 2021-02-01
 
@@ -321,18 +321,3 @@
   date: 2020-05-20
   links:
     arXiv: https://arxiv.org/abs/2004.12485
-
-- title: "Adversarial Feature Desensitization"
-  authors:
-    - Pouya Bashivan
-    - Reza Bayat
-    - Adam Ibrahim
-    - Kartik Ahuja
-    - Mojtaba Faramarzi
-    - Touraj Laleh
-    - Blake Richards
-    - Irina Rish
-  venue: Neural Information Processing Systems (NeurIPS)
-  date: 2021-12-06
-  links:
-    paper: https://proceedings.neurips.cc/paper/2021/hash/587b7b833034299fdd5f4b10e7dc9fca-Abstract.html
