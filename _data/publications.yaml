@@ -29,7 +29,7 @@
       - Balaraman Ravindran
       - Sarath Chandar
   venue: Conference on Lifelong Learning Agents (CoLLAs)
-  date: 2022-05-18
+  date: 2022-08-22
   links:
     arxiv: https://arxiv.org/abs/2105.05155
     code: https://github.com/pranshu28/TAG
@@ -41,7 +41,7 @@
       - Mido Assran
       - Sarath Chandar
   venue: International Conference on Learning Representations (ICLR)
-  date: 2022-03-16
+  date: 2022-04-25
   links:
     openreview: https://openreview.net/forum?id=NRX9QZ6yqt
     code: https://github.com/chandar-lab/CriticalGradientOptimization
