@@ -155,18 +155,6 @@
     arXiv: https://arxiv.org/abs/2108.04840
   preprint: true
 
-- title: "TAG: Task-based Accumulated Gradients for Lifelong learning"
-  authors:
-    - Pranshu Malviya
-    - Balaraman Ravindran
-    - Sarath Chandar
-  venue: In arXiv
-  date: 2021-05-11
-  links:
-    arXiv: https://arxiv.org/abs/2105.05155v1
-    code: https://github.com/pranshu28/TAG
-  preprint: true
-
 - title: "DEUP: Direct Epistemic Uncertainty Prediction"
   authors:
     - Moksh Jain
