@@ -42,17 +42,6 @@
   venue: Principles and Practice of Constraint Programming (CP)
   date: 2022-07-31
     
-- title: "TAG: Task-based Accumulated Gradients for Lifelong learning"
-  authors:
-      - Pranshu Malviya
-      - Balaraman Ravindran
-      - Sarath Chandar
-  venue: Conference on Lifelong Learning Agents (CoLLAs)
-  date: 2022-08-22
-  links:
-    arxiv: https://arxiv.org/abs/2105.05155
-    code: https://github.com/pranshu28/TAG
-    
 - title: "Memory Augmented Optimizers for Deep Learning"
   authors:
       - Paul-Aymeric McRae
