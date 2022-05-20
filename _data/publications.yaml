@@ -23,6 +23,17 @@
 #    PyPI: https://pypi.org/project/{id}
 #    docs: https://{id}.readthedocs.io/en/latest/
 
+- title: "Local Structure Matters Most: Perturbation Study in NLU"
+  authors:
+      - Louis Clouâtre
+      - Prasanna Parthasarathi
+      - Amal Zouaq
+      - Sarath Chandar
+  venue: Findings of ACL
+  date: 2022-05-22
+  links:
+    arxiv: https://arxiv.org/abs/2107.13955
+
 - title: "Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints"
   authors:
       - Daphné Lafleur
