@@ -131,18 +131,6 @@
     code: https://github.com/RECOVERcoalition/Recover
   preprint: true
 
-- title: "Demystifying Neural Language Models' Insensitivity to Word-Order"
-  authors:
-    - Louis Clouatre
-    - Prasanna Parthasarathi
-    - Amal Zouaq
-    - Sarath Chandar
-  venue: In arXiv
-  date: 2021-07-29
-  links:
-    arXiv: https://arxiv.org/abs/2107.13955
-  preprint: true
-
 - title: "Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining"
   authors:
     - Andreas Madsen
@@ -210,18 +198,6 @@
   date: 2020-10-08
   links:
     arXiv: https://arxiv.org/abs/2010.03744
-  preprint: true
-
-- title: "How To Evaluate Your Dialogue System: Probe Tasks as an Alternative for Token-level Evaluation Metrics"
-  authors:
-    - Prasanna Parthasarathi
-    - Joelle Pineau
-    - Sarath Chandar
-  venue: In arXiv
-  date: 2020-08-24
-  links:
-    arXiv: https://arxiv.org/abs/2008.10427
-    code: https://github.com/ppartha03/Dialogue-Probe-Tasks-Public
   preprint: true
 
 - title: "PatchUp: A Feature-Space Block-Level Regularization Technique for Convolutional Neural Networks"
