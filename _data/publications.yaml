@@ -23,6 +23,18 @@
 #    PyPI: https://pypi.org/project/{id}
 #    docs: https://{id}.readthedocs.io/en/latest/
 
+- title: "An Empirical Investigation of the Role of Pre-training in Lifelong Learning"
+  authors:
+      - Sanket Vaibhav Mehta
+      - Darshan Patil
+      - Sarath Chandar
+      - Emma Strubell
+  venue: In ArXiv
+  date: 2021-12-16
+  links:
+    arxiv: https://arxiv.org/abs/2112.09153
+  preprint: true
+  
 - title: "Local Structure Matters Most: Perturbation Study in NLU"
   authors:
       - Louis Clouâtre
