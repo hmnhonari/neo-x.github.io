@@ -5,6 +5,10 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
+- en: "We will be highlighting our research at the [CRL Symposium 2022](https://chandar-lab.github.io/CRLSymposium/) on August 11th."
+  fr: "Nous présenterons notre recherche au [symposium CRL 2022](https://chandar-lab.github.io/CRLSymposium/) le 11 août."
+  date: 2022-07-01
+  
 - en: "Two papers accepted at ICML 2022: [adaptivity evaluation in RL](https://arxiv.org/abs/2204.11464) and [sequential model optimization](https://arxiv.org/abs/2202.04202)."
   fr: "Deux articles acceptés à ICML 2022: [évaluation de l'adaptabilité en apprentissage par renforcement](https://arxiv.org/abs/2204.11464) et [optimisation séquentielle](https://arxiv.org/abs/2202.04202)."
   date: 2022-05-01
