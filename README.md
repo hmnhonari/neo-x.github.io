@@ -19,6 +19,7 @@ just create a PR with the English content and contact the French maintainer to h
   * [When someone joins the group](#when-someone-joins-the-group)
   * [When someone graduates but stays](#when-someone-graduates-but-stays-for-example-from-master-to-phd)
   * [When someone leaves the group](#when-someone-leaves-the-group)
+  * [When someone updates their information](#when-someone-updates-their-information)
 
 ### Publications
 
@@ -94,6 +95,12 @@ _To aid the process, you can send them this:_
 1. Remove them from [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/people.yaml)
 2. Remove their profile picture from [`assets/images/`](assets/images/).
 2. Add them to [`_data/alumni.yaml`](_data/alumni.yaml) in the same branch.
+3. Create a pull request.
+
+#### When someone updates their information:
+
+1. Update the information in [`_data/people.yaml`](https://github.com/chandar-lab/chandar-lab.github.io/edit/main/_data/people.yaml)
+2. If the picture changes, rerun `compress_bios.sh` to compress their profile picture to an appropriate size.
 3. Create a pull request.
 
 ## Local development
