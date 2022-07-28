@@ -336,3 +336,14 @@
       fr: Apprentissage par renforcement multi-agent
     - en: Robotics
       fr: Robotique
+
+- name: Istabrak Abbes
+  title: intern
+  picture: istabrak-abbes
+  period:
+    start: 2022-06-28
+  topics:
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: Optimization
+      fr: Optimisation
