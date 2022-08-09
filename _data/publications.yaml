@@ -30,12 +30,13 @@
       - Christopher Pal
       - Gonçalo Mordido
       - Sarath Chandar
-  venue: Conference on Lifelong Learning Agents (CoLLAs). Published in Proceedings or Machine Learning Research (PMLR)
+  venue: Conference on Lifelong Learning Agents (CoLLAs)
   date: 2022-07-11
   links:
     arxiv: https://arxiv.org/abs/2208.02377
-  preprint: true
-
+    code : https://github.com/simonguiroy/ABE
+    video : https://www.youtube.com/watch?v=khSTklKePwU
+    
 
 - title: "An Introduction to Lifelong Supervised Learning"
   authors:
