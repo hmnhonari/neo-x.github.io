@@ -24,6 +24,18 @@
 #    docs: https://{id}.readthedocs.io/en/latest/
 #  preprint: true -- Set this to true if it is a pre-print, otherwise delete it. 
 
+- title: "Improving Meta-Learning Generalization with Activation-Based Early-Stopping"
+  authors:
+      - Simon Guiroy
+      - Christopher Pal
+      - Gonçalo Mordido
+      - Sarath Chandar
+  venue: Conference on Lifelong Learning Agents (CoLLAs). Published in Proceedings or Machine Learning Research (PMLR)
+  date: 2022-07-11
+  links:
+    arxiv: https://arxiv.org/abs/2208.02377
+  preprint: true
+
 
 - title: "An Introduction to Lifelong Supervised Learning"
   authors:
