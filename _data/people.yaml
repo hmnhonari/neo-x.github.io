@@ -74,13 +74,14 @@
   title: phd
   picture: maziar-sargordi
   website: https://msargordi.github.io/
+  cosupervisor: Amal Zouaq
   period:
     start: 2022-01-01
   topics:
-    - en: Machine Learning
-      fr: Apprentissage automatique
-    - en: Lifelong Learning
-      fr: Apprentissage Continu
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
 
 - name: Naga Karthik
   title: phd
