@@ -10,6 +10,16 @@
 # The next field must contain both english (en) and french (fr) translations.
 # People will be sorted by period.end
 
+- name: Charan Reddy
+  title: master
+  profile_page: true
+  period:
+    start: 2020-07-01
+    end: 2022-07-04
+  next:
+    en: Founder at Stealth Startup
+    fr: Fondateur de Stealth Startup
+ 
 - name: Yi Wan
   title: intern
   profile_page: true

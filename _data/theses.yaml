@@ -43,3 +43,13 @@
   date: 2021-10-13
   links:
     thesis: https://drive.google.com/file/d/1BLYJqQOcBRsEhPcti2qyOIfRgCO_YYdO/view
+    
+- title: "Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics"
+  author: Charan Reddy
+  supervisors:
+    - Sarath Chandar
+  degree: master
+  university: Université de Montréal
+  date: 2022-07-04
+  links:
+    thesis: https://drive.google.com/file/d/1JRO5Q58T3ILbAucO8v-KL3z6yoR6RMZr/view?usp=sharing

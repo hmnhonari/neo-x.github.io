@@ -245,22 +245,6 @@
     - en: Optimization
       fr: Optimisation
 
-- name: Charan Reddy
-  title: master
-  picture: charan-reddy
-  website: https://charan223.github.io
-  period:
-    start: 2020-07-01
-  topics:
-    - en: Modular Continual Learning
-      fr: Apprentissage continu modulaire
-    - en: Multi Domain Meta Learning
-      fr: Méta-apprentissage dans multiple domaines
-    - en: Fairness in Deep Learning
-      fr: Équité en apprentissage profond
-    - en: Optimization
-      fr: Optimisation
-
 - name: Darshan Patil
   title: phd
   picture: darshan-patil
