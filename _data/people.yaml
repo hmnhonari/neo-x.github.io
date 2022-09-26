@@ -213,6 +213,33 @@
     - en: Optimization
       fr: Optimisation
 
+- name: Arjun Vaithilingam Sudhakar
+  title: phd
+  picture: arjun-sudhakar
+  website: https://www.linkedin.com/in/innovatorarjun/
+  period:
+    start: 2022-08-31
+  topics:
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+
+- name: Mohammad Reza Samsami
+  title: master
+  picture: mohammad-reza-samsami
+  website: https://mrsamsami.github.io
+  period:
+    start: 2022-08-31
+  cosupervisor: Irina Rish
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Causality
+      fr: Causalité
+    - en: Scaling Laws
+      fr: Les règles de mise à échelle
+
 - name: Kshitij Gupta
   title: master
   picture: kshitij-gupta
