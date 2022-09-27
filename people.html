@@ -26,8 +26,18 @@ permalink: /people/
 
 <h2>{% t headings.interns_ras %}</h2>
 
+{% assign dev = site.data.people | where: "title", "dev"  %}
+{% include people.html people = devs %}
+
+<h2>{% t headings.interns_ras %}</h2>
+
 {% assign interns = site.data.people | where: "title", "intern"  %}
 {% include people.html people = interns %}
+
+<h2>{% t headings.ugrads %}</h2>
+
+{% assign ugrads = site.data.people | where: "title", "ugrad"  %}
+{% include people.html people = ugrads %}
 
 <h2>{% t headings.alumni_and_their_next_step %}</h2>
 

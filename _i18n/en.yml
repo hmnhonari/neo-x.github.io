@@ -17,6 +17,7 @@ title:
   master: Master's Student
   intern: Intern
   dev: Software Developer
+  ugrad: Undergraduate Student
 headings:
   activity: Activity
   about_the_lab: About the Lab
@@ -30,6 +31,8 @@ headings:
   phd_students: PhD Students
   masters_students: Masters Students
   interns_ras: Interns/RAs
+  devs: Software Developers
+  ugrads: Undergraduate Students
   alumni_and_their_next_step: Alumni and their next step
 translations:
   person:

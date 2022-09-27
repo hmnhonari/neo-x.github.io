@@ -9,13 +9,15 @@ pages:
   theses: Thèses
   youtube: Chaîne Youtube
 site:
-  title: Laboratoire de Recherche Chandar
+  title: Glen Berseth
 title:
   pi: Chercheur principal
   postdoc: Chercheur postdoctoral
   phd: Étudiant au doctorat
   master: Étudiant à la maitrise
   intern: Stagiaire
+  dev: Software Developer
+  ugrad: Undergraduate Student
 headings:
   activity: Activité
   about_the_lab: À propos du laboratoire
@@ -29,6 +31,8 @@ headings:
   phd_students: Étudiants au doctorat
   masters_students: Étudiants à la maitrise
   interns_ras: Stagiaires/RAs
+  devs: Software Developers
+  ugrads: Undergraduate Students
   alumni_and_their_next_step: Les anciens étudiants et la suite de leur parcours
 translations:
   person:
