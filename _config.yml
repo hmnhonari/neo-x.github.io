@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # title: Chandar Research Lab
 # email: your-email@example.com
-description: ""
+description: "I am an assistant professor at the University de Montreal and Mila. My research explores how to use deep learning and reinforcement learning to develop generalist robots."
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -23,10 +23,10 @@ description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  chandar-lab
+github_username:  neo-x
 youtube_channel: UCa885azMHaNWAEEVeJHTjHw
 youtube_channel_name: chandar-lab
-twitter_username: ChandarLab
+twitter_username: GlenBerseth
 
 # Build settings
 encoding: utf-8
