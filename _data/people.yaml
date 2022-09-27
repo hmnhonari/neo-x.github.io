@@ -40,7 +40,7 @@
   period:
     start: 2021-08-01
   topics:
-    - en: Reinforcement learning, robotics, machine learning, generalization, planning
+    - en: Reinforcement learning
       fr: Co-conception algorithme-matériel
     - en: Robotics
       fr: Réseaux de neurones économes en énergie
@@ -140,6 +140,6 @@
   period:
     start: 2022-04-01
   topics:
-    - en: Computer Visions
+    - en: Computer Vision
       fr: Traitement du langage naturel
 
