@@ -36,7 +36,7 @@
 - name: Glen Berseth
   title: pi
   picture: glen-berseth
-  website: fracturedplane.com
+  website: www.fracturedplane.com
   period:
     start: 2021-08-01
   topics:
@@ -80,6 +80,7 @@
 - name: Adriana Hugensen
   title: master
   picture: adriana
+  website: https://jhuang265.github.io
   period:
     start: 2022-08-31
   topics:
@@ -129,6 +130,7 @@
       
 - name: Karim
   title: ugrad
+  website: https://jhuang265.github.io
   period:
     start: 2022-04-01
   topics:
@@ -137,6 +139,7 @@
       
 - name: Jeremy
   title: ugrad
+  website: https://jhuang265.github.io
   period:
     start: 2022-04-01
   topics:
