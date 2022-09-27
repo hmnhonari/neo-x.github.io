@@ -5,7 +5,6 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
-  
 - en: "<a href="https://nouvelles.umontreal.ca/en/article/2022/04/19/the-fondation-courtois-gives-159m-to-udem-for-the-discovery-of-new-materials/">UdeM receives 159M</a> to create the <a href="https://institut-courtois.umontreal.ca/en/">Courtois Institute</a> to support fundamental science and apply AI and robotics to scientific experimentation. My lab will lead research on methods for automating scientific experimentation."
   fr: "q"
   date: 2022-04-01
@@ -49,21 +48,26 @@
 - en: "Two papers accepted to ICLR 2021"
   fr: "q"
   date: 2021-01-01
+  hidden: true
   
 - en: "Invited talk at IJCAI workshop Neuro-Cognitive Modeling of Humans and Environments"
   fr: "q"
   date: 2021-01-01
+  hidden: true
   
 - en: "Deep Integration of Physical Humanoid Control and Crowd Navigation <span style="font-weight:bold;">receives best paper runner up at MIG2020</span>"
   fr: "q"
   date: 2020-08-01
+  hidden: true
   
 - en: "Visual Imitation work featured in MIT CSAIL podcast"
   fr: "q"
   date: 2019-09-01
+  hidden: true
   
 - en: "Started PostDoc at <a href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research (BAIR)</a> group working in the <a href="http://rail.eecs.berkeley.edu/">Robotic AI & Learning Lab (RAIL)</a> lab with <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>"
   fr: "q"
   date: 2019-04-01
+  hidden: true
 
 
