@@ -9,13 +9,14 @@ pages:
   theses: Theses
   youtube: Youtube Channel
 site:
-  title: Chandar Research Lab
+  title: Glen Berseth
 title:
   pi: Principal Investigator
   postdoc: Postdocs
   phd: PhD Student
   master: Master's Student
   intern: Intern
+  dev: Software Developer
 headings:
   activity: Activity
   about_the_lab: About the Lab
