@@ -5,7 +5,7 @@
         "type": "object",
         "properties": {
           "name": { "type": "string" },
-          "title": { "enum": ["pi", "postdoc", "phd", "master", "intern"] },
+          "title": { "enum": ["pi", "postdoc", "phd", "master", "intern", "dev", "ugrad"] },
           "picture": { "$ref": "#/definitions/filename" },
           "website": { "type": "string" },
           "period": {
