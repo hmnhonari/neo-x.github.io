@@ -39,6 +39,11 @@
   website: fracturedplane.com
   period:
     start: 2021-08-01
+  topics:
+    - en: Algorithm-hardware co-design
+      fr: Co-conception algorithme-matériel
+    - en: Energy-efficient neural networks
+      fr: Réseaux de neurones économes en énergie
 
 - name: Albert Zhan
   title: phd
