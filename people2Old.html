@@ -9,6 +9,11 @@ permalink: /people/
 {% assign pis = site.data.people | where: "title", "pi"  %}
 {% include people.html people = pis %}
 
+<h2>{% t headings.postdocs %}</h2>
+
+{% assign postdocs = site.data.people | where: "title", "postdoc"  %}
+{% include people.html people = postdocs %}
+
 <h2>{% t headings.phd_students %}</h2>
 
 {% assign phds = site.data.people | where: "title", "phd"  %}
