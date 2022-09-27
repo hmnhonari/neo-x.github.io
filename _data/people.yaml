@@ -33,12 +33,12 @@
 #       x x x
 
 
-- name: Sarath Chandar
+- name: Glen Berseth
   title: pi
-  picture: sarath-chandar
-  website: http://sarathchandar.in/
+  picture: glen-berseth
+  website: fracturedplane.com
   period:
-    start: 2020-01-01
+    start: 2021-08-01
 
 - name: Albert Zhan
   title: phd
