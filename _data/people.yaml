@@ -55,7 +55,6 @@
   title: phd
   picture: albert-z
   website: https://goncalomordido.github.io
-  cosupervisor: François Leduc-Primeau
   period:
     start: 2022-03-01
   topics:
@@ -110,6 +109,7 @@
   title: intern
   picture: raj-g
   website: https://jhuang265.github.io
+  cosupervisor: Liam Paull
   period:
     start: 2022-04-01
   topics:
