@@ -54,7 +54,7 @@
 - name: Albert Zhan
   title: phd
   picture: albert-z
-  website: https://goncalomordido.github.io
+  website: https://albertzhan.github.io/
   period:
     start: 2022-03-01
   topics:
@@ -66,7 +66,7 @@
 - name: Simon Demule
   title: master
   picture: simon
-  website: https://mrsamsami.github.io
+  website: https://simondemeule.com/
   period:
     start: 2022-08-31
   topics:
@@ -80,7 +80,6 @@
 - name: Adriana Hugensen
   title: master
   picture: adriana
-  website: https://mrsamsami.github.io
   period:
     start: 2022-08-31
   topics:
@@ -94,7 +93,7 @@
 - name: Roger Creus
   title: master
   picture: rogercreus
-  website: https://mrsamsami.github.io
+  website: https://roger-creus.github.io/
   period:
     start: 2022-08-31
   topics:
@@ -105,10 +104,10 @@
     - en: Robotics
       fr: Les règles de mise à échelle
 
-- name: raj
+- name: Raj Ghugare
   title: intern
   picture: raj-g
-  website: https://jhuang265.github.io
+  website: https://rajghugare19.github.io/
   cosupervisor: Liam Paull
   period:
     start: 2022-04-01
@@ -118,7 +117,7 @@
     - en: Representation Learning
       fr: Apprentissage profond
 
-- name: kirsty
+- name: Kirsty Ellis
   title: dev
   picture: kirsty
   website: https://jhuang265.github.io
@@ -128,7 +127,7 @@
     - en: Robotics
       fr: Traitement du langage naturel
       
-- name: karim
+- name: Karim
   title: ugrad
   period:
     start: 2022-04-01
@@ -136,7 +135,7 @@
     - en: Unsupervised Reinforcement Learning
       fr: Traitement du langage naturel
       
-- name: jeremy
+- name: Jeremy
   title: ugrad
   period:
     start: 2022-04-01
