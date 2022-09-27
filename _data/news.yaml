@@ -5,64 +5,8 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
-- en: "Two papers accepted at CoLLAs 2022: [optimization for lifelong learning](https://arxiv.org/abs/2105.05155) and [meta-learning generalization](https://arxiv.org/abs/2208.02377)."
-  fr: "Deux articles acceptés à CoLLAs 2022: [optimisation pour l’apprentissage continu](https://arxiv.org/abs/2105.05155) et [généralisation du méta-apprentissage](https://arxiv.org/abs/2208.02377)."
+- en: "Apr 2022: UdeM receives 159M to create the Courtois Institute to support fundamental science and apply AI and robotics to scientific experimentation. My lab will lead research on methods for automating scientific experimentation."
+  fr: ""
   date: 2022-08-01
 
-- en: "We highlighted our research at the [CRL Symposium 2022](https://chandar-lab.github.io/CRLSymposium/) on August 11th."
-  fr: "Nous avons présenté notre recherche au [symposium CRL 2022](https://chandar-lab.github.io/CRLSymposium/) le 11 août."
-  date: 2022-07-01
-  
-- en: "Two papers accepted at ICML 2022: [adaptivity evaluation in RL](https://arxiv.org/abs/2204.11464) and [sequential model optimization](https://arxiv.org/abs/2202.04202)."
-  fr: "Deux articles acceptés à ICML 2022: [évaluation de l'adaptabilité en apprentissage par renforcement](https://arxiv.org/abs/2204.11464) et [optimisation séquentielle](https://arxiv.org/abs/2202.04202)."
-  date: 2022-05-01
 
-- en: "Our work on constrained music generation was accepted at CP 2022."
-  fr: "Notre travail sur la génération musicale avec contraintes a été accepté à CP 2022."
-  date: 2022-05-01
-
-- en: "Our work on [perturbation in NLU](https://arxiv.org/pdf/2107.13955.pdf) was accepted at Findings of ACL 2022."
-  fr: "Notre travail sur la [perturbation en compréhension du langage naturel](https://arxiv.org/pdf/2107.13955.pdf) a été accepté à Findings of ACL 2022."
-  date: 2022-02-01
-
-- en: "Our work on [memory-augmented optimizers](https://openreview.net/pdf?id=NRX9QZ6yqt) was accepted at ICLR 2022."
-  fr: "Notre travail sur les [optimiseurs à mémoire augmenté](https://openreview.net/pdf?id=NRX9QZ6yqt) a été accepté à ICLR 2022."
-  date: 2022-01-01
-
-- en: "Our work on [brown build detection](https://mcis.cs.queensu.ca/publications/2022/icse22.pdf) was accepted at ICSE 2022."
-  fr: "Notre travail sur la [détection de builds bruns](https://mcis.cs.queensu.ca/publications/2022/icse22.pdf) a été accepté à ICSE 2022."
-  date: 2021-12-01
-
-- en: "Our work [PatchUp](https://www.aaai.org/AAAI22Papers/AAAI-12851.FaramarziM.pdf) was accepted at AAAI 2022."
-  fr: "Notre travail [PatchUp](https://www.aaai.org/AAAI22Papers/AAAI-12851.FaramarziM.pdf) a été accepté à AAAI 2022."
-  date: 2021-12-01
-
-- en: "Our work on [Lifelong Hanabi](https://arxiv.org/abs/2103.03216) was accepted at ICML 2021."
-  fr: "Notre travail à propos de [l'apprentissage continu pour Hanabi](https://arxiv.org/abs/2103.03216) a été accepté à ICML 2021."
-  date: 2021-05-01
-  hidden: true
-
-- en: "Two papers accepted in Findings of ACL 2021: [survey on data augmentation for NLP](https://arxiv.org/abs/2105.03075) and [link prediction with masked language models](https://arxiv.org/abs/2009.07058)."
-  fr: "Deux articles acceptés à Findings of ACL 2021: [une étude sur le traitement du langage naturel pour le traitement de langage naturel](https://arxiv.org/abs/2105.03075) et [prédiction de lien par moyenne de modèle de langage masqué](https://arxiv.org/abs/2009.07058)."
-  date: 2021-05-01
-  hidden: true
-
-- en: "Our work on a [new benchmark for class incremental learning](https://arxiv.org/abs/2012.12477) was accepted at CVPR 2021."
-  fr: "Notre travail à propos d'un [nouveau point de comparaison pour l'apprentissage incrémental de classe](https://arxiv.org/abs/2012.12477) a été accepté à CVPR 2021."
-  date: 2021-03-01
-  hidden: true
-
-- en: "Our work on RL for drug discovery was accepted at AAAI 2021."
-  fr: "Notre travail en apprentissage par renforcement pour la découverte pharmaceutique a été accepté à AAAI 2021."
-  date: 2020-12-01
-  hidden: true
-
-- en: "Our work on a [new metric for model-based RL](https://arxiv.org/abs/2007.03158) was accepted at NeurIPS 2020."
-  fr: "Notre travail à propos d'une [nouvelle métrique pour le apprentissage par renforcement basé sur des modèles](https://arxiv.org/abs/2007.03158) a été accepté à NeurIPS 2020."
-  date: 2020-09-01
-  hidden: true
-
-- en: "Sarath's introductory [Machine Learning course](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) is now available on Youtube!"
-  fr: "Le cours de Sarath d'[introduction à l'apprentissage automatique](https://www.youtube.com/watch?v=snYZF8Dzuwo&list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr) est disponible sur Youtube!"
-  date: 2020-09-01
-  hidden: true
