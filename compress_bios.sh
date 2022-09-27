@@ -4,6 +4,8 @@
 # support resizeing yet and overwrites the existing image.
 
 # {jpg,png,jpeg,webp}
+## Requires 
+### sudo apt-get install -y graphicsmagick
 
 rm -rf "assets/images/bios_compressed"
 mkdir -p "assets/images/bios_compressed"

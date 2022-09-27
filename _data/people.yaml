@@ -40,75 +40,90 @@
   period:
     start: 2021-08-01
   topics:
-    - en: Algorithm-hardware co-design
+    - en: Reinforcement learning, robotics, machine learning, generalization, planning
       fr: Co-conception algorithme-matériel
-    - en: Energy-efficient neural networks
+    - en: Robotics
       fr: Réseaux de neurones économes en énergie
+    - en: Machine Learning
+      fr: Machine Learning
+    - en: Generalization
+      fr: Generalization
+    - en: Planning
+      fr: Planning
 
 - name: Albert Zhan
   title: phd
-  picture: goncalo-mordido
+  picture: albert-z
   website: https://goncalomordido.github.io
   cosupervisor: François Leduc-Primeau
   period:
     start: 2022-03-01
   topics:
-    - en: Algorithm-hardware co-design
+    - en: Deep Reinforcement Learning
       fr: Co-conception algorithme-matériel
-    - en: Energy-efficient neural networks
+    - en: Robotics
       fr: Réseaux de neurones économes en énergie
 
 - name: Simon Demule
   title: master
-  picture: mohammad-reza-samsami
+  picture: simon
   website: https://mrsamsami.github.io
   period:
     start: 2022-08-31
   topics:
-    - en: Reinforcement Learning
-      fr: Apprentissage profond par renforcement
-    - en: Causality
+    - en: Deep Learning
+      fr: Apprentissage profond
+    - en: Computer Vision
       fr: Causalité
-    - en: Scaling Laws
+    - en: Signal Processing
       fr: Les règles de mise à échelle
       
 - name: Adriana Hugensen
   title: master
-  picture: mohammad-reza-samsami
+  picture: adriana
   website: https://mrsamsami.github.io
   period:
     start: 2022-08-31
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement
-    - en: Causality
+    - en: Safe Exploration
       fr: Causalité
-    - en: Scaling Laws
+    - en: Unsupervised Learning
       fr: Les règles de mise à échelle
 
 - name: Roger Creus
   title: master
-  picture: mohammad-reza-samsami
+  picture: rogercreus
   website: https://mrsamsami.github.io
   period:
     start: 2022-08-31
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement
-    - en: Causality
+    - en: Unsupervised Learning
       fr: Causalité
-    - en: Scaling Laws
+    - en: Robotics
       fr: Les règles de mise à échelle
 
 - name: raj
   title: intern
-  picture: jerry-huang
+  picture: raj-g
   website: https://jhuang265.github.io
   period:
     start: 2022-04-01
   topics:
-    - en: NLP
+    - en: Deep reinforcement learning
       fr: Traitement du langage naturel
-    - en: Deep Learning
+    - en: Representation Learning
       fr: Apprentissage profond
 
+- name: kirsty
+  title: dev
+  picture: kirsty
+  website: https://jhuang265.github.io
+  period:
+    start: 2022-04-01
+  topics:
+    - en: Robotics
+      fr: Traitement du langage naturel
