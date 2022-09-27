@@ -24,7 +24,7 @@ permalink: /people/
 {% assign masters = site.data.people | where: "title", "master"  %}
 {% include people.html people = masters %}
 
-<h2>{% t headings.interns_ras %}</h2>
+<h2>{% t headings.devs %}</h2>
 
 {% assign dev = site.data.people | where: "title", "dev"  %}
 {% include people.html people = devs %}
@@ -41,12 +41,7 @@ permalink: /people/
 
 <h2>{% t headings.alumni_and_their_next_step %}</h2>
 
-<h3>{% t headings.masters_students %}</h3>
+<h3>{% t headings.ugrads %}</h3>
 
-{% assign alumni_masters = site.data.alumni | where: "title", "master" %}
-{% include people_alumni.html people = alumni_masters %}
-
-<h3>{% t headings.interns_ras %}</h3>
-
-{% assign alumni_interns = site.data.alumni | where: "title", "intern" %}
-{% include people_alumni.html people = alumni_interns %}
+{% assign alumni_ugrads = site.data.alumni | where: "title", "ugrad" %}
+{% include people_alumni.html people = alumni_ugrads %}
