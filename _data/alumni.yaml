@@ -11,12 +11,12 @@
 # People will be sorted by period.end
 
 - name: Rodney Yi
-  title: undergraduate
-  profile_page: true
+  title: ugrad
+  profile_page: false
   period:
     start: 2020-07-01
     end: 2022-07-04
   next:
-    en: Founder at Stealth Startup
-    fr: Fondateur de Stealth Startup
+    en: 
+    fr: 
  
