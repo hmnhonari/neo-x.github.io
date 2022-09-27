@@ -127,3 +127,20 @@
   topics:
     - en: Robotics
       fr: Traitement du langage naturel
+      
+- name: karim
+  title: ugrad
+  period:
+    start: 2022-04-01
+  topics:
+    - en: Unsupervised Reinforcement Learning
+      fr: Traitement du langage naturel
+      
+- name: jeremy
+  title: ugrad
+  period:
+    start: 2022-04-01
+  topics:
+    - en: Computer Visions
+      fr: Traitement du langage naturel
+
