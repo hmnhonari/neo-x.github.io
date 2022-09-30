@@ -1,5 +1,14 @@
 # Course in Robot learning
 
+<div align="center">     <table align="center">        <tr>    
+<td width="33%">   <img width="100%" src="/assets/projects/SMiRL/vizdoom/vizdoom_dtl.gif"> </td>  
+
+<td width="33%">   <img width="100%" src="/assets/projects/DiscoRL/DisCoRL.png"> </td>
+
+<td width="33%">   <img width="100%" src="/assets/projects/ReLMM/complex_room_short.gif"> </td>
+
+</tr> </table></div>
+
 I teach a course on robot learning! This course focuses on deep reinforcement learning methods and their application to robotics. <a href="https://diro.umontreal.ca/public/FAS/diro/Documents/1-Programmes-cours/Horaires/cours2022Hiver2Cyc.html">Here</a> is a link to where you can find the course offered on the DIRO web page as IFT 6163. 
 
 Learning methods such as deep reinforcement learning have shown success in solving simulated planning and control problems but struggle to produce diverse, intelligent behaviour, on robots. This class aims to discuss these limitations and study methods to overcome them and enable agents capable of training autonomously, becoming learning and adapting systems that require little supervision. By the end of the course, each student should have a solid grasp of different techniques to train robots to accomplish tasks in the real world. These techniques covered in the course include but are not limited to reinforcement learning, batch RL, multi-task RL, model-based RL, Sim2Real, hierarchical RL, goal conditioned RL, multi-Agent RL, the fragility of RL, meta-level decision making and learning reward functions.

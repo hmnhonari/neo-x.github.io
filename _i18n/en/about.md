@@ -13,7 +13,7 @@ To see a more formal biography, click <a href="biography.html">here</a>.
  
 - Are you interested in the practical and theoretical challenges of creating generalist problem-solving robots? Please see <a href="./contact.html">this page</a> to apply. I may not respond to emails.
  
-## Representative Publications 
+## Representative Work 
 
 ### Autonomous real-world Reinforcement learning 
 <div align="center">     <table align="center">        <tr>    <td width="33%">   <img width="100%" src="/assets/projects/ReLMM/complex_room_short.gif"> </td> <td width="66%">  
