@@ -51,6 +51,7 @@ header_pages:
   - people.html
   - join.html
   - teaching.html
+  - blog.html
 
 page_gen:
   - data: people
