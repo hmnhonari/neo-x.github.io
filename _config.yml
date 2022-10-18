@@ -49,6 +49,7 @@ exclude_from_localizations: ["assets/images", "youtube.html"]
 header_pages:
   - index.html
   - people.html
+  - publications.html
   - join.html
   - teaching.html
   - blog.html
