@@ -37,8 +37,9 @@ theme: minima
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-multiple-languages-plugin
+#  - jekyll-multiple-languages-plugin
   - jekyll-datapage-generator
+  - jekyll-scholar
 
 whitelist:
   - jekyll-redirect-from
@@ -64,6 +65,28 @@ page_gen:
     name: name
     dir: people
     filter: profile_page
+    
+# Jekyll-Scholar
+scholar:
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_data/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

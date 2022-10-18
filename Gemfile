@@ -18,6 +18,8 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-multiple-languages-plugin'
   gem 'jekyll-datapage-generator'
+  gem 'jekyll-scholar'
+  gem 'unicode_utils'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
