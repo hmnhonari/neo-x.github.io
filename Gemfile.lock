@@ -48,7 +48,7 @@ GEM
     jekyll-datapage-generator (1.4.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-multiple-languages-plugin (1.8.0)
+    jekyll-multiple-languages-plugin (1.7.0)
       jekyll (>= 2.0, < 5.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
@@ -113,7 +113,7 @@ DEPENDENCIES
   i18n
   jekyll (~> 4.2.1)
   jekyll-datapage-generator
-  jekyll-multiple-languages-plugin
+  jekyll-multiple-languages-plugin (< 1.8.0)
   jekyll-redirect-from
   jekyll-scholar
   kramdown-parser-gfm

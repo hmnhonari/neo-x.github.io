@@ -8,6 +8,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+exclude: [bibble, README.md, Makefile, screenshot.png]
+
+# colorize code snippets with the pygments module
+highlighter: rouge
+
+# The path structure for blog posts.
+permalink: /blog/:year/:month/:day/:title.html
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -30,14 +38,21 @@ github_username:  neo-x
 # youtube_channel_name: chandar-lab
 twitter_username: GlenBerseth
 
+
+gems:
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
+
 # Build settings
 encoding: utf-8
 markdown: kramdown
 theme: minima
+highlighter: pygments
 
 plugins:
   - jekyll-redirect-from
-#  - jekyll-multiple-languages-plugin
+  - jekyll-multiple-languages-plugin
   - jekyll-datapage-generator
   - jekyll-scholar
 
@@ -74,19 +89,21 @@ scholar:
 
   sort_by: year
   order: descending
-
-  source: /_data/
-  bibliography: papers.bib
-  bibliography_template: bib
-
+#   bibliography_template: bib
+  
   replace_strings: true
   join_strings: true
-
+  
   details_dir: bibliography
-  details_layout: bibtex.html
+#   details_layout: bibtex.html
   details_link: Details
-
+  
   query: "@*"
+
+  
+jquery_version: "1.12.4"
+katex_version: "0.7.1"
+anchorjs_version: "3.2.2"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

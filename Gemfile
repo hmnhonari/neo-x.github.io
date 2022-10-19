@@ -16,7 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-redirect-from'
-  gem 'jekyll-multiple-languages-plugin'
+  gem 'jekyll-multiple-languages-plugin', "<1.8.0"
   gem 'jekyll-datapage-generator'
   gem 'jekyll-scholar'
   gem 'unicode_utils'
