@@ -10,3 +10,5 @@ title: pages.home
 
 {% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse %}
 {% include news.html news=news %}
+
+{% tf repwork.md %}
