@@ -9,11 +9,11 @@
 - en: '<a href="https://arxiv.org/abs/2208.01160">New paper at IROS on quadruped robots learning soccer shooting skills.</a> IROS Best RoboCup Paper Award Finalist! 
   fr: 'q'
   date: 2022-06-01
-
+  
 - en: '<a href="https://mila.quebec/en/article/anymorph-learning-transferable-policies-by-inferring-agent-morphology/">New paper at ICML</a> on generalization in RL by training a single policy to control robots with different morphologies.  
   fr: 'q'
   date: 2022-05-01
-
+  
 - en: '<a href="https://nouvelles.umontreal.ca/en/article/2022/04/19/the-fondation-courtois-gives-159m-to-udem-for-the-discovery-of-new-materials/">UdeM receives 159M</a> to create the <a href="https://institut-courtois.umontreal.ca/en/">Courtois Institute</a> to support fundamental science and apply AI and robotics to scientific experimentation. My lab will lead research on methods for automating scientific experimentation.'
   fr: 'q'
   date: 2022-04-01
