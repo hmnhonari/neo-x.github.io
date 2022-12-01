@@ -5,11 +5,11 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
-- en: '<a href="https://arxiv.org/abs/2208.01160">New paper at IROS on quadruped robots learning soccer shooting skills.</a> IROS Best RoboCup Paper Award Finalist! 
+- en: '<a href="https://arxiv.org/abs/2208.01160">New paper at IROS on quadruped robots learning soccer shooting skills.</a> IROS Best RoboCup Paper Award Finalist!' 
   fr: 'q'
   date: 2022-06-01
   
-- en: '<a href="https://mila.quebec/en/article/anymorph-learning-transferable-policies-by-inferring-agent-morphology/">New paper at ICML</a> on generalization in RL by training a single policy to control robots with different morphologies.  
+- en: '<a href="https://mila.quebec/en/article/anymorph-learning-transferable-policies-by-inferring-agent-morphology/">New paper at ICML</a> on generalization in RL by training a single policy to control robots with different morphologies.'  
   fr: 'q'
   date: 2022-05-01
   
