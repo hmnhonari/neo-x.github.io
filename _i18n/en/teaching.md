@@ -1,4 +1,4 @@
-# Course in Robot learning
+# Course in Robot (real world agent) Learning
 
 <div align="center">     <table align="center">        <tr>    
 <td width="33%">   <img width="100%" src="/assets/projects/SMiRL/vizdoom/vizdoom_dtl.gif"> </td>  
@@ -14,11 +14,11 @@
 
 </tr> </table></div>
 
-I teach a course on robot learning! This course focuses on deep reinforcement learning methods and their application to robotics. <a href="https://diro.umontreal.ca/public/FAS/diro/Documents/1-Programmes-cours/Horaires/cours2022Hiver2Cyc.html">Here</a> is a link to where you can find the course offered on the DIRO web page as IFT 6163. 
+I teach a course on machine learning for the real world. This course focuses on deep reinforcement learning methods and their application to control real world systems (robotics, etc). [Here](https://diro.umontreal.ca/public/FAS/diro/Documents/1-Programmes-cours/Horaires/2023Hiver2Cyc.html) is a link to where you can find the course offered on the DIRO web page as IFT 6163. 
 
-Learning methods such as deep reinforcement learning have shown success in solving simulated planning and control problems but struggle to produce diverse, intelligent behaviour, on robots. This class aims to discuss these limitations and study methods to overcome them and enable agents capable of training autonomously, becoming learning and adapting systems that require little supervision. By the end of the course, each student should have a solid grasp of different techniques to train robots to accomplish tasks in the real world. These techniques covered in the course include but are not limited to reinforcement learning, batch RL, multi-task RL, model-based RL, Sim2Real, hierarchical RL, goal conditioned RL, multi-Agent RL, the fragility of RL, meta-level decision making and learning reward functions.
+Learning methods such as deep reinforcement learning have shown success in solving simulated planning and control problems but struggle to produce diverse, intelligent behaviour on systems that interact in the real world (robots). This class aims to discuss these limitations and study methods to overcome them and enable agents capable of training autonomously, becoming learning and adapting systems that require little supervision. By the end of the course, each student should have a solid grasp of different techniques to train agents to accomplish tasks in the real world. These techniques covered in the course include but are not limited to reinforcement learning, batch RL, multi-task RL, model-based RL, Sim2Real, hierarchical RL, goal-conditioned RL, multi-Agent RL, the fragility of RL, meta-level decision making and learning reward functions.
 
-##Target and objectives of the course
+## Target and objectives of the course
 
 Learn the fundamental concepts of machine learning for robotics applications. Such concepts are considered advanced and require a good foundation in machine learning, deep learning and reinforcement learning. This involves: 
 
@@ -30,8 +30,11 @@ Learn the fundamental concepts of machine learning for robotics applications. Su
 
 ## Prerequisites of the course
 
-You must have completed the following courses before taking my course.
--  <a href="https://mitliagkas.github.io/ift6390-ml-class/">IFT 6390, Fundamentals of machine learning</a>
+You must have completed or are taking in parallel one of the following courses (or equivalent).
+
+- [IFT 6390, Fundamentals of machine learning](https://mitliagkas.github.io/ift6390-ml-class/)
+- [IFT 6758B](http://admission.umontreal.ca/cours-et-horaires/cours/IFT-6758B/)    Data science
+- [IFT6269 : Modèles graphiques probabilistes et apprentissage](http://www-labs.iro.umontreal.ca/~slacoste/teaching/ift6269/A21/)
 
 The course will also use Python heavily. I will assume familiarity with linear algebra, probability, statistics, planning, optimization, and operating systems (e.g. multi-threading and memory management). You also need to be able to read and understand research papers from NeurIPS, RSS, ICRA, CoRL, and ICLR.  
 
@@ -63,7 +66,8 @@ The programming assignments cover topics that are important to perform research 
 - Behaviour cloning and imitation learning
 - Model-free (PPO) and model-based RL methods (DDPG or PETS).
 - Exploration and pretraining methods, such as HRL and Goal conditioned RL.
-- Learning reward functions (VICE, un/smi-supervised RL)
+- Safe Exploration
+- Learning reward functions (un/smi-supervised RL)
 
 The assignments are also designed to familiarize students with the software needed to perform research:
 
@@ -74,22 +78,29 @@ The assignments are also designed to familiarize students with the software need
 
 ### Final Project
 
-The final project is designed to let students spread there wings and apply the learn skills in an area of interest of the students while digging deeper into the concepts. Your project does not need to use real robot hardware but there are options to get hardware for this class. Each project will start with a proposal that will ensure the right scope for each project. However, to provide some ideas on the scope a few examples are given below.
+The final project is designed to let students spread their wings and apply the learned skills in an area of interest of the students while digging deeper into the concepts. Your project does not need to use real robot hardware but there are options to get hardware for this class. Each project will start with a proposal that will ensure the right scope for each project. The projects will be **in groups of 2 or 3 students**. However, to provide some ideas on the scope, a few examples are given below.
 
 - Re-implement a method in a new deep learning framework
 - Re-implement a method in a paper that did not release code (shame on them)
-- Choose a robot to get and train a model to make it solve a task, like walk.
+- Choose a robot to get and train a model to make it solve a task, like walking.
 - Investigate a new method that improves exploration
-- Investigate a new method for learning an improved representation for learning on robots.
+- Investigate a new method for learning an improved representation for learning and exploration.
 - Study Sim2Real by learning and transferring policies to another simulation or real robot hardware.
 - Perform a literature review of Sim2Real papers.
 
+One of the broad goals of the class project is also to refine your skills at defining reasonable projects that can be completed and are of sufficient quality.
+
+### Real Robot Hardware
+
+In order to use real hardware for your class project, you need to include the requested hardware in the project proposal. The course has money allocated to purchase hardware for projects.
+
 Some robot ideas for projects
 
-- [Hexapod](https://www.trossenrobotics.com/phantomx-ax-hexapod.aspx) 
+- [Hexapod](https://www.trossenrobotics.com/phantomx-ax-hexapod.aspx)
 - [iRobot](https://edu.irobot.com/what-we-offer/create-robot)
 - [PiCrwaler](https://www.sunfounder.com/products/picrawler-robot-kit)
-- [RobotKity](https://www.robotshop.com/en/petoi-nybble-open-source-robotic-cat.html)
+- [Locobot](http://www.locobot.org/)
+- [ReactorX150 arm](http://support.interbotix.com/html/specifications/rx150.html)
 
 
 ## Resources
