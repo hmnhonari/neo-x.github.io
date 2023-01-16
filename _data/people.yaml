@@ -62,6 +62,20 @@
       fr: Co-conception algorithme-matériel
     - en: Robotics
       fr: Réseaux de neurones économes en énergie
+      
+- name: Charlie Gauthier
+  title: phd
+  picture: charlie
+  website: https://www.linkedin.com/in/charlie-gauthier/?originalSubdomain=ca
+  period:
+    start: 2023-01-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Co-conception algorithme-matériel
+    - en: Robotics
+      fr: Réseaux de neurones économes en énergie
+    - en: Sim2Real
+      fr: 
 
 - name: Simon Demule
   title: master
@@ -80,7 +94,7 @@
 - name: Adriana Hugensen
   title: master
   picture: adriana
-  website: https://jhuang265.github.io
+  website: https://www.linkedin.com/in/adriana-hugessen-20a68062/
   period:
     start: 2022-08-31
   topics:
@@ -121,25 +135,25 @@
 - name: Kirsty Ellis
   title: dev
   picture: kirsty
-  website: https://jhuang265.github.io
+  website: https://mila.quebec/en/person/kirsty-ellis/
   period:
     start: 2022-04-01
   topics:
     - en: Robotics
       fr: Traitement du langage naturel
       
-- name: Karim
+- name: Karim Boumghar
   title: ugrad
-  website: https://jhuang265.github.io
+#  website: https://jhuang265.github.io
   period:
     start: 2022-04-01
   topics:
     - en: Unsupervised Reinforcement Learning
       fr: Traitement du langage naturel
       
-- name: Jeremy
+- name: Jeremy Qin
   title: ugrad
-  website: https://jhuang265.github.io
+#  website: https://jhuang265.github.io
   period:
     start: 2022-04-01
   topics:
