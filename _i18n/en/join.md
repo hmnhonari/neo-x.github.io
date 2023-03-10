@@ -1,7 +1,7 @@
 
 Please apply through one of these forms. It is unlikely I will respond to individual emails.
  
-#### Undergraduate, intern, or visiting research
+#### Undergraduate, intern, or visiting research MSc/PhD
   
 Please apply through <a href="https://docs.google.com/forms/d/e/1FAIpQLScpI2eu0F-jwvYqNsGPHMO_PHtVodvqqgUXji0HSzcjNZMnKw/viewform?usp=sf_link">this form</a>.
     
