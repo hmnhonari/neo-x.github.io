@@ -17,6 +17,36 @@
     start: 2020-05-01
     end: 2022-09-01
   next:
-    en: Next
+    en: Industry
+    fr: Ou
+    
+- name: Karim Boumghar
+  title: ugrad
+  website: https://www.linkedin.com/in/karim-boumghar-787962222/
+  period:
+    start: 2022-04-01
+    end: 2022-12-01
+  next:
+    en: Industry
+    fr: Ou
+      
+- name: Jeremy Qin
+  title: ugrad
+  website: https://www.linkedin.com/in/jeremy-qin-280a82180/
+  period:
+    start: 2022-04-01
+    end: 2023-03-01
+  next:
+    en: MSc at Mila
+    fr: Ou
+    
+- name: Saurabh Bodhe
+  title: intern
+  website: https://www.linkedin.com/in/saurabh-bodhe-a87aba113
+  period:
+    start: 2023-01-01
+    end: 2023-05-01
+  next:
+    en: Machine Learning Researcher @ Huawei
     fr: Ou
  

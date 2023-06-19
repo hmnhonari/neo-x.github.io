@@ -41,15 +41,15 @@
     start: 2021-08-01
   topics:
     - en: Reinforcement learning
-      fr: Co-conception algorithme-matériel
+      fr: Apprentissage par renforcement
     - en: Robotics
-      fr: Réseaux de neurones économes en énergie
+      fr: Robotique
     - en: Machine Learning
-      fr: Machine Learning
+      fr: Apprentissage automatique
     - en: Generalization
       fr: Generalization
     - en: Planning
-      fr: Planning
+      fr: Planification
 
 - name: Albert Zhan
   title: phd
@@ -59,23 +59,24 @@
     start: 2022-03-01
   topics:
     - en: Deep Reinforcement Learning
-      fr: Co-conception algorithme-matériel
+      fr: Apprentissage par renforcement
     - en: Robotics
-      fr: Réseaux de neurones économes en énergie
+      fr: Robotique
       
 - name: Charlie Gauthier
   title: phd
+  cosupervisor: Liam Paull
   picture: charlie
   website: https://www.linkedin.com/in/charlie-gauthier/?originalSubdomain=ca
   period:
     start: 2023-01-01
   topics:
     - en: Deep Reinforcement Learning
-      fr: Co-conception algorithme-matériel
+      fr: Apprentissage par renforcement
     - en: Robotics
-      fr: Réseaux de neurones économes en énergie
+      fr: Robotique
     - en: Sim2Real
-      fr: 
+      fr: Sim2Real
 
 - name: Simon Demule
   title: master
@@ -123,7 +124,6 @@
   title: intern
   picture: raj-g
   website: https://rajghugare19.github.io/
-  cosupervisor: Liam Paull
   period:
     start: 2022-04-01
   topics:
@@ -140,23 +140,24 @@
     start: 2022-04-01
   topics:
     - en: Robotics
-      fr: Traitement du langage naturel
+      fr: Robotique
       
-- name: Karim Boumghar
+- name: Razvan Ciuca
   title: ugrad
-#  website: https://jhuang265.github.io
+  website: https://www.linkedin.com/in/razvan-ciuca-298556125/
   period:
     start: 2022-04-01
   topics:
     - en: Unsupervised Reinforcement Learning
       fr: Traitement du langage naturel
       
-- name: Jeremy Qin
+- name: Aurélien Bück-Kaeffer
   title: ugrad
-#  website: https://jhuang265.github.io
+  cosupervisor: Liam Paull
+  website: https://www.linkedin.com/in/aur%C3%A9lien-b%C3%BCck-kaeffer-8b627820b/
   period:
     start: 2022-04-01
   topics:
-    - en: Computer Vision
+    - en: Multi-Agent Reinforcement Learning
       fr: Traitement du langage naturel
 

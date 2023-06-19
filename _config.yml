@@ -67,8 +67,8 @@ header_pages:
   - people.html
   - publications.html
   - join.html
+  - posts.html
   - teaching.html
-  - blog.html
 
 page_gen:
   - data: people
