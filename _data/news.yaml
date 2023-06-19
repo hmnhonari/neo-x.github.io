@@ -24,6 +24,7 @@
 - en: 'New paper accepted to CoRL on <a href="https://sites.google.com/view/relmm">autonomous robot learning</a>!'
   fr: 'q'
   date: 2021-09-01
+  hidden: true
   
 - en: 'New paper accepted to NeurIPS on <a href="https://sites.google.com/view/ic2/home">surprise minimization in partially observed environments</a>!'
   fr: 'q'
@@ -32,10 +33,12 @@
 - en: 'I will be teaching a course on <a href="http://www.fracturedplane.com/teaching-new-course-in-robot-learning.html"> deep reinforcement learning for robotics</a> in January 2022!'
   fr: 'q'
   date: 2021-09-01
+  hidden: true
   
 - en: 'I will be joining <a href="https://mila.quebec/en/">Mila</a> and starting as an assistant professor at the <a href="https://diro.umontreal.ca/">University of Montreal</a> in August 2021!'
   fr: 'q'
   date: 2021-05-01
+  hidden: true
   
 - en: 'Our <a href="https://arxiv.org/abs/2103.14295">research paper</a> that will be presented at ICRA2021 on <a href="https://youtu.be/goxCjGPQH7U">RL for bipedal robots</a> was featured in <a href="https://www.technologyreview.com/2021/04/08/1022176/boston-dynamics-cassie-robot-walk-reinforcement-learning-ai/">MIT Technology Review</a>'
   fr: 'q'
@@ -44,6 +47,7 @@
 - en: 'Associate Editor for IROS 2021'
   fr: 'q'
   date: 2021-03-01
+  hidden: true
   
 - en: 'Two papers accepted to ICRA2021!'
   fr: 'q'
@@ -52,6 +56,7 @@
 - en: '<a href="http://www.fracturedplane.com/projects/smirl-surprise-minimizing-rl-in-unstable-environments.html">SMiRL: Surprise Minimizing RL in Unstable Environments</a> receives  <span style="font-weight:bold;">oral presentation at ICLR 2021 (top 1.8% of submitted papers)</span>'
   fr: 'q'
   date: 2021-01-01
+  hidden: true
   
 - en: 'Two papers accepted to ICLR 2021'
   fr: 'q'

@@ -1,6 +1,6 @@
-# Chandar-lab Website
+# Lab Website
 
-Jekyll setup and content for https://chandar-lab.github.io/
+Jekyll setup and content for the lab.
 
 ## Maintenance
 
@@ -82,7 +82,7 @@ _To aid the process, you can send them this:_
 > * Your website (this is mandatory).
 > * Your co-supervisor, if any.
 > * Your start date
-> * Your topic of interests. See https://chandar-lab.github.io/people/ for examples. If you know French, then please provide translations too.
+> * Your topic of interests. See https://neo-x.github.io/people/ for examples. If you know French, then please provide translations too.
 
 #### When someone graduates but stays. For example, from Master to PhD:
 
