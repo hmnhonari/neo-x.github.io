@@ -5,7 +5,7 @@ Modified: Saturday, 27. Nov 2021 02:06PM
 Category: Teaching
 Tags: Reinforcement Learning, Robot Learning, 
 Author: Glen Berseth
-Authors: 
+Authors: Glen Berseth
 Cover: Robotic Learning Schedule
 summary: This is an outline of the schedule for the course.
 comments: true
