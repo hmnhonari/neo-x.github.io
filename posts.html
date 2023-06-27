@@ -4,10 +4,15 @@ title: pages.posts
 permalink: /posts/
 ---
               
-
 {% for post in site.posts %}
-    {% include news-item.html item=post %}
-    page 
+<li>
+{% include post.html
+    title=post.title
+    author=post.author
+    cover=post.cover
+    summary=post.summary
+    category=post.category
+    date=post.date
+%}
+</li>
 {% endfor %}
-
-{% tf posts.md %}

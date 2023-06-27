@@ -1,0 +1,15 @@
+
+<p>
+<strong>{{include.title}}</strong><br>
+
+{% t translations.post.authors %} {%
+  include linked_person.html person=include.author
+%}.<br>
+
+{{ include.cover }} <br>
+
+{{ include.summary }} <br>
+
+{{include.category}}, 
+{{include.date | localize: "%B %Y"}}.<br>
+</p>
