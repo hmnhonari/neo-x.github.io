@@ -48,7 +48,6 @@ gems:
 encoding: utf-8
 markdown: kramdown
 theme: minima
-highlighter: pygments
 
 plugins:
   - jekyll-redirect-from
