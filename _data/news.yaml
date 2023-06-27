@@ -5,6 +5,19 @@
 #   website. Old news are relevant for in grant applications etc..
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
+
+- en: 'New paper accepted to IROS on Human-Robot interaction!'
+  fr: 'New paper accepted to IROS on Human-Robot interaction!'
+  date: 2023-06-01
+  
+- en: 'New paper accepted to <a href="https://jmlr.org/papers/v24/21-1174.html">JMLR on improving imitation learning from video</a>!'
+  fr: 'New paper accepted to <a href="https://jmlr.org/papers/v24/21-1174.html">JMLR on improving imitation learning from video</a>!'
+  date: 2023-03-01
+  
+- en: 'Completed the first <a href="https://mila.quebec/en/mila-robotics-summer-school/">Montreal Robotics Summer School</a>'
+  fr: 'Completed the first <a href="https://mila.quebec/en/mila-robotics-summer-school/">Montreal Robotics Summer School</a>'
+  date: 2022-08-01
+  
 - en: '<a href="https://arxiv.org/abs/2208.01160">New paper at IROS on quadruped robots learning soccer shooting skills.</a> IROS Best RoboCup Paper Award Finalist!' 
   fr: 'q'
   date: 2022-06-01

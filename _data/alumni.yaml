@@ -22,6 +22,7 @@
     
 - name: Karim Boumghar
   title: ugrad
+  profile_page: false
   website: https://www.linkedin.com/in/karim-boumghar-787962222/
   period:
     start: 2022-04-01
@@ -32,6 +33,7 @@
       
 - name: Jeremy Qin
   title: ugrad
+  profile_page: false
   website: https://www.linkedin.com/in/jeremy-qin-280a82180/
   period:
     start: 2022-04-01
@@ -42,6 +44,7 @@
     
 - name: Saurabh Bodhe
   title: intern
+  profile_page: false
   website: https://www.linkedin.com/in/saurabh-bodhe-a87aba113
   period:
     start: 2023-01-01
