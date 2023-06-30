@@ -80,6 +80,17 @@ page_gen:
     dir: people
     filter: profile_page
     
+# Number of news stories on the front page.
+front_page_news: 8
+
+# Number of old projects on the front page
+front_page_old_projects: 4
+
+# make pages for the _post folder
+#collections:
+#  posts:
+#    output: true
+    
 # Jekyll-Scholar
 scholar:
 
@@ -88,7 +99,7 @@ scholar:
 
   sort_by: year
   order: descending
-#   bibliography_template: bib
+  bibliography_template: bib
   
   replace_strings: true
   join_strings: true

@@ -1,6 +1,7 @@
 
+
 <p>
-<strong>{{include.title}}</strong><br>
+<strong><a href="{{include.url}}">{{include.title}}</a></strong><br>
 
 {% t translations.post.authors %} {%
   include linked_person.html person=include.author
@@ -10,6 +11,5 @@
 
 {{ include.summary }} <br>
 
-{{include.category}}, 
 {{include.date | localize: "%B %Y"}}.<br>
 </p>

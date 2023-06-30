@@ -6,6 +6,7 @@ title: pages.home
 
 {% tf about.md %}
 
+
 <h2>{% t headings.news %}</h2>
 
 {% assign news = site.data.news | where: "hidden", nil | sort: 'date' | reverse %}

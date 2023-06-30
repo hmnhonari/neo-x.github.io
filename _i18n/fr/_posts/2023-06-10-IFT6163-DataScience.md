@@ -8,10 +8,11 @@ published: Online
 authors: Glen Berseth
 cover: 
 summary: I teach a course on Data Science that covers the most imprtant concepts needed for students to become good data scientists.  
-comments: true
+layout: page
+layout: page
 ---
 
- # Data Science Course (IFT6758B)
+# Data Science Course (IFT6758B)
 
 I teach a course on Data Science that covers the most imprtant concepts needed for students to become good data scientists. 
 
