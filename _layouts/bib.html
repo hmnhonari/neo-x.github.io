@@ -29,6 +29,7 @@
   {% else %}
     <span class="title"><b>{{entry.title}}</b></span>
     <span class="author">
+    <br>
       {% for author in entry.author_array %}
       	{% assign fullname = author.first | append: " " | append: author.last %}
         {% unless forloop.last %}
@@ -72,9 +73,7 @@
   {% endif %}
 
   <span class="links">
-  {% if entry.abstract %}
-    <a class="abstract">Abstract</a>
-  {% endif %}
+  <br>
   {% if entry.arxiv %}
     <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank" class="buttonTT">arXiv</a>
   {% endif %}
@@ -115,7 +114,6 @@
   {% if entry.abstract %}
   <div id="abstract">
   <span class="abstract hidden">
-    <p>{{ entry.abstract }}</p>
   </span>
   </div>
   {% endif %}
