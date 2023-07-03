@@ -9,12 +9,11 @@ We study how robots can autonomously learn skills that require a combination of 
 
 <div align="center">     <table align="center">        <tr>    <td width="33%"> 
 <a href="https://arxiv.org/abs/2104.11707">
-<h4>General task learning by inferring rewards from example data</h4>
-  <img width="100%" src="/assets/projects/DiscoRL/DisCoRL.png"> 
+<h4>Generalization across robots via inferring morphology</h4>
+  <img width="100%" src="/assets/projects/anymorph/anymorph_prompt.gif"> 
   </a>
   </td> <td width="66%"> 
- 
-Can we use reinforcement learning to learn general-purpose policies that can perform a wide range of different tasks, resulting in flexible and reusable skills? Contextual policies provide this capability in principle, but the representation of the context determines the degree of generalization and expressivity. Categorical contexts preclude generalization to entirely new tasks. Goal-conditioned policies may enable some generalization, but cannot capture all tasks that might be desired. In this paper, we propose goal distributions as a general and broadly applicable task representation suitable for contextual policies. Goal distributions are general in the sense that they can represent any state-based reward function when equipped with an appropriate distribution class, while the particular choice of distribution class allows us to trade off expressivity and learnability. We develop an off-policy algorithm called distribution-conditioned reinforcement learnin (DisCo) to efficiently learn these policies. We evaluate DisCo on a variety of robot manipulation tasks and find that it significantly outperforms prior methods on tasks that require generalization to new goal distributions. 
+The prototypical approach to reinforcement learning involves training policies tailored to a particular agent from scratch for every new morphology. Recent work aims to eliminate the re-training of policies by investigating whether a morphology-agnostic policy, trained on a diverse set of agents with similar task objectives, can be transferred to new agents with unseen morphologies without re-training. This is a challenging problem that required previous approaches to use hand-designed descriptions of the new agent's morphology. Instead of hand-designing this description, we propose a data-driven method that learns a representation of morphology directly from the reinforcement learning objective. Ours is the first reinforcement learning algorithm that can train a policy to generalize to new agent morphologies without requiring a description of the agent's morphology in advance. We evaluate our approach on the standard benchmark for agent-agnostic control, and improve over the current state of the art in zero-shot generalization to new agents. Importantly, our method attains good performance without an explicit description of morphology. 
       </td>	</tr> </table></div>
    
 <div align="center">     <table align="center">        <tr>    <td width="33%">   
