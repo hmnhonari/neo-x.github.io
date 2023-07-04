@@ -1,6 +1,6 @@
 ---
-title: Visual Imitation with Reinforcement Learning using Recurrent Siamese Networks
-date: 2019-05-25 10:20
+title: Towards Learning to Imitate from a Single Video Demonstration
+date: 2023-03-25 10:20
 modified: Thu, 25. May 2019 02:06PM 
 category: Publication
 Tags: RL, DeepLearning, Simulation, Imitation Learning
@@ -15,10 +15,10 @@ TitleShort: Imitation from a single video demonstration
 
 <div align="center">
 	<p>
-				Glen Berseth, Christopher Pal
+				Glen Berseth, Florian Golemo, Christopher Pal
 	</p>
 	<p>	
-            ElementAI
+            UdeM, Mila Quebec AI Institute, Canada CIFAR AI, Polytechnic Montreal, Service Now
     </p>
 </div>
 
