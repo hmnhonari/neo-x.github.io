@@ -1,29 +1,14 @@
 ---
 ---
 
-<div id="publications">
+<div>
 <table style="width:100%" cellspacing="0">
-  <col width="25%">
-  <col width="75%">
+  <col width="95%">
 <tr>
-
-{% if entry.abbr %}
-  {% if site.data.venues[entry.abbr] %}
-    <abbr>[<a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a>]</abbr>
-  {% else %}
-    <abbr>[{{entry.abbr}}]</abbr>
-  {% endif %}
-{% endif %}
 
 <div id="{{entry.key}}">
 
-  <td style="border-left: 1px solid #000000; border-bottom: 1px solid #000000;">
-  {% if entry.image %}
-  <img src="{{entry.image | prepend: '/img/' | prepend: site.baseurl | prepend: site.url }}" style="width:100%;">
-  {% endif %}
-  </td>
-
-  <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+  <td>
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
@@ -56,15 +41,12 @@
         {% endunless %}
       {% endfor %}
     </span>
-
+	<br>
     <span class="periodical">
     {% if entry.type == "article" %}
       <em>{{entry.journal}}</em>
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
-    {% endif %}
-    {% if entry.year %}
-      {{entry.year}}
     {% endif %}
     {% if entry.highlight %}
       <b> {{entry.highlight}} </b>
@@ -116,32 +98,6 @@
   </div>
   {% endif %}
 
-  <!-- Hidden BibTeX block -->
-  <div id="mybibtex">
-  <span class="bibtex hidden">
-    <p>
-      @inproceedings{ {{ entry.key }}, <br>
-      author = { {% for author in entry.author_array %} 
-                  {% unless forloop.last %}
-                      {{ author.last }}, {{ author.first }} and
-                    {% else %}
-                      {{ author.last }}, {{ author.first }} 
-                    {% endunless %}
-                  {% endfor %} }, <br>
-      title = { {{ entry.title }} }, <br>
-      {% if entry.journal %}
-        journal = { {{ entry.journal}} }, <br>
-      {% endif %}
-      {% if entry.booktitle %}
-        booktitle = { {{ entry.booktitle}} }, <br>
-      {% endif %}
-      {% if entry.year %}
-        year = { {{ entry.year }} }, <br>
-      {% endif %}
-      }
-    </p>
-  </span>
-  </div>
 
   </td>
 </div>
