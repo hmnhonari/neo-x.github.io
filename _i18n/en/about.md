@@ -6,7 +6,7 @@ I am an assistant professor at the <a href="https://diro.umontreal.ca/accueil/">
     In my work, I have published at top venues across robotics, machine learning, and computer animation disciplines. 
     Currently, I am teaching a course on robot learning at Université de Montréal and Mila that covers the most recent research on machine learning techniques for creating generalist robots.  
 
-<p>For a more formal biography, click <a href="biography.html">here</a> </p>   
+<p>For a more formal biography, click <a href="biography/bio.html">here</a> </p>   
       </td>	</tr> 
  .
     </table></div>
