@@ -10,6 +10,18 @@
 # The next field must contain both english (en) and french (fr) translations.
 # People will be sorted by period.end
 
+- name: Léa Demule
+  title: master
+  picture: simon
+  website: https://simondemeule.com/
+  profile_page: false
+  period:
+    start: 2022-08-31
+    end: 2023-09-01
+  next:
+    en: Research Assistant @ Mila
+    fr: Ou
+
 - name: Rodney Yi
   title: ugrad
   profile_page: false

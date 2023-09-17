@@ -78,12 +78,12 @@
     - en: Sim2Real
       fr: Sim2Real
 
-- name: Simon Demule
-  title: master
+- name: Léa Demule
+  title: intern
   picture: simon
   website: https://simondemeule.com/
   period:
-    start: 2022-08-31
+    start: 2023-09-02
   topics:
     - en: Deep Learning
       fr: Apprentissage profond
@@ -121,7 +121,7 @@
       fr: Les règles de mise à échelle
 
 - name: Raj Ghugare
-  title: intern
+  title: master
   picture: raj-g
   website: https://rajghugare19.github.io/
   period:
