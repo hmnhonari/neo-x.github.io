@@ -7,7 +7,7 @@ Please apply through <a href="https://docs.google.com/forms/d/e/1FAIpQLScpI2eu0F
     
 #### Interested in MSc or PhD supervision
  
-Please apply through <a href="https://mila.quebec/en/cours/supervision/">Mila admissions</a> or <a href="https://admission.umontreal.ca/en/admissions/filing/submit-an-application/">UdeM admissions</a>. After you are admitted please contact me for potential supervision.
+Please apply through <a href="https://mila.quebec/en/cours/supervision/">Mila admissions</a> or <a href="https://admission.umontreal.ca/en/admissions/filing/submit-an-application/">UdeM admissions</a>. Review my <a href="https://neo-x.github.io/blog/2023/09/14/GradApps.html">tips on preparing applications to graduate school</a>. After you are admitted please contact me for potential supervision.
     
 #### Interested in Post-Doctoral Research
  
