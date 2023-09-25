@@ -37,8 +37,8 @@ youtube_channel: UCOouaBg4gHIlNvPkJn_8ooA
 youtube_channel_name: Real Lab
 twitter_username: GlenBerseth
 linkedin_username: glen-berseth-0523278b
-mastodon: [{username: "glenberseth",
-            instance: "sigmoid.social"}]
+# mastodon: [{username: "glenberseth",
+#             instance: "sigmoid.social"}]
 
 
 gems:
