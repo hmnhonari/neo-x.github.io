@@ -6,6 +6,10 @@
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
 
+- en: 'New paper accepted to NeurIPS 2023 on <a href="https://arxiv.org/abs/2306.14808">efficient exploration in finite horizons</a>!'
+  fr: 'q'
+  date: 2023-09-30
+
 - en: "New paper accepted to <a href='https://arxiv.org/abs/2309.03839'>iROS</a> on using OfflineRL to bootstrap human robot interfaces!"
   fr: "New paper accepted to <a href='https://arxiv.org/abs/2309.03839'>iROS</a> on using OfflineRL to bootstrap human robot interfaces!"
   date: 2023-09-12
@@ -29,14 +33,17 @@
 - en: '<a href="https://mila.quebec/en/article/anymorph-learning-transferable-policies-by-inferring-agent-morphology/">New paper at ICML</a> on generalization in RL by training a single policy to control robots with different morphologies.'  
   fr: 'q'
   date: 2022-05-01
+  hidden: true
   
 - en: '<a href="https://nouvelles.umontreal.ca/en/article/2022/04/19/the-fondation-courtois-gives-159m-to-udem-for-the-discovery-of-new-materials/">UdeM receives 159M</a> to create the <a href="https://institut-courtois.umontreal.ca/en/">Courtois Institute</a> to support fundamental science and apply AI and robotics to scientific experimentation. My lab will lead research on methods for automating scientific experimentation.'
   fr: 'q'
   date: 2022-04-01
   
+  
 - en: 'New paper accepted to ICLR on <a href="https://arxiv.org/abs/2112.04467">Continual Meta-Reinforcement Learning</a>.'
   fr: 'q'
   date: 2022-01-01
+  hidden: true
   
 - en: 'New paper accepted to CoRL on <a href="https://sites.google.com/view/relmm">autonomous robot learning</a>!'
   fr: 'q'

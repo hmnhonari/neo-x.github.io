@@ -1,32 +1,73 @@
 
+@inproceedings{GhugaremChemRL,
+  title={	
+Searching the space of high-value molecules using reinforcement learning and language models},
+  author={Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth},
+  year={Preprint}
+}
+
+@misc{venkatraman2023reasoning,
+      title={Reasoning with Latent Diffusion in Offline Reinforcement Learning}, 
+      author={Siddarth Venkatraman and Shivesh Khaitan and Ravi Tej Akella and John Dolan and Jeff Schneider and Glen Berseth},
+      arxiv={2309.06599},
+      journal={arXiv preprint arXiv:2309.06599},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      year={Preprint},
+}
+
 @inproceedings{jain2023maximum,
     title={Maximum State Entropy Exploration using Predecessor and Successor Representations},
     author={Arnav Kumar Jain and Lucas Lehnert and Irina Rish and Glen Berseth},
-    year={Preprint},
-    eprint={2306.14808},
+    year={2023},
     archivePrefix={arXiv},
     primaryClass={cs.LG},
     arxiv={2306.14808},
-    journal={arXiv preprint arXiv:2306.14808},
-    booktitle={Frontiers4LCD Workshop @ ICML, 2023}
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+    year={2023},
+    url={https://openreview.net/forum?id=tFsxtqGmkn}
 }
+
+@inproceedings{gao2023bootstrapping,
+      title={Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning}, 
+      author={Jensen Gao and Siddharth Reddy and Glen Berseth and Anca D. Dragan and Sergey Levine},
+      year={2023},
+      arxiv={2309.03839},
+  booktitle = {Proc. IEEE/RSJ Intl Conf on Intelligent Robots and Systems (IROS 2023)},
+  arxiv = {2208.01160},
+  projectpage = "https://sites.google.com/view/orbit-assist",
+  abstract = {daptive interfaces can help users perform sequential decision-making tasks like robotic teleoperation given noisy, high-dimensional command signals (e.g., from a brain-computer interface). Recent advances in human-in-the-loop machine learning enable such systems to improve by interacting with users, but tend to be limited by the amount of data that they can collect from individual users in practice. In this paper, we propose a reinforcement learning algorithm to address this by training an interface to map raw command signals to actions using a combination of offline pre-training and online fine-tuning. To address the challenges posed by noisy command signals and sparse rewards, we develop a novel method for representing and inferring the user's long-term intent for a given trajectory. We primarily evaluate our method's ability to assist users who can only communicate through noisy, high-dimensional input channels through a user study in which 12 participants performed a simulated navigation task by using their eye gaze to modulate a 128-dimensional command signal from their webcam. The results show that our method enables successful goal navigation more often than a baseline directional interface, by learning to denoise user commands signals and provide shared autonomy assistance. We further evaluate on a simulated Sawyer pushing task with eye gaze control, and the Lunar Lander game with simulated user commands, and find that our method improves over baseline interfaces in these domains as well. Extensive ablation experiments with simulated user commands empirically motivate each component of our method.},
+}
+
 
 @article{kim2023torque,
-  title={Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer},
-  author={Kim, Donghyeon and Berseth, Glen and Schwartz, Mathew and Park, Jaeheung},
-  journal={arXiv preprint arXiv:2304.09434},
-  year={Preprint},
-  arxiv={2304.09434},
-}
-
-@article{li2023robust,
-  title={Robust and versatile bipedal jumping control through multi-task reinforcement learning},
-  author={Li, Zhongyu and Peng, Xue Bin and Abbeel, Pieter and Levine, Sergey and Berseth, Glen and Sreenath, Koushil},
-  journal={arXiv preprint arXiv:2302.09450},
+  author={Kim, Donghyeon and Glen Berseth and Schwartz, Mathew and Park, Jaeheung},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer}, 
   year={2023},
-  arxiv={2302.09450},
-  video={https://youtu.be/aAPSZ2QFB-E},
-  image={papers/cassiejump.png}
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={In this paper, we review the question of which action space is best suited for controlling a real biped robot in combination with Sim2Real training. Position control has been popular as it has been shown to be more sample efficient and intuitive to combine with other planning algorithms. However, for position control, gain tuning is required to achieve the best possible policy performance. We show that, instead, using a torque-based action space enables task-and-robot agnostic learning with less parameter tuning and mitigates the sim-to-reality gap by taking advantage of torque control's inherent compliance. Also, we accelerate the torque-based-policy training process by pre-training the policy to remain upright by compensating for gravity. The paper showcases the first successful sim-to-real transfer of a torque-based deep reinforcement learning policy on a real human-sized biped robot.},
+  keywords={},
+  arxiv={2304.09434},
+  video={https://www.youtube.com/watch?v=CR6pTS39VRE},
+  doi={10.1109/LRA.2023.3304561},
+  ISSN={2377-3766},
+  month={},}
+
+@inproceedings{
+	li2023robust,
+	author={Zhongyu Li and Xue Bin Peng and Pieter Abbeel and Sergey Levine and Glen Berseth and Koushil Sreenath},
+	editor={Kostas E. Bekris and Kris Hauser and Sylvia L. Herbert and Jingjin Yu},
+	title={Robust and Versatile Bipedal Jumping Control through Reinforcement Learning},
+	booktitle={Robotics: Science and Systems XIX, Daegu, Republic of Korea, July 10-14, 2023},
+	year={2023},
+	url={https://doi.org/10.15607/RSS.2023.XIX.052},
+	doi={10.15607/RSS.2023.XIX.052},
+    arxiv={2302.09450},
+    video={https://youtu.be/aAPSZ2QFB-E},
+    image={papers/cassiejump.png}
 }
 
 @inproceedings{quadsoccer,
