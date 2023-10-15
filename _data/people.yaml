@@ -51,6 +51,18 @@
     - en: Planning
       fr: Planification
 
+- name: Siddarth Venkatraman
+  title: phd
+  picture: siddarth
+  website: https://www.linkedin.com/in/siddarth-venkatraman-59b863157
+  period:
+    start: 2023-09-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Representation learning
+      fr: Representation learning
+      
 - name: Albert Zhan
   title: phd
   picture: albert-z
@@ -77,6 +89,17 @@
       fr: Robotique
     - en: Sim2Real
       fr: Sim2Real
+      
+- name: Esra'a Saleh
+  title: phd
+  cosupervisor: Aaron Courville
+  picture: esraa
+  website: https://esraasaleh.com/
+  period:
+    start: 2023-09-01
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage par renforcement
 
 - name: Léa Demule
   title: intern
@@ -91,6 +114,28 @@
       fr: Causalité
     - en: Signal Processing
       fr: Les règles de mise à échelle
+      
+- name: Faisal Ahmed
+  title: intern
+  picture: faisal
+  website: https://faisalahmed0.github.io/
+  period:
+    start: 2023-10-02
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond
+    - en: Unsupervised Reinforcement Learning
+      fr: Unsupervised Reinforcement Learning
+      
+- name: Jiajun Fan
+  title: intern
+  picture: jiajun
+  website: https://www.jiajunfan.com/
+  period:
+    start: 2023-10-15
+  topics:
+    - en: Reinforcement Learning 
+      fr: Apprentissage par renforcement
       
 - name: Adriana Hugensen
   title: master
@@ -141,6 +186,16 @@
   topics:
     - en: Robotics
       fr: Robotique
+      
+- name: Anjelica Kovac
+  title: dev
+  picture: anjelica
+  website: https://www.linkedin.com/in/anjelica-kovac-08b990141
+  period:
+    start: 2023-01-01
+  topics:
+    - en: Admin Assistant
+      fr: Admin Assistant
       
 - name: Razvan Ciuca
   title: ugrad
