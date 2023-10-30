@@ -1,4 +1,4 @@
-The Lab performs research across machine learning, planning and robotics. See our [publications]({% link pages/publications.html %}) for more details on what the current [members]({% link pages/people.html %}) are studying. 
+The Lab performs research across machine learning, planning and robotics. See our [publications]({% link publications.html %}) for more details on what the current [members]({% link people.html %}) are studying. 
 
 Here is a mutable list of topics of interest for the lab. Students should be interested in these topics when applying and reference their related topics of interest when applying.
 
