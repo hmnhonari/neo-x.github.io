@@ -65,6 +65,9 @@
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
   {% endif %}
+  {% if entry.url %}
+    [<a href="{{ entry.url }}" target="_blank">Link</a>]
+  {% endif %}
   {% if entry.pdf %}
     <a href="{{ entry.pdf | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonTT">PDF</a>
   {% endif %}
