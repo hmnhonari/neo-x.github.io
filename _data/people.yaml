@@ -50,7 +50,32 @@
       fr: Generalization
     - en: Planning
       fr: Planification
-
+      
+- name: Melrose Roderick
+  title: postdoc
+  cosupervisor: Marc Bellemare
+  picture: Melrose Roderick
+  website: https://melroderick.github.io/
+  period:
+    start: 2023-12-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Safety
+      fr: Sequrité
+      
+- name: Hongyao Tang
+  title: postdoc
+  picture: hongyao-tang
+  website: https://bluecontra.github.io/
+  period:
+    start: 2023-12-01
+  topics:
+    - en: Deep Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Representation learning
+      fr: Representation learning
+   
 - name: Siddarth Venkatraman
   title: phd
   picture: siddarth
