@@ -54,7 +54,7 @@
 - name: Melrose Roderick
   title: postdoc
   cosupervisor: Marc Bellemare
-  picture: Melrose Roderick
+  picture: melrose
   website: https://melroderick.github.io/
   period:
     start: 2023-12-01
@@ -66,7 +66,7 @@
       
 - name: Hongyao Tang
   title: postdoc
-  picture: hongyao-tang
+  picture: hongyao
   website: https://bluecontra.github.io/
   period:
     start: 2023-12-01
@@ -127,7 +127,7 @@
       fr: Apprentissage par renforcement
 
 - name: Léa Demule
-  title: intern
+  title: phd
   picture: simon
   website: https://simondemeule.com/
   period:
@@ -162,8 +162,21 @@
     - en: Reinforcement Learning 
       fr: Apprentissage par renforcement
       
+- name: Michael Przystupa
+  title: intern
+  cosupervisor: Matthew E. Taylor
+  picture: michael
+  website: https://www.linkedin.com/in/michael-przystupa-984816120/
+  period:
+    start: 2024-01-01
+  topics:
+    - en: Robotics 
+      fr: Robotique
+    - en: Reinforcement Learning 
+      fr: Apprentissage par renforcement
+      
 - name: Adriana Hugensen
-  title: master
+  title: phd
   picture: adriana
   website: https://www.linkedin.com/in/adriana-hugessen-20a68062/
   period:
