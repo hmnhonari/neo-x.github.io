@@ -6,8 +6,12 @@
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
 
+- en: 'Five new papers accepted to ICLR 2024 on <a href="https://arxiv.org/abs/2310.18144">efficient exploration</a>, <a href="https://arxiv.org/abs/2401.11237">generalization in sequence planning for supervised learning</a>, <a href="https://openreview.net/forum?id=Nq45xeghcL">Intelligent Switching for Reset-Free RL</a>, <a href="https://arxiv.org/abs/2310.02902">Using LLMs and RL for drug discovery</a>, and <a href="https://arxiv.org/abs/2309.06599">Latent diffusion for OfflineRL</a>!'
+  fr: 'Five new papers accepted to ICLR 2024 on <a href="https://arxiv.org/abs/2310.18144">efficient exploration</a>, <a href="https://arxiv.org/abs/2401.11237">generalization in sequence planning for supervised learning</a>, <a href="https://openreview.net/forum?id=Nq45xeghcL">Intelligent Switching for Reset-Free RL</a>, <a href="https://arxiv.org/abs/2310.02902">Using LLMs and RL for drug discovery</a>, and <a href="https://arxiv.org/abs/2309.06599">Latent diffusion for OfflineRL</a>!'
+  date: 2024-01-29
+  
 - en: 'New paper accepted to NeurIPS 2023 on <a href="https://arxiv.org/abs/2306.14808">efficient exploration in finite horizons</a>!'
-  fr: 'q'
+  fr: 'New paper accepted to NeurIPS 2023 on <a href="https://arxiv.org/abs/2306.14808">efficient exploration in finite horizons</a>!'
   date: 2023-09-30
 
 - en: "New paper accepted to <a href='https://arxiv.org/abs/2309.03839'>iROS</a> on using OfflineRL to bootstrap human robot interfaces!"
@@ -38,6 +42,7 @@
 - en: '<a href="https://nouvelles.umontreal.ca/en/article/2022/04/19/the-fondation-courtois-gives-159m-to-udem-for-the-discovery-of-new-materials/">UdeM receives 159M</a> to create the <a href="https://institut-courtois.umontreal.ca/en/">Courtois Institute</a> to support fundamental science and apply AI and robotics to scientific experimentation. My lab will lead research on methods for automating scientific experimentation.'
   fr: 'q'
   date: 2022-04-01
+  hidden: true
   
   
 - en: 'New paper accepted to ICLR on <a href="https://arxiv.org/abs/2112.04467">Continual Meta-Reinforcement Learning</a>.'
@@ -76,6 +81,7 @@
 - en: 'Two papers accepted to ICRA2021!'
   fr: 'q'
   date: 2021-02-01
+  hidden: true
   
 - en: '<a href="http://www.fracturedplane.com/projects/smirl-surprise-minimizing-rl-in-unstable-environments.html">SMiRL: Surprise Minimizing RL in Unstable Environments</a> receives  <span style="font-weight:bold;">oral presentation at ICLR 2021 (top 1.8% of submitted papers)</span>'
   fr: 'q'
