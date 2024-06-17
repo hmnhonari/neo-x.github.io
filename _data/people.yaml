@@ -254,3 +254,16 @@
     - en: Multi-Agent Reinforcement Learning
       fr: Traitement du langage naturel
 
+- name: Florence Cloutier
+  title: master
+  picture: florence
+  website: https://www.linkedin.com/in/florencecloutier/
+  period:
+    start: 2024-09-01
+  topics:
+    - en: Robotics
+      fr: Robotique
+    - en: Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Sustainable Development
+      fr: Développement durable
