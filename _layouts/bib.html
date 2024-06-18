@@ -15,7 +15,7 @@
   {% endif %}
   {% if entry.teaser_video %}
     <video poster="" id="" autoplay controls muted loop width="100%" playbackRate=2.0 style="border-radius: 5px;">
-        <source src="{{entry.teaser_video | prepend: site.baseurl | prepend: site.url }}" type="video/mp4">
+        <source src="{{entry.teaser_video}}" type="video/mp4">
     </video>
   {% endif %}
   </td>
