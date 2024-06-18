@@ -6,6 +6,14 @@
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
 
+- en: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
+  fr: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
+  date: 2024-06-16
+  
+- en: 'Best paper award at ICLR to ICLR 2024 on <a href="https://robotics-transformer-x.github.io/">VLMs for robotics</a>!'
+  fr: 'Best paper award at ICLR to ICLR 2024 on <a href="https://robotics-transformer-x.github.io/">VLMs for robotics</a>!'
+  date: 2024-05-16
+  
 - en: 'Five new papers accepted to ICLR 2024 on <a href="https://arxiv.org/abs/2310.18144">efficient exploration</a>, <a href="https://arxiv.org/abs/2401.11237">generalization in sequence planning for supervised learning</a>, <a href="https://openreview.net/forum?id=Nq45xeghcL">Intelligent Switching for Reset-Free RL</a>, <a href="https://arxiv.org/abs/2310.02902">Using LLMs and RL for drug discovery</a>, and <a href="https://arxiv.org/abs/2309.06599">Latent diffusion for OfflineRL</a>!'
   fr: 'Five new papers accepted to ICLR 2024 on <a href="https://arxiv.org/abs/2310.18144">efficient exploration</a>, <a href="https://arxiv.org/abs/2401.11237">generalization in sequence planning for supervised learning</a>, <a href="https://openreview.net/forum?id=Nq45xeghcL">Intelligent Switching for Reset-Free RL</a>, <a href="https://arxiv.org/abs/2310.02902">Using LLMs and RL for drug discovery</a>, and <a href="https://arxiv.org/abs/2309.06599">Latent diffusion for OfflineRL</a>!'
   date: 2024-01-29
