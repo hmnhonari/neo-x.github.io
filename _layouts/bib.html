@@ -1,14 +1,26 @@
 ---
 ---
 
-<div>
+<div id="publications">
 <table style="width:100%" cellspacing="0">
-  <col width="95%">
+  <col width="25%">
+  <col width="75%">
 <tr>
 
 <div id="{{entry.key}}">
 
-  <td>
+  <td style="border-left: 1px solid #000000; border-bottom: 1px solid #000000;">
+  {% if entry.image %}
+  <img src="{{entry.image | prepend: '/img/' | prepend: site.baseurl | prepend: site.url }}" style="width:100%;">
+  {% endif %}
+  {% if entry.teaser_video %}
+    <video poster="" id="" autoplay controls muted loop width="100%" playbackRate=2.0 style="border-radius: 5px;">
+        <source src="{{entry.teaser_video | prepend: '/img/' | prepend: site.baseurl | prepend: site.url }}" type="video/mp4">
+    </video>
+  {% endif %}
+  </td>
+
+  <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;>
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
@@ -53,14 +65,13 @@
     {% endif %}
     </span>
   {% endif %}
-
   <span class="links">
   <br>
   {% if entry.arxiv %}
-    <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank" class="buttonTT">arXiv</a>
+    <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank" class="buttonTT">arXiv</a> |
   {% endif %}
   {% if entry.openreview %}
-    <a href="https://openreview.net/forum?id={{ entry.openreview }}" target="_blank" class="buttonTT">OpenReview</a>
+    <a href="https://openreview.net/forum?id={{ entry.openreview }}" target="_blank" class="buttonTT">OpenReview</a> |
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
@@ -69,25 +80,25 @@
     [<a href="{{ entry.url }}" target="_blank">Link</a>]
   {% endif %}
   {% if entry.pdf %}
-    <a href="{{ entry.pdf | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonTT">PDF</a>
+    <a href="{{ entry.pdf | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonTT">PDF</a> |
   {% endif %}
   {% if entry.supp %}
-    <a href="{{ entry.supp | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Supplementary</a>
+    <a href="{{ entry.supp | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Supplementary</a> |
   {% endif %}
   {% if entry.poster %}
-    <a href="{{ entry.poster | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Poster</a>
+    <a href="{{ entry.poster | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Poster</a> |
   {% endif %}
   {% if entry.slides %}
-    <a href="{{ entry.slides | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Slides</a>
+    <a href="{{ entry.slides | prepend: '/pdfs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="buttonMM">Slides</a> |
   {% endif %}
   {% if entry.projectpage %}
-    <a href="{{ entry.projectpage }}" target="_blank" class="buttonPP">Project Page</a>
+    <a href="{{ entry.projectpage }}" target="_blank" class="buttonPP">Project Page</a> |
   {% endif %}
   {% if entry.code %}
-    <a href="{{ entry.code }}" target="_blank" class="buttonPP">Code</a>
+    <a href="{{ entry.code }}" target="_blank" class="buttonPP">Code</a> |
   {% endif %}
   {% if entry.video %}
-    <a href="{{ entry.video }}" target="_blank" class="buttonSS">Video</a>
+    <a href="{{ entry.video }}" target="_blank" class="buttonSS">Video</a> |
   {% endif %}
 
   <!-- BibTeX -->
