@@ -51,13 +51,12 @@
     - en: Planning
       fr: Planification
       
-- name: Melrose Roderick
+- name: Cyrus Neary
   title: postdoc
-  cosupervisor: Marc Bellemare
-  picture: melrose
-  website: https://melroderick.github.io/
+  picture: cyrus
+  website: https://www.cyrusneary.com/
   period:
-    start: 2023-12-01
+    start: 2024-09-01
   topics:
     - en: Reinforcement learning
       fr: Apprentissage par renforcement
@@ -87,6 +86,21 @@
       fr: Apprentissage par renforcement
     - en: Representation learning
       fr: Representation learning
+      
+- name: Elham Daneshmand
+  title: phd
+  cosupervisor: Hsiu-Chin Lin
+  picture: elham
+  website: https://www.linkedin.com/in/elham-daneshmand
+  period:
+    start: 2024-01-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Optimal Control
+      fr: Representation learning
+    - en: Robotics
+      fr: Robotique
       
 - name: Albert Zhan
   title: phd
