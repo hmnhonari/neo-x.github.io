@@ -248,25 +248,6 @@
   topics:
     - en: Admin Assistant
       fr: Admin Assistant
-      
-- name: Razvan Ciuca
-  title: ugrad
-  website: https://www.linkedin.com/in/razvan-ciuca-298556125/
-  period:
-    start: 2022-04-01
-  topics:
-    - en: Unsupervised Reinforcement Learning
-      fr: Traitement du langage naturel
-      
-- name: Aurélien Bück-Kaeffer
-  title: ugrad
-  cosupervisor: Liam Paull
-  website: https://www.linkedin.com/in/aur%C3%A9lien-b%C3%BCck-kaeffer-8b627820b/
-  period:
-    start: 2022-04-01
-  topics:
-    - en: Multi-Agent Reinforcement Learning
-      fr: Traitement du langage naturel
 
 - name: Florence Cloutier
   title: master
