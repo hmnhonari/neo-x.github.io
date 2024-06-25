@@ -78,14 +78,16 @@
 - name: Siddarth Venkatraman
   title: phd
   picture: siddarth
-  website: https://www.linkedin.com/in/siddarth-venkatraman-59b863157
+  website: https://hyperpotatoneo.github.io/
   period:
     start: 2023-09-01
   topics:
+    - en: Probabilistic inference
+      fr: Probabilistic inference
+    - en: Generative models
+      fr: Generative models
     - en: Reinforcement learning
       fr: Apprentissage par renforcement
-    - en: Representation learning
-      fr: Representation learning
       
 - name: Elham Daneshmand
   title: phd
