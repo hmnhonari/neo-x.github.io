@@ -8,10 +8,15 @@ Here is a mutable list of topics of interest for the lab. Students should be int
 - **Computer Vision**: Vision models for robotics, vision-language models, invariant representations.
 
 Please apply through one of these forms. It is unlikely I will respond to individual emails.
+
+
+#### Undergraduates interested IFT3150/IFT4150 projects
+
+Please apply through [this form](https://docs.google.com/forms/d/1moEgwMl7hRk5CBmjX1W1HWX-zD0PW8LPVcdzZC7bHG8/edit?chromeless=1). You should also look into applying to the [Undergraduate Student Research Award](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) program.
  
-#### Undergraduate (potential <a href="https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp">USRA</a>), IFT3150 project, intern, or visiting research MSc/PhD
+#### Undergraduates, intern, or visiting research MSc/PhD
   
-Please apply through <a href="https://docs.google.com/forms/d/e/1FAIpQLScpI2eu0F-jwvYqNsGPHMO_PHtVodvqqgUXji0HSzcjNZMnKw/viewform?usp=sf_link">this form</a>.
+Please apply through <a href="https://docs.google.com/forms/d/e/1FAIpQLScpI2eu0F-jwvYqNsGPHMO_PHtVodvqqgUXji0HSzcjNZMnKw/viewform?usp=sf_link">this form</a>. If you are an undergraduate student I strongly suggest you consider applying to the [Undergraduate Student Research Award](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) program.
     
 #### Interested in MSc or PhD supervision
  
