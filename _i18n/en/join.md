@@ -9,7 +9,7 @@ Here is a mutable list of topics of interest for the lab. Students should be int
 
 Please apply through one of these forms. It is unlikely I will respond to individual emails.
  
-#### Undergraduate, IFT3150 project, intern, or visiting research MSc/PhD
+#### Undergraduate (potential <a href="https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp">USRA</a>), IFT3150 project, intern, or visiting research MSc/PhD
   
 Please apply through <a href="https://docs.google.com/forms/d/e/1FAIpQLScpI2eu0F-jwvYqNsGPHMO_PHtVodvqqgUXji0HSzcjNZMnKw/viewform?usp=sf_link">this form</a>.
     
