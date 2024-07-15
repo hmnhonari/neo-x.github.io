@@ -1,3 +1,17 @@
+---
+title: Open PostDoc Position in Machine Learning
+date: 2024-07-14 10:20
+category: Jobs
+tags: Professional Developement
+author: Glen Berseth
+published: Online
+authors: Glen Berseth
+summary: Looking to shape the future of machine learning? Interested in doing research in a stimulating, collaborative academic environment? We ([Glen Berseth](http://www.fracturedplane.com/) and [Yoshua Bengio](https://yoshuabengio.org/)) are hiring a postdoctoral researcher to collaborate across our labs. This position will be at Mila, the world-renowned AI hub located in Montreal, Canada—home to over 1,000 people pushing the boundaries of AI research. For this call, we are prioritizing candidates with experience in reinforcement learning, scientific discovery, or high-impact applications of ML. However, candidates who overlap in related areas are encouraged to apply.
+layout: page
+type: Professional Development
+titleShort: Open Position
+layout: page
+---
 
 Looking to shape the future of machine learning? Interested in doing research in a stimulating, collaborative academic environment? We ([Glen Berseth](http://www.fracturedplane.com/) and [Yoshua Bengio](https://yoshuabengio.org/)) are hiring a postdoctoral researcher to collaborate across our labs. This position will be at Mila, the world-renowned AI hub located in Montreal, Canada—home to over 1,000 people pushing the boundaries of AI research. For this call, we are prioritizing candidates with experience in reinforcement learning, scientific discovery, or high-impact applications of ML. However, candidates who overlap in related areas are encouraged to apply.
 
