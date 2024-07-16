@@ -50,7 +50,29 @@
       fr: Generalization
     - en: Planning
       fr: Planification
-      
+
+- name: Victor Gilbert
+  title: ugrad
+  picture: victor
+  website: https://www.linkedin.com/in/victorgilbertp
+  period:
+    start: 2024-05-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+
+- name: Amine Obeid
+  title: ugrad
+  picture: amine
+  website: https://www.linkedin.com/in/amine-obeid-71b767223
+  period:
+    start: 2024-05-01
+  topics:
+    - en: Deep learning
+      fr: Apprentissage profound
+
 - name: Cyrus Neary
   title: postdoc
   picture: cyrus
@@ -110,6 +132,54 @@
   website: https://albertzhan.github.io/
   period:
     start: 2022-03-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+
+- name: Daniel Lawson
+  title: phd
+  picture: daniel-l
+  website: https://danielblawson.github.io/
+  period:
+    start: 2024-09-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+
+- name: Özgür Aslan
+  title: phd
+  picture: ozgur-a
+  website: linkedin.com/in/ozgraslan9
+  period:
+    start: 2024-09-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+
+- name: Artur Kuramshin
+  title: master
+  picture: artur-k
+  website: https://akuramshin.github.io/
+  period:
+    start: 2024-09-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+
+- name: Alexandre Brown
+  title: master
+  picture: alexandre-b
+  website: linkedin.com/in/alexandrebrown
+  period:
+    start: 2024-09-01
   topics:
     - en: Deep Reinforcement Learning
       fr: Apprentissage par renforcement
@@ -206,11 +276,11 @@
       fr: Les règles de mise à échelle
 
 - name: Roger Creus
-  title: master
+  title: phd
   picture: rogercreus
   website: https://roger-creus.github.io/
   period:
-    start: 2022-08-31
+    start: 2024-08-31
   topics:
     - en: Reinforcement Learning
       fr: Apprentissage profond par renforcement

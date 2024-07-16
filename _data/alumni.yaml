@@ -19,7 +19,18 @@
     start: 2022-08-31
     end: 2023-09-01
   next:
-    en: Research Assistant @ Mila
+    en: PhD @ Mila
+    fr: Ou
+
+- name: Roger Creus
+  title: master
+  picture: rogercreus
+  website: https://roger-creus.github.io/
+  period:
+    start: 2022-08-31
+    end: 2024-08-31
+  next:
+    en: PhD @ Mila
     fr: Ou
 
 - name: Rodney Yi
@@ -74,7 +85,7 @@
     start: 2022-04-01
     end: 2023-03-01
   next:
-    en: MSc at Mila
+    en: MSc @ Mila
     fr: Ou
     
 - name: Saurabh Bodhe
