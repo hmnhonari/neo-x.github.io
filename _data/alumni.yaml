@@ -134,7 +134,7 @@
   website: https://rajghugare19.github.io/
   period:
     start: 2022-04-01
-    end: 2024-05-1
+    end: 2024-05-01
   topics:
     - en: Deep reinforcement learning
       fr: Traitement du langage naturel
