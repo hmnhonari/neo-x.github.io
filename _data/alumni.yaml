@@ -143,3 +143,19 @@
   next:
     en: PhD @ Princeton
     fr: Ou
+
+- name: Faisal Ahmed
+  title: intern
+  picture: faisal
+  website: https://faisalahmed0.github.io/
+  period:
+    start: 2023-10-02
+    end: 2024-09-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond
+    - en: Unsupervised Reinforcement Learning
+      fr: Unsupervised Reinforcement Learning
+  next:
+    en: MSc @ Mila
+    fr: Ou
