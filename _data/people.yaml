@@ -63,16 +63,6 @@
     - en: Robotics
       fr: Robotique
 
-- name: Amine Obeid
-  title: ugrad
-  picture: amine
-  website: https://www.linkedin.com/in/amine-obeid-71b767223
-  period:
-    start: 2024-05-01
-  topics:
-    - en: Deep learning
-      fr: Apprentissage profound
-
 - name: Cyrus Neary
   title: postdoc
   picture: cyrus
@@ -227,26 +217,16 @@
       fr: Les règles de mise à échelle
       
 - name: Faisal Ahmed
-  title: intern
+  title: master
   picture: faisal
   website: https://faisalahmed0.github.io/
   period:
-    start: 2023-10-02
+    start: 2024-09-01
   topics:
     - en: Deep Reinforcement Learning
       fr: Apprentissage profond
     - en: Unsupervised Reinforcement Learning
       fr: Unsupervised Reinforcement Learning
-      
-- name: Jiajun Fan
-  title: intern
-  picture: jiajun
-  website: https://www.jiajunfan.com/
-  period:
-    start: 2023-10-15
-  topics:
-    - en: Reinforcement Learning 
-      fr: Apprentissage par renforcement
       
 - name: Michael Przystupa
   title: intern
@@ -288,18 +268,6 @@
       fr: Causalité
     - en: Robotics
       fr: Les règles de mise à échelle
-
-- name: Raj Ghugare
-  title: master
-  picture: raj-g
-  website: https://rajghugare19.github.io/
-  period:
-    start: 2022-04-01
-  topics:
-    - en: Deep reinforcement learning
-      fr: Traitement du langage naturel
-    - en: Representation Learning
-      fr: Apprentissage profond
 
 - name: Kirsty Ellis
   title: dev
