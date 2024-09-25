@@ -303,6 +303,22 @@
     - en: Sustainable Development
       fr: Développement durable
 
+- name: Alexandre Brown
+  title: master
+  picture: alexbrown
+  website: https://alexandrebrown.github.io/
+  period:
+    start: 2024-09-01
+  topics:
+    - en: Robotics
+      fr: Robotique
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Visual Reinforcement Learning
+      fr: Apprentissage par renforcement visuel
+    - en: Unsupervised Reinforcement Learning
+      fr: Apprentissage par renforcement non supervisé
+
 - name: Parnika
   title: intern
   picture: parnika
