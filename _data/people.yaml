@@ -163,18 +163,6 @@
       fr: Apprentissage par renforcement
     - en: Robotics
       fr: Robotique
-
-- name: Alexandre Brown
-  title: master
-  picture: alexandre-b
-  website: linkedin.com/in/alexandrebrown
-  period:
-    start: 2024-09-01
-  topics:
-    - en: Deep Reinforcement Learning
-      fr: Apprentissage par renforcement
-    - en: Robotics
-      fr: Robotique
       
 - name: Charlie Gauthier
   title: phd
@@ -310,14 +298,14 @@
   period:
     start: 2024-09-01
   topics:
-    - en: Robotics
-      fr: Robotique
-    - en: Deep Reinforcement Learning
-      fr: Apprentissage profond par renforcement
     - en: Visual Reinforcement Learning
       fr: Apprentissage par renforcement visuel
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond par renforcement
     - en: Unsupervised Reinforcement Learning
       fr: Apprentissage par renforcement non supervisé
+    - en: Robotics
+      fr: Robotique
 
 - name: Parnika
   title: intern
