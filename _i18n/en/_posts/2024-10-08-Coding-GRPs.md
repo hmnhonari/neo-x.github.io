@@ -6,10 +6,10 @@ tags: Professional Developement
 author: Glen Berseth
 published: Online
 authors: Glen Berseth
-summary: In this tutorial and code, I share and walk through the process of building a mini generalist robotics policy. Starting from Karpthy’s mini GPT code, we create a vision transformer, and from the vision transformer, we create a generalist robotics policy, which is a type of multi-modal model. The final model is based on the paper “Octo: An Open-Source Generalist Robot Policy,” which is a great paper that includes open-source code. 
+summary: In this tutorial and code, I share and walk through the process of building a mini generalist robotics policy. Starting from Karpthy’s mini GPT code, we create a vision transformer, and from the vision transformer, we create a generalist robotics policy, which is a type of multi-modal model. The final model is based on the paper "Octo An Open-Source Generalist Robot Policy" which is a great paper that includes open-source code. 
 layout: page
 type: Professional Development
-titleShort: Open Position
+titleShort: Generalist Robotics Policies
 layout: page
 ---
 
