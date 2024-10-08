@@ -107,9 +107,6 @@
   period:
     start: 2024-05-01
     end: 2024-09-01
-  topics:
-    en: Deep learning
-    fr: Apprentissage profound
   next:
     en: Industry
     fr: Ou
@@ -121,9 +118,6 @@
   period:
     start: 2023-10-15
     end: 2024-09-01
-  topics:
-    - en: Reinforcement Learning 
-      fr: Apprentissage par renforcement
   next:
     en: PhD
     fr: Ou
@@ -135,11 +129,6 @@
   period:
     start: 2022-04-01
     end: 2024-05-01
-  topics:
-    - en: Deep reinforcement learning
-      fr: Traitement du langage naturel
-    - en: Representation Learning
-      fr: Apprentissage profond
   next:
     en: PhD @ Princeton
     fr: Ou
@@ -151,11 +140,6 @@
   period:
     start: 2023-10-02
     end: 2024-09-01
-  topics:
-    - en: Deep Reinforcement Learning
-      fr: Apprentissage profond
-    - en: Unsupervised Reinforcement Learning
-      fr: Unsupervised Reinforcement Learning
   next:
     en: MSc @ Mila
     fr: Ou
