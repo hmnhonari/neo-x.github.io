@@ -102,7 +102,7 @@
     
 - name: Amine Obeid
   title: ugrad
-  picture: amine
+  profile_page: false
   website: https://www.linkedin.com/in/amine-obeid-71b767223
   period:
     start: 2024-05-01
@@ -113,7 +113,7 @@
 
 - name: Jiajun Fan
   title: intern
-  picture: jiajun
+  profile_page: false
   website: http://www.jiajunfan.com/
   period:
     start: 2023-10-15
@@ -124,7 +124,7 @@
 
 - name: Raj Ghugare
   title: master
-  picture: raj-g
+  profile_page: false
   website: https://rajghugare19.github.io/
   period:
     start: 2022-04-01
@@ -135,7 +135,7 @@
 
 - name: Faisal Ahmed
   title: intern
-  picture: faisal
+  profile_page: false
   website: https://faisalahmed0.github.io/
   period:
     start: 2023-10-02
