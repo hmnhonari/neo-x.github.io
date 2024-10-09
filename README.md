@@ -109,7 +109,7 @@ As the maintainer you may need to make modification which require local validati
 ### Install
 
 ```bash
-sudo apt-get install ruby-bundler ruby-dev
+sudo apt-get install ruby-bundler ruby-dev build-essential autoconf libtool
 bundle install
 ```
 
