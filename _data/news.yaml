@@ -6,6 +6,10 @@
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
 
+- en: 'Three new papers accepted to NeurIPS 2024 on inverse safe RL, converting and scaling deepRL algorithms, and Amortizing intractable inference!'
+  fr: "Trois nouveaux articles acceptés à NeurIPS 2024 sur l'inverse safe RL, la conversion et la mise à l'échelle des algorithmes deepRL, et l'amortissement de l'inférence intraitable !"
+  date: 2024-11-01
+  
 - en: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
   fr: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
   date: 2024-06-16
@@ -33,10 +37,12 @@
 - en: 'New paper accepted to <a href="https://jmlr.org/papers/v24/21-1174.html">JMLR on improving imitation learning from video</a>!'
   fr: 'New paper accepted to <a href="https://jmlr.org/papers/v24/21-1174.html">JMLR on improving imitation learning from video</a>!'
   date: 2023-03-01
+  hidden: true
   
 - en: 'Completed the first <a href="https://mila.quebec/en/mila-robotics-summer-school/">Montreal Robotics Summer School</a>'
   fr: 'Completed the first <a href="https://mila.quebec/en/mila-robotics-summer-school/">Montreal Robotics Summer School</a>'
   date: 2022-08-01
+  hidden: true
   
 - en: '<a href="https://arxiv.org/abs/2208.01160">New paper at IROS on quadruped robots learning soccer shooting skills.</a> IROS Best RoboCup Paper Award Finalist!' 
   fr: 'q'
