@@ -9,6 +9,10 @@
 - en: 'Three new papers accepted to NeurIPS 2024 on inverse safe RL, converting and scaling deepRL algorithms, and Amortizing intractable inference!'
   fr: "Trois nouveaux articles acceptés à NeurIPS 2024 sur l'inverse safe RL, la conversion et la mise à l'échelle des algorithmes deepRL, et l'amortissement de l'inférence intraitable !"
   date: 2024-11-01
+
+- en: "The first <a href='https://rl-conference.cc/'>Conference on Reinforecment Learning</a> was a blast!"
+  fr: "La première <a href=« https://rl-conference.cc/ »>Conférence sur l'apprentissage par renforcement</a> a été un véritable succès!"
+  date: 2024-08-15
   
 - en: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
   fr: 'New paper accepted to RSS 2024 on <a href="https://droid-dataset.github.io/">Making more diverse data sets for improving generalist robot policies</a>!'
