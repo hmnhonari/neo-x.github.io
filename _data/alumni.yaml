@@ -114,12 +114,12 @@
 - name: Jiajun Fan
   title: intern
   profile_page: false
-  website: http://www.jiajunfan.com/
+  website: https://scholar.google.com/citations?user=EjmzseUAAAAJ
   period:
     start: 2023-10-15
     end: 2024-09-01
   next:
-    en: PhD
+    en: PhD @ University of Illinois Urbana-Champaign
     fr: Ou
 
 - name: Raj Ghugare
