@@ -331,3 +331,18 @@
       fr: Apprentissage profond par renforcement
     - en: Morphology-agnostic Learning 
       fr: Apprentissage agnostique à la morphologie
+
+- name: Charlotte Cloutier
+  title: intern
+  picture: charlotte
+  website: https://www.linkedin.com/in/charlotte-cloutier-994654203/
+  period:
+    start: 2025-01-06
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Sustainable Development
+      fr: Développement durable
+    - en: Urban Agriculture
+      fr: Urban Agriculture
+
