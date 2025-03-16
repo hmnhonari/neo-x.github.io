@@ -96,19 +96,19 @@ git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
 git push -f -q origin $DEPLOY_BRANCH
 
 
-git rm --cached website-assets
+git rm --cached assets
 git commit -m"remove"
 git push -f -q origin $DEPLOY_BRANCH
-git add website-assets
+git add assets
 git commit -m"add"
 git push -f -q origin $DEPLOY_BRANCH
 
 # Move back to SRC_BRANCH
 git checkout $SRC_BRANCH
-rm -rf website-assets
+rm -rf assets
 git submodule init
 git submodule update
-cd website-assets
+cd assets
 git checkout master
 cd ..
 echo "Deployed successfully!"
