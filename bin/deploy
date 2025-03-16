@@ -96,7 +96,7 @@ git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
 git push -f -q origin $DEPLOY_BRANCH
 
 
-git rm --cached assets
+git rm -r --cached assets
 git commit -m"remove"
 git push -f -q origin $DEPLOY_BRANCH
 git add assets
@@ -109,7 +109,7 @@ rm -rf assets
 git submodule init
 git submodule update
 cd assets
-git checkout master
+git reset --hard origin/main
 cd ..
 echo "Deployed successfully!"
 
