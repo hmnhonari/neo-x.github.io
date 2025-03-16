@@ -19,7 +19,7 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Compile Jekyll website and publish
-    - uses: helaili/jekyll-action@v2
+    - uses: helaili/jekyll-action@v2.1.0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
