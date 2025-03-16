@@ -6,7 +6,11 @@
 #   Therefore, do not remove old news, simply set the hidden: true
 #   property.
 
-- en: 'Three new papers accepted to NeurIPS 2024 on inverse safe RL, converting and scaling deepRL algorithms, and Amortizing intractable inference!'
+- en: 'Three new papers accepted to ICLR 2025 on <a href="http://arxiv.org/abs/2411.07007">efficient imitation learning</a>, <a href="https://openreview.net/forum?id=HH4KWP8RP5">exploration for GFNs</a>, and <a href="https://arxiv.org/abs/2412.14355">realtime reinforcementlearning</a>!'
+  fr: "Trois nouveaux articles acceptés à NeurIPS 2024 sur l'inverse safe RL, la conversion et la mise à l'échelle des algorithmes deepRL, et l'amortissement de l'inférence intraitable !"
+  date: 2025-01-01
+
+- en: 'Three new papers accepted to NeurIPS 2024 on <a href="https://openreview.net/forum?id=T5Cerv7PT2">inverse safe RL</a>, <a href="http://arxiv.org/abs/2409.04792">converging and scaling deepRL algorithms</a>, and <a href="http://arxiv.org/abs/2405.20971">amortizing intractable inference</a>!'
   fr: "Trois nouveaux articles acceptés à NeurIPS 2024 sur l'inverse safe RL, la conversion et la mise à l'échelle des algorithmes deepRL, et l'amortissement de l'inférence intraitable !"
   date: 2024-11-01
 

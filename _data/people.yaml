@@ -51,18 +51,6 @@
     - en: Planning
       fr: Planification
 
-- name: Victor Gilbert
-  title: ugrad
-  picture: victor
-  website: https://www.linkedin.com/in/victorgilbertp
-  period:
-    start: 2024-05-01
-  topics:
-    - en: Reinforcement learning
-      fr: Apprentissage par renforcement
-    - en: Robotics
-      fr: Robotique
-
 - name: Cyrus Neary
   title: postdoc
   picture: cyrus
@@ -74,18 +62,6 @@
       fr: Apprentissage par renforcement
     - en: Safety
       fr: Sequrité
-      
-- name: Hongyao Tang
-  title: postdoc
-  picture: hongyao
-  website: https://bluecontra.github.io/
-  period:
-    start: 2023-12-01
-  topics:
-    - en: Deep Reinforcement learning
-      fr: Apprentissage par renforcement
-    - en: Representation learning
-      fr: Representation learning
    
 - name: Siddarth Venkatraman
   title: phd
@@ -164,21 +140,6 @@
       fr: Apprentissage par renforcement
     - en: Robotics
       fr: Robotique
-      
-- name: Charlie Gauthier
-  title: phd
-  cosupervisor: Liam Paull
-  picture: charlie
-  website: https://www.linkedin.com/in/charlie-gauthier/?originalSubdomain=ca
-  period:
-    start: 2023-01-01
-  topics:
-    - en: Deep Reinforcement Learning
-      fr: Apprentissage par renforcement
-    - en: Robotics
-      fr: Robotique
-    - en: Sim2Real
-      fr: Sim2Real
       
 - name: Esra'a Saleh
   title: phd
@@ -307,18 +268,6 @@
       fr: Apprentissage par renforcement non supervisé
     - en: Robotics
       fr: Robotique
-
-- name: Parnika
-  title: intern
-  picture: parnika
-  website: https://mila.quebec/en/parnika-parnika
-  period:
-    start: 2024-05-06
-  topics:
-    - en: Reinforcement Learning
-      fr: Apprentissage par renforcement
-    - en: Multi-task Generalisation
-      fr: Généralisation multitâche
 
 - name: Tabitha Edith Lee
   title: postdoc

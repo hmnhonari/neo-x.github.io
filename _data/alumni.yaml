@@ -143,3 +143,66 @@
   next:
     en: MSc @ Mila
     fr: Ou
+
+- name: Hongyao Tang
+  title: postdoc
+  picture: hongyao
+  website: https://bluecontra.github.io/
+  period:
+    start: 2023-12-01
+    end: 2025-02-01
+  topics:
+    - en: Deep Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Representation learning
+      fr: Representation learning
+  next:
+    en: Professor @ Tianjin Univeristy
+    fr: Ou
+
+- name: Victor Gilbert
+  title: ugrad
+  picture: victor
+  website: https://www.linkedin.com/in/victorgilbertp
+  period:
+    start: 2024-05-01
+    end: 2024-08-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+  next:
+    en: Continues as Ungergraduate at Polytechnique
+    fr: Ou
+
+- name: Parnika Parnika
+  title: intern
+  picture: parnika
+  website: https://mila.quebec/en/parnika-parnika
+  period:
+    start: 2024-05-06
+    end: 2024-12-06
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Multi-task Generalisation
+      fr: Généralisation multitâche
+  next:
+    en: MSc @ Mila
+    fr: Ou
+
+- name: Charlie Gauthier
+  title: phd
+  cosupervisor: Liam Paull
+  picture: charlie
+  website: https://www.linkedin.com/in/charlie-gauthier/?originalSubdomain=ca
+  period:
+    start: 2023-01-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage par renforcement
+    - en: Robotics
+      fr: Robotique
+    - en: Sim2Real
+      fr: Sim2Real
