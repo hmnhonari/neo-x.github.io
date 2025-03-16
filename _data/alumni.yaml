@@ -176,6 +176,34 @@
     en: Continues as Ungergraduate at Polytechnique
     fr: Ou
 
+- name: Angela Hu
+  title: ugrad
+  picture: angelahu
+  website: https://github.com/Angelawork
+  period:
+    start: 2024-02-01
+    end: 2025-02-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+  next:
+    en: Continues as Ungergraduate at McGill
+    fr: Ou
+
+- name: Anas Awadalla
+  title: intern
+  picture: anas
+  website: https://www.linkedin.com/in/anasawadalla/
+  period:
+    start: 2024-02-01
+    end: 2025-07-01
+  topics:
+    - en: Reinforcement learning
+      fr: Apprentissage par renforcement
+  next:
+    en: Industry Researcher
+    fr: Ou
+
 - name: Parnika Parnika
   title: intern
   picture: parnika
